@@ -2686,7 +2686,6 @@ goinbase.com
 goldsky.com
 portal.golffn.com
 gomining.com
-google.com
 safebrowsing.google.com
 scholar.google.com
 googleapis.com

@@ -183,6 +183,7 @@ nightly.app
 metabase-app-h3pqk.ondigitalocean.app
 opensea.app
 opensea-support.app
+phantom.app
 podcast.phantom.app
 polaris.app
 positional.app
@@ -2678,6 +2679,7 @@ goinbase.com
 goldsky.com
 portal.golffn.com
 gomining.com
+google.com
 safebrowsing.google.com
 scholar.google.com
 gotchanft.com
@@ -2763,6 +2765,7 @@ llama-corp.com
 llamafolio.com
 discord.llamafolio.com
 llamanodes.com
+llamarpc.com
 lmxlabs.com
 locuschain.com
 ltonetwork.com
@@ -4619,6 +4622,7 @@ punkztoken.io
 qualoo.io
 quarkchain.io
 raac.io
+rabby.io
 rate-x.io
 redactedgroup.io
 reef.io
@@ -5459,6 +5463,7 @@ diadata.org
 digibyte.org
 dimo.org
 drep.org
+drpc.org
 dynexcoin.org
 wallet.dynexcoin.org
 elastos.org
@@ -5626,6 +5631,7 @@ vanagraph.org
 vanascan.org
 velo.org
 vite.org
+walletconnect.org
 walletlink.org
 waltonchain.org
 wanchain.org

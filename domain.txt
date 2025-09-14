@@ -2685,6 +2685,7 @@ gomining.com
 google.com
 safebrowsing.google.com
 scholar.google.com
+googleusercontent.com
 gotchanft.com
 grandgangstacity.com
 gsdax.com
@@ -5641,6 +5642,7 @@ walletlink.org
 waltonchain.org
 wanchain.org
 wardenprotocol.org
+web3modal.org
 en.wikipedia.org
 winklink.org
 woo.org

@@ -2690,6 +2690,7 @@ google.com
 safebrowsing.google.com
 scholar.google.com
 googleapis.com
+fonts.googleapis.com
 googleusercontent.com
 gotchanft.com
 grandgangstacity.com
@@ -2819,6 +2820,7 @@ mefoundation.com
 megaeth.com
 memecore.com
 memnft.com
+meowrpc.com
 meria.com
 minter.merkly.com
 metadium.com
@@ -4313,6 +4315,7 @@ docs.1inch.io
 forward.1inch.io
 gov.1inch.io
 help.1inch.io
+1rpc.io
 3dos.io
 4pillars.io
 a-ha.io
@@ -4484,6 +4487,7 @@ alt-research.github.io
 bitshares.github.io
 coinbase.github.io
 fuellabs.github.io
+metamask.github.io
 glif.io
 gmx.io
 gopluslabs.io

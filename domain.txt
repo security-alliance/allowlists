@@ -2020,6 +2020,7 @@ support.gitcoin.co
 grantsstack.co
 imperator.co
 investcoinbase.co
+ipregistry.co
 lmxlabs.co
 mdex.co
 mistenlabs.co
@@ -6278,6 +6279,7 @@ hub.xyz
 app.hyperbolic.xyz
 hyperion.xyz
 hyperlane.xyz
+hyperliquid.xyz
 sui.hyperspace.xyz
 app.hyperwavefi.xyz
 icebreaker.xyz

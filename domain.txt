@@ -4547,6 +4547,7 @@ megapot.io
 meritcircle.io
 metahero.io
 metaleap.io
+metamask.io
 community.metamask.io
 metana.io
 metars.io

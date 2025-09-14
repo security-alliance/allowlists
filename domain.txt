@@ -153,6 +153,7 @@ deepdrop.app
 defi.app
 docs.defi.app
 dfast.app
+eo.app
 freighter.app
 goatai.app
 hashpack.app

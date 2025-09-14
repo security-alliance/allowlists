@@ -2207,6 +2207,7 @@ cbam-usa.com
 cbassetmgmt.com
 cbkstarter.com
 ccoinbase.com
+cdnfonts.com
 cdoinbase.com
 celocamp.com
 cfoinbase.com
@@ -3148,6 +3149,7 @@ tagomisystem.com
 tagomisystems.com
 tagomitrading.com
 tagorni.com
+tailwindcss.com
 talent-base.com
 talentbase.com
 talentprotocol.com
@@ -4655,6 +4657,7 @@ scrollchain.io
 seadn.io
 sembra.io
 sentinelprotocol.io
+sentry.io
 shibarium.shib.io
 singularitynet.io
 slex.io

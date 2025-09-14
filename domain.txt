@@ -2090,6 +2090,7 @@ alignedlayer.com
 allora-ecosystem.com
 altura.com
 amlbot.com
+ankr.com
 aoinbase.com
 aon.com
 apechain.com
@@ -2960,6 +2961,7 @@ procoinbase.com
 portal.projectserum.com
 proofofplay.com
 propy.com
+publicnode.com
 pulsar.com
 pundix.com
 punkztoken.com

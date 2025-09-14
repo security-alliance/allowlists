@@ -4501,6 +4501,7 @@ icp0.io
 idex.io
 indigoprotocol.io
 inferix.io
+infura.io
 instantsell.io
 interchain.io
 interchainlabs.io

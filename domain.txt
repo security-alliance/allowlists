@@ -2228,6 +2228,7 @@ ckoinbase.com
 clashofcoins.com
 clementmurphy.com
 cloinbase.com
+cloudflare.com
 cloudflareaccess.com
 1inch.cloudflareaccess.com
 plume-network.cloudflareaccess.com
@@ -2685,6 +2686,7 @@ gomining.com
 google.com
 safebrowsing.google.com
 scholar.google.com
+googleapis.com
 googleusercontent.com
 gotchanft.com
 grandgangstacity.com
@@ -5077,6 +5079,7 @@ hydration.net
 insuretoken.net
 io.net
 docs.io.net
+jsdelivr.net
 layerxtech.net
 liquid.net
 maidsafe.net

@@ -5157,6 +5157,8 @@ zkaf.net
 acala.network
 adex.network
 aioz.network
+docs.akash.network
+forum.akash.network
 arcana.network
 arch.network
 artela.network

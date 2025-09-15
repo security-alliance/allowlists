@@ -5367,6 +5367,7 @@ onebridge.one
 oneexchange.one
 onerepo.one
 persistence.one
+playtron.one
 ponder.one
 coinbasecard.onl
 c10nbase.online

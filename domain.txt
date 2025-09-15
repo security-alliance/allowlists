@@ -3903,6 +3903,7 @@ huma.finance
 infrared.finance
 izumi.finance
 kai.finance
+docs.kai.finance
 kinza.finance
 kriya.finance
 app.kriya.finance

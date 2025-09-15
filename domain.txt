@@ -2145,6 +2145,7 @@ bit2me.com
 trade.bitazza.com
 bitcichain.com
 wallet.bitcichain.com
+blog.bitcoin.com
 bitcointry.com
 bitdelta.com
 bitflyer.com
@@ -3032,6 +3033,7 @@ rotki.com
 royaltydao.com
 royselbach.com
 rpciege.com
+rumble.com
 rvcaymancalling.com
 rymedi.com
 safepal.com

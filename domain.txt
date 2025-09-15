@@ -5159,6 +5159,7 @@ adex.network
 aioz.network
 docs.akash.network
 forum.akash.network
+docs.allora.network
 arcana.network
 arch.network
 artela.network

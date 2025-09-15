@@ -5578,6 +5578,7 @@ nexa.org
 nftdegen.org
 nkn.org
 story-faucet.nodefleet.org
+notcoin.org
 nuralchain.org
 oasisprotocol.org
 oax.org

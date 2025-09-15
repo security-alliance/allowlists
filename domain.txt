@@ -6217,6 +6217,7 @@ aeroswap.xyz
 aevo.xyz
 degen.aevo.xyz
 alphafi.xyz
+docs.alphafi.xyz
 alva.xyz
 alvara.xyz
 anvil.xyz

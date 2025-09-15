@@ -2690,6 +2690,7 @@ portal.golffn.com
 gomining.com
 safebrowsing.google.com
 scholar.google.com
+sites.google.com
 googleapis.com
 fonts.googleapis.com
 googleusercontent.com

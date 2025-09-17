@@ -6222,7 +6222,6 @@ coinbasenft.work
 coinbasepro.work
 coinbasecard.works
 coinbasecloud.works
-web3.bgw.world
 fncy.world
 gamium.world
 misten.world

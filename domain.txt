@@ -3639,6 +3639,7 @@ bill-camp-net-worth.pages.dev
 flixflare-down.pages.dev
 geekflaread.pages.dev
 geekflareak.pages.dev
+geekflareal.pages.dev
 governance-1inch-community.pages.dev
 lab-walletconnect-modal.pages.dev
 metamask-connector-test.pages.dev
@@ -3661,6 +3662,7 @@ docs.weavedb.dev
 join.zksync.dev
 bit.diamonds
 opensea.diamonds
+brightflarezone.digital
 coinbasecard.digital
 eoi.digital
 misten.digital

@@ -11,6 +11,7 @@ coinbase.af
 coinbase.africa
 opensea.africa
 7k.ag
+docs.7k.ag
 port.7k.ag
 coinbase.ag
 app.meteora.ag

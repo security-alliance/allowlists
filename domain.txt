@@ -3930,6 +3930,7 @@ kriya.finance
 app.kriya.finance
 linear.finance
 liquifi.finance
+claim.lombard.finance
 docs.lombard.finance
 lyra.finance
 makina.finance

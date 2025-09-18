@@ -3603,6 +3603,7 @@ mysten.design
 mystenlabs.design
 mystenlabsnft.design
 mystennft.design
+newsoft.design
 sui.design
 aurora.dev
 base.dev
@@ -3779,6 +3780,7 @@ coinbasepro.exchange
 coinbasexchange.exchange
 dango.exchange
 delta.exchange
+dln.exchange
 dydx.exchange
 hyperswap.exchange
 jumper.exchange
@@ -3907,10 +3909,12 @@ app.cream.finance
 cultured.finance
 cvault.finance
 cygnus.finance
+dbr.finance
 dego.finance
 demask.finance
 dexodus.finance
 dfx.finance
+dln.finance
 ellipsis.finance
 emblem.finance
 enzyme.finance
@@ -4384,6 +4388,7 @@ arpanetwork.io
 artblocks.io
 assembleprotocol.io
 ai.assembleprotocol.io
+atomics.io
 axelarscan.io
 beldex.io
 beratrail.io
@@ -5951,6 +5956,7 @@ coinbase.team
 coinbasecard.team
 coinbasecloud.team
 opensea.team
+phenom.team
 usual.team
 zama.team
 agara.tech
@@ -6058,6 +6064,8 @@ hunt.town
 bitci.com.tr
 axiom.trade
 testnet.cvex.trade
+din.trade
+dln.trade
 dydx.trade
 ethereal.trade
 flamix.trade

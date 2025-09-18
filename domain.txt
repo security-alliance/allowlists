@@ -3857,6 +3857,7 @@ kiln.fi
 app.kyros.fi
 lamao.fi
 li.fi
+docs.li.fi
 lido.fi
 llama.fi
 docs.llama.fi

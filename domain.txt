@@ -5529,6 +5529,8 @@ cudos.org
 dash.org
 newsroom.dash.org
 dawn.org
+debridge.org
+debridgefoundation.org
 decred.org
 proposals.decred.org
 deepbrainchain.org

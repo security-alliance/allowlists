@@ -2533,6 +2533,7 @@ gmonad.daucards.com
 dawninternet.com
 dcoinbase.com
 debank.com
+debridge.com
 decimalchain.com
 dedgesecurity.com
 deepcoin.com
@@ -5123,6 +5124,7 @@ coinbasexchange.net
 coinomi.net
 coins-base.net
 blog.csdn.net
+debridge.net
 defigram.net
 degenroyale.net
 dflow.net

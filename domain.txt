@@ -5322,6 +5322,7 @@ parasail.network
 pell.network
 phala.network
 docs.pi2.network
+portal.pi2.network
 pipe.network
 platon.network
 plats.network
@@ -6340,6 +6341,8 @@ arbitrum.ecosystem-demo.xyz
 eigenlayer.xyz
 eigenyields.xyz
 elixir.xyz
+explorer.fastset.xyz
+wallet.fastset.xyz
 fermah.xyz
 flare.xyz
 fleek.xyz

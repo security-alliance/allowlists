@@ -1913,6 +1913,7 @@ coinbaseinvestorday.chat
 flr.chat
 savant.chat
 sgb.chat
+circle.ci
 coinbase.cl
 coinbaseprime.cl
 c10nbase.click
@@ -2234,6 +2235,7 @@ ciinbase.com
 cinbase.com
 cioinbase.com
 cionbsae.com
+circleci.com
 civic.com
 ckinbase.com
 ckoinbase.com

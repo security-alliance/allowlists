@@ -6174,6 +6174,7 @@ trmlabs.us
 coinbase.vc
 longhash.vc
 reforge.vc
+starknet.vc
 coinbasecard.ventures
 coinbasecloud.ventures
 coinbase.vg

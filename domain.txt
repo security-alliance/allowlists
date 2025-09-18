@@ -1789,6 +1789,8 @@ opensea.boats
 ape.bond
 coinbase.bond
 coinbase.bot
+stage.box
+starknet.stage.box
 symbiotic.box
 coinbaseprime.com.br
 foxbit.com.br

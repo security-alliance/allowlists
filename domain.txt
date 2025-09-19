@@ -4938,6 +4938,7 @@ mysten.link
 mystenlabs.link
 mystenlabsnft.link
 mystennft.link
+payy.link
 relay.link
 rosetta-api.link
 spindl.link

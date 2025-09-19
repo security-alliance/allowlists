@@ -661,6 +661,7 @@ mvr-git-pat-seperate-mvr-env-sui-foundation.vercel.app
 mvr-git-pat-upgrade-move-binding-sui-foundation.vercel.app
 mvr-git-tharbert-docker-api-sui-foundation.vercel.app
 mvr-git-tharbert-indexer-env-sui-foundation.vercel.app
+mysten-chatapp.vercel.app
 opensea-teaser.vercel.app
 overflow-landing-page.vercel.app
 overflow-landing-page-git-main-sui-foundation.vercel.app

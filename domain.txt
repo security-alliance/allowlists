@@ -3929,6 +3929,7 @@ enzyme.finance
 etherex.finance
 exponent.finance
 falcon.finance
+fibrous.finance
 firelight.finance
 flamingo.finance
 flowx.finance

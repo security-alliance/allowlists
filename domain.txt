@@ -4709,7 +4709,6 @@ renproject.io
 reswap.io
 rialo.io
 rollblock.io
-whitepaper.rollblockpresale.io
 rootstock.io
 rss3.io
 runonflux.io

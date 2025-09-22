@@ -3793,6 +3793,7 @@ coinbasemarkets.exchange
 coinbaseprime.exchange
 coinbasepro.exchange
 coinbasexchange.exchange
+cube.exchange
 dango.exchange
 delta.exchange
 dln.exchange

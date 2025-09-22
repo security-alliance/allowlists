@@ -6349,6 +6349,7 @@ arbitrum.ecosystem-demo.xyz
 eigenlayer.xyz
 eigenyields.xyz
 elixir.xyz
+ellipsislabs.xyz
 explorer.fastset.xyz
 wallet.fastset.xyz
 fermah.xyz

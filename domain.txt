@@ -3601,6 +3601,7 @@ mystenlabsnft.cool
 mystennft.cool
 sui.cool
 opensea.creator
+bond.credit
 coinbase.credit
 nest.credit
 app.nest.credit

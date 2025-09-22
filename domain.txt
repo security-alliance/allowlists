@@ -6399,6 +6399,7 @@ irys.xyz
 irysarcade.xyz
 jesse.xyz
 kalefarm.xyz
+kaleidofinance.xyz
 karnot.xyz
 kast.xyz
 kelpdao.xyz

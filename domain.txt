@@ -3974,6 +3974,7 @@ app.mmt.finance
 mozi.finance
 nept.finance
 articles.nept.finance
+nextype.finance
 omnibtc.finance
 ondo.finance
 owlto.finance

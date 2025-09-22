@@ -2828,6 +2828,7 @@ camelotdex.medium.com
 cellframe.medium.com
 clearpool.medium.com
 cvex.medium.com
+cwallet.medium.com
 horizenlabs.medium.com
 inchnetwork-cn.medium.com
 massalabs.medium.com

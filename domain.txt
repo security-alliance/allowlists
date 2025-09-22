@@ -4199,6 +4199,7 @@ tokenmint.global
 travelrule.global
 trust.global
 zenny.global
+fartcoin.gold
 translate.goog
 coinbase.gr
 coinbaseprime.gr

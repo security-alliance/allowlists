@@ -6562,6 +6562,10 @@ gas.zip
 1inch.zone
 cetus.zone
 app.cetus.zone
+bridge.cetus.zone
+launch.cetus.zone
+terminal.cetus.zone
+vesting.cetus.zone
 cno.zone
 coinbasecloud.zone
 cosmosspaces.zone

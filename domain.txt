@@ -4708,6 +4708,7 @@ remittix.io
 renproject.io
 reswap.io
 rialo.io
+rollblock.io
 rootstock.io
 rss3.io
 runonflux.io

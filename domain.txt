@@ -2630,6 +2630,7 @@ coinomi.freshdesk.com
 frynetworks.com
 fsl.com
 g-dax.com
+gamee.com
 gamerhash.com
 gamesforaliving.com
 gbdax.com
@@ -6563,6 +6564,7 @@ gas.zip
 cetus.zone
 app.cetus.zone
 bridge.cetus.zone
+deepbook.cetus.zone
 launch.cetus.zone
 terminal.cetus.zone
 vesting.cetus.zone

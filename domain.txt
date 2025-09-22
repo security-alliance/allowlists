@@ -6446,6 +6446,7 @@ misten.xyz
 mistenlabs.xyz
 mizulabs.xyz
 docs.mizulabs.xyz
+mogcoin.xyz
 monad.xyz
 monadescrow.xyz
 monadpad.xyz

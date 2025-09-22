@@ -3984,6 +3984,7 @@ perennial.finance
 poolz.finance
 qompredator.finance
 rai.finance
+ranger.finance
 redstone.finance
 rhea.finance
 ribbon.finance

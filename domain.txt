@@ -2824,6 +2824,7 @@ arpa.medium.com
 bitmart-exchange.medium.com
 bobanetwork.medium.com
 camelotdex.medium.com
+cellframe.medium.com
 clearpool.medium.com
 cvex.medium.com
 horizenlabs.medium.com
@@ -5109,6 +5110,7 @@ cbcorp-sbx.net
 cbhq.net
 cbit-stage.net
 cellframe.net
+wiki.cellframe.net
 cennz.net
 chia.net
 coin-base.net
@@ -5153,6 +5155,7 @@ blog.csdn.net
 debridge.net
 defigram.net
 degenroyale.net
+gitlab.demlabs.net
 dflow.net
 domichain.net
 dydx.net

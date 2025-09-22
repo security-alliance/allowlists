@@ -4533,6 +4533,7 @@ get-protocol.io
 gifto.io
 gigaverse.io
 4185063753-files.gitbook.io
+cetus-1.gitbook.io
 gata-1.gitbook.io
 haedal-protocol.gitbook.io
 level-money.gitbook.io
@@ -4898,6 +4899,7 @@ coinbasepro.jp
 coinbasewallet.jp
 coinbase.ke
 cobak.co.kr
+coinone.co.kr
 korbit.co.kr
 coinbase.kr
 coinbaseprime.kr

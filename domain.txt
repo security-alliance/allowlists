@@ -5230,6 +5230,7 @@ artela.network
 claim-acs.astar.network
 shiden.astar.network
 ata.network
+atleta.network
 avax.network
 axelar.network
 docs.aztec.network

@@ -4530,6 +4530,7 @@ fizen.io
 flareoracle.io
 app.flareoracle.io
 flock.io
+fluid.io
 fmfw.io
 fogo.io
 functionx.io

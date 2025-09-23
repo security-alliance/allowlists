@@ -2767,6 +2767,7 @@ joinozone.com
 juliestarkeyauthor.com
 kalichain.com
 kamino.com
+kastcard.com
 kccbd.com
 keeta.com
 kenzolabs.com
@@ -6480,6 +6481,7 @@ opensea.xyz
 opensea-support.xyz
 orion.xyz
 otherside.xyz
+outkast.xyz
 passport.xyz
 peaq.xyz
 perpl.xyz

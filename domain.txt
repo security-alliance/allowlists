@@ -2836,6 +2836,7 @@ clearpool.medium.com
 cvex.medium.com
 cwallet.medium.com
 horizenlabs.medium.com
+htxofficial.medium.com
 inchnetwork-cn.medium.com
 massalabs.medium.com
 nest-protocol.medium.com

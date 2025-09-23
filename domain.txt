@@ -5262,6 +5262,7 @@ artela.network
 claim-acs.astar.network
 shiden.astar.network
 ata.network
+blog.ata.network
 atleta.network
 avax.network
 axelar.network
@@ -6304,6 +6305,7 @@ runiverse.world
 starpower.world
 sui.world
 zenny.world
+ata.ws
 coinbase.ws
 datadex.wtf
 fairground.wtf

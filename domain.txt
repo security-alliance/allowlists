@@ -2606,6 +2606,7 @@ cards.ethxy.com
 plots.ethxy.com
 exchangecoinbase.com
 exmo.com
+ww.facebook.com
 fairx.com
 fameex.com
 fastcheapandoutofcontrol.com

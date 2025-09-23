@@ -5035,6 +5035,7 @@ coinbasecard.management
 apedao.market
 coinbasecard.market
 coinbasecloud.market
+echelon.market
 gmoney.market
 hbar.market
 highstreet.market

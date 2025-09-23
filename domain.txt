@@ -6120,6 +6120,7 @@ axiom.trade
 testnet.cvex.trade
 din.trade
 dln.trade
+app.drift.trade
 dydx.trade
 ethereal.trade
 flamix.trade

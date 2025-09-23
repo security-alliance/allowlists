@@ -3647,6 +3647,7 @@ envio.dev
 essential.dev
 fairx.dev
 token2049.getblock.dev
+helius.dev
 interchainsecurity.dev
 lfglabs.dev
 matterhosted.dev

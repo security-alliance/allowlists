@@ -3885,6 +3885,7 @@ common.fi
 ekiden.fi
 app.ekiden.fi
 docs.ekiden.fi
+exchequer.fi
 factor.fi
 harmonix.fi
 henez.fi

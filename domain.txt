@@ -4057,6 +4057,7 @@ dydx.forum
 algorand.foundation
 allora.foundation
 amo.foundation
+caduceus.foundation
 domin.foundation
 dydx.foundation
 hedera.foundation

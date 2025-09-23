@@ -1950,6 +1950,7 @@ rosetta-api.cloud
 skew.cloud
 suicommunity.cloud
 zama.cloud
+fx.aladdin.club
 c10nbase.club
 coinbasecard.club
 coinbasegiveaway.club

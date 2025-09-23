@@ -6355,6 +6355,7 @@ ariesmarkets.xyz
 checker.babyonbob.xyz
 basehunt.xyz
 beraland.xyz
+bio.xyz
 birdlayer.xyz
 app.blazeswap.xyz
 bobrise.xyz

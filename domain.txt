@@ -5344,6 +5344,7 @@ mystenlabsnft.network
 mystennft.network
 natix.network
 staking.natix.network
+nebulai.network
 nodeops.network
 0g.notifi.network
 omg.network

@@ -6021,6 +6021,7 @@ mystenlabsnft.systems
 mystennft.systems
 skew.systems
 sui.systems
+awaken.tax
 coinbasecard.tax
 coinbase.tc
 chaingpt.team

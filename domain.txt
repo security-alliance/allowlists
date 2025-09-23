@@ -151,6 +151,7 @@ coinbasewallet.app
 coinbasexchange.app
 cointent.app
 conft.app
+cryptomaze.app
 cryptopunks.app
 cybermarket.app
 deepdrop.app

@@ -4973,6 +4973,7 @@ coinbaseinvestorday.link
 coinbasepro.link
 app-venus-io.ipns.dweb.link
 velo.drome.eth.link
+market.link
 misten.link
 mistenlabs.link
 morpho.link

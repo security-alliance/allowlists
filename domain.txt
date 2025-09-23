@@ -6307,6 +6307,7 @@ mysten.world
 mystenlabs.world
 mystenlabsnft.world
 mystennft.world
+netx.world
 runiverse.world
 starpower.world
 sui.world

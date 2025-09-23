@@ -6534,6 +6534,7 @@ sophscan.xyz
 spacen.xyz
 spectrallabs.xyz
 spindl.xyz
+squadboom.xyz
 stable.xyz
 stablelab.xyz
 standwithcrypto.xyz

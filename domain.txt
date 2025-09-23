@@ -6522,6 +6522,7 @@ satlayer.xyz
 scroll.xyz
 uniswap-showcase.sepolia.scroll.xyz
 seatizens.xyz
+selfchain.xyz
 sequence-demos.xyz
 telegram-metamask-react-boilerplate.sequence-demos.xyz
 glob.shaga.xyz

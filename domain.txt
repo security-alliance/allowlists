@@ -5272,6 +5272,7 @@ yom.net
 zeeve.net
 zenscan.net
 zkaf.net
+1inch.network
 gov.1inch.network
 acala.network
 adex.network

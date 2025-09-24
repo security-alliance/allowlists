@@ -5440,6 +5440,7 @@ units.network
 usdd.network
 usual.network
 vana.network
+vara.network
 verida.network
 walletconnect.network
 governance.walletconnect.network

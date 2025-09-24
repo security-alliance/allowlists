@@ -6640,6 +6640,7 @@ vlayer.xyz
 walrus.xyz
 claim.walrus.xyz
 token-image.walrus.xyz
+wasabi.xyz
 weroam.xyz
 worldofwomen.xyz
 zekret.xyz

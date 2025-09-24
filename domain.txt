@@ -2558,6 +2558,7 @@ debridge.com
 decimalchain.com
 dedgesecurity.com
 deepcoin.com
+default.com
 defichain.com
 discord.defillama.com
 feed.defillama.com

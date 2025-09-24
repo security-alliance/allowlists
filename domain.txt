@@ -2073,6 +2073,14 @@ mystennft.codes
 coinbase.coffee
 0gswap.com
 10tfund.com
+1inch.com
+app.1inch.com
+blog.1inch.com
+business.1inch.com
+events.1inch.com
+help.1inch.com
+legacy.1inch.com
+staging.1inch.com
 1moneynetwork.com
 1rtfund.com
 21backup.com
@@ -2113,6 +2121,7 @@ apkgk.com
 demos.arcium.com
 arichain.com
 arijuels.com
+arkreen.com
 ascendex.com
 app.asgardfi.com
 jobs.ashbyhq.com
@@ -2554,6 +2563,7 @@ discord.defillama.com
 feed.defillama.com
 swap.defillama.com
 wiki.defillama.com
+degensoft.com
 delysium.com
 dentwireless.com
 deribit.com
@@ -2907,6 +2917,7 @@ mystinlabs.com
 naorisprotocol.com
 blog.naver.com
 nbatopshot.com
+nemoprotocol.com
 neonewstoday.com
 nexo.com
 nftcoinbase.com
@@ -3917,6 +3928,7 @@ nemi.fi
 noves.fi
 docs.noves.fi
 ordiswap.fi
+plutus.fi
 polynomial.fi
 rhino.fi
 app.sceptre.fi
@@ -3985,10 +3997,12 @@ docs.kai.finance
 kinza.finance
 kriya.finance
 app.kriya.finance
+lagoon.finance
 linear.finance
 liquifi.finance
 claim.lombard.finance
 docs.lombard.finance
+lynx.finance
 lyra.finance
 makina.finance
 marinade.finance
@@ -4753,6 +4767,7 @@ renproject.io
 reswap.io
 rialo.io
 rollblock.io
+whitepaper.rollblockpresale.io
 rootstock.io
 rss3.io
 rumour.io
@@ -5343,6 +5358,7 @@ gauntlet.network
 gelato.network
 golem.network
 gradient.network
+grapes.network
 hana.network
 hathor.network
 haust.network
@@ -5611,6 +5627,7 @@ decred.org
 proposals.decred.org
 deepbrainchain.org
 depined.org
+dexrp.org
 dfinity.org
 diadata.org
 digibyte.org
@@ -5692,6 +5709,7 @@ mystin.org
 mystinlabs.org
 namecoin.org
 nano.org
+native.org
 neo.org
 neonevm.org
 nervos.org
@@ -5786,6 +5804,7 @@ vana.org
 vanagraph.org
 vanascan.org
 velo.org
+vertcoin.org
 vite.org
 walletconnect.org
 walletlink.org
@@ -5949,6 +5968,7 @@ bsky.social
 coinbasecloud.social
 jumble.social
 mastodon.social
+vala.social
 chaingpt.software
 coinbasecard.software
 coinbasecloud.software
@@ -6498,6 +6518,7 @@ monadpad.xyz
 monadscan.xyz
 monadshow.xyz
 monid.xyz
+morkie.xyz
 morpho.xyz
 morpho-labs.xyz
 movementlabs.xyz
@@ -6614,6 +6635,7 @@ velora.xyz
 verified-pools.xyz
 verifiedpools.xyz
 viction.xyz
+vlayer.xyz
 walrus.xyz
 claim.walrus.xyz
 token-image.walrus.xyz

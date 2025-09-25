@@ -4456,6 +4456,7 @@ artblocks.io
 assembleprotocol.io
 ai.assembleprotocol.io
 atomics.io
+aventus.io
 axelarscan.io
 beldex.io
 beratrail.io
@@ -4741,6 +4742,7 @@ airdrop.paintswap.io
 papercrypto.io
 paradex.io
 paraswap.io
+parity.io
 parops.io
 photonchain.io
 pinai.io
@@ -5455,6 +5457,7 @@ totle.network
 tron.network
 truf.network
 uncx.network
+unique.network
 units.network
 usdd.network
 usual.network
@@ -5733,6 +5736,7 @@ opensea-support.org
 openseasupport.org
 opulous.org
 pawsupfam.org
+pendulumchain.org
 perena.org
 phantomhive.org
 gate.phantomhive.org
@@ -5767,6 +5771,7 @@ solayer.org
 sologenic.org
 portal.soneium.org
 sonicscan.org
+sora.org
 soroban-by-example.org
 sorobanbyexample.org
 spindl.org
@@ -5847,6 +5852,7 @@ coinbaseprime.pl
 osk-moskal.pl
 0.plus
 coinbase.pm
+zeitgeist.pm
 coinbase.pr
 1inch.pro
 binaryx.pro

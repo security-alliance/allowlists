@@ -4928,6 +4928,7 @@ zknet.io
 docs.zknet.io
 zkswap.io
 zkverify.io
+zofai.io
 zoth.io
 zotto.io
 zulunetwork.io

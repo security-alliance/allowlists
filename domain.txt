@@ -3370,6 +3370,7 @@ wwwlcoinbase.com
 wwwlgdax.com
 xcadnetwork.com
 xcoinbase.com
+xcvate.com
 xeggex.com
 xmoney.com
 xn--cinbae-i15bm109i.com
@@ -3998,6 +3999,7 @@ docs.kai.finance
 kinza.finance
 kriya.finance
 app.kriya.finance
+kylix.finance
 lagoon.finance
 linear.finance
 liquifi.finance
@@ -4404,6 +4406,7 @@ trmlabs.info
 whitecoin.info
 zenchain.info
 spindl.ink
+use.ink
 coinbasecard.institute
 coinbase.international
 coinbasecard.international
@@ -4430,6 +4433,7 @@ aergo.io
 agla.io
 airdao.io
 airswap.io
+ajuna.io
 akropolis.io
 alexgo.io
 algonetwork.io
@@ -4665,9 +4669,11 @@ llamapay.io
 lmxlabs.io
 loomx.io
 m-safe.io
+magentalabs.io
 magmafinance.io
 magpiexyz.io
 majoolr.io
+mandalachain.io
 mangonet.io
 mapprotocol.io
 marblex.io
@@ -4715,6 +4721,7 @@ nexusmutual.io
 ngrave.io
 nomina.io
 nonkyc.io
+novawallet.io
 nucleusearn.io
 nuls.io
 numbersprotocol.io
@@ -5674,6 +5681,7 @@ hoprnet.org
 horizen.org
 humanity.org
 hyperbeat.org
+hyperbridge.org
 hyperfoundation.org
 ichi.org
 inco.org

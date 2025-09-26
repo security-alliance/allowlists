@@ -5880,6 +5880,7 @@ osk-moskal.pl
 0.plus
 coinbase.pm
 zeitgeist.pm
+app.zeitgeist.pm
 coinbase.pr
 1inch.pro
 binaryx.pro

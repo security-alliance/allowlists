@@ -2723,6 +2723,7 @@ goated.com
 godsunchained.com
 goinbase.com
 goldsky.com
+golem-base.com
 portal.golffn.com
 gomining.com
 safebrowsing.google.com
@@ -4612,6 +4613,10 @@ fuellabs.github.io
 metamask.github.io
 glif.io
 gmx.io
+golem-base.io
+golem-db.io
+golembase.io
+golemdb.io
 gopluslabs.io
 grass.io
 grovecoin.io
@@ -5163,6 +5168,7 @@ opensea.name
 tagomi.name
 xn--coinbas-xs4c.name
 xn--oinbase-44a.name
+addressology.net
 adshares.net
 anoma.net
 research.anoma.net
@@ -5229,6 +5235,7 @@ eth-coinbase.net
 fairx.net
 fio.net
 freesui.net
+golemproject.net
 gpu.net
 hydration.net
 insuretoken.net
@@ -5310,6 +5317,7 @@ forum.akash.network
 docs.allora.network
 arcana.network
 arch.network
+arkiv.network
 artela.network
 claim-acs.astar.network
 shiden.astar.network
@@ -5370,6 +5378,7 @@ fwd.network
 gauntlet.network
 gelato.network
 golem.network
+golem-base.network
 gradient.network
 grapes.network
 hana.network
@@ -5673,6 +5682,7 @@ gamefi.org
 gasdao.org
 getravencoin.org
 getsession.org
+golemproject.org
 gostellar.org
 groestlcoin.org
 handshake.org
@@ -6326,6 +6336,7 @@ coinbasenft.vip
 claimleia.gems.vip
 pepe.vip
 suicommunity.vip
+golem.watch
 c10nbase.website
 coinbasecard.website
 coinbasecloud.website

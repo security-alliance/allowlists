@@ -5312,6 +5312,7 @@ zkaf.net
 1inch.network
 gov.1inch.network
 acala.network
+apps.acala.network
 adex.network
 aioz.network
 docs.akash.network

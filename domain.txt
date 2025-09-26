@@ -2864,6 +2864,7 @@ massalabs.medium.com
 nest-protocol.medium.com
 nextype.medium.com
 orca-so.medium.com
+pendulum-chain.medium.com
 quillaudits.medium.com
 raiinmaker.medium.com
 skatechain.medium.com

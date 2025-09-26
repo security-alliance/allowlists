@@ -5379,6 +5379,7 @@ gauntlet.network
 gelato.network
 golem.network
 golem-base.network
+blog.golem.network
 gradient.network
 grapes.network
 hana.network

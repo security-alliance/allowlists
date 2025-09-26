@@ -4470,6 +4470,7 @@ beldex.io
 beratrail.io
 biconomy.io
 bifrost.io
+discord.bifrost.io
 bistroo.io
 bitcastle.io
 blockpi.io

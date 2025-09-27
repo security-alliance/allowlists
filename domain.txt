@@ -5974,6 +5974,7 @@ coinbasegiveaway.site
 coinbasenft.site
 coinbasepro.site
 coinbaserosetta.site
+mises.site
 misten.site
 mistenlabs.site
 mysten.site

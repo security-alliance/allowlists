@@ -1890,6 +1890,7 @@ cryptocommerce.cc
 fuelup.cc
 legion.cc
 mexc.cc
+nomis.cc
 ooki.cc
 coinbase.center
 coinbasecard.center

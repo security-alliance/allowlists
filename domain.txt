@@ -5350,6 +5350,8 @@ bless.network
 blocksense.network
 boba.network
 boundless.network
+read.boundless.network
+signal.boundless.network
 brevis.network
 linea-ignition.brevis.network
 bsky.network

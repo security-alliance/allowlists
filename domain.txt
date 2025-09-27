@@ -5394,6 +5394,7 @@ grapes.network
 hana.network
 hathor.network
 haust.network
+hyperbridge.network
 jiritsu.network
 just.network
 karak.network

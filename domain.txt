@@ -5395,6 +5395,7 @@ hana.network
 hathor.network
 haust.network
 hyperbridge.network
+app.hyperbridge.network
 jiritsu.network
 just.network
 karak.network

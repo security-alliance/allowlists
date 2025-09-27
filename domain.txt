@@ -2132,6 +2132,8 @@ atproto.com
 aukilabs.com
 autheo.com
 avantisfi.com
+foundation.avantisfi.com
+sdk.avantisfi.com
 avantprotocol.com
 avinoc.com
 awesomestellar.com

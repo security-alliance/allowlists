@@ -1800,6 +1800,7 @@ symbiotic.box
 coinbaseprime.com.br
 foxbit.com.br
 mercadobitcoin.com.br
+nubank.com.br
 santosfc.com.br
 coinbase.net.br
 coinbase.bs

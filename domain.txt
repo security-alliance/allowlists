@@ -4150,6 +4150,7 @@ mystennft.fun
 pie.fun
 poster.fun
 reservoir.fun
+starknetaura.fun
 sui.fun
 suicommunity.fun
 tops.fun

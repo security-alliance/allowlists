@@ -6613,6 +6613,7 @@ peaq.xyz
 perpl.xyz
 pharosnetwork.xyz
 piplabs.xyz
+plasma-staging.xyz
 plumehub.xyz
 arc.plumenetwork.xyz
 bridge.plumenetwork.xyz

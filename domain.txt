@@ -30,6 +30,7 @@ arbus.ai
 arkaine.ai
 badidea.ai
 badideas.ai
+battleofagents.ai
 bitdoctor.ai
 bittensor.ai
 bytenova.ai

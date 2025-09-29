@@ -4052,6 +4052,7 @@ sparkling.finance
 spectra.finance
 app.spectra.finance
 sudo.finance
+tradegpt.finance
 treehouse.finance
 mystenlabs.tres.finance
 turbos.finance

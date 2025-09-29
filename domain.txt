@@ -4192,6 +4192,7 @@ soulbound.game
 sui.game
 animalia.games
 decentral.games
+kult.games
 lilliput.games
 misten.games
 mistenlabs.games

@@ -15,6 +15,7 @@ docs.7k.ag
 port.7k.ag
 coinbase.ag
 app.meteora.ag
+aiverse.0g.ai
 storagescan-newton.0g.ai
 0x0.ai
 0xnest.ai

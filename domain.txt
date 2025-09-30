@@ -1760,6 +1760,7 @@ levee.bid
 linkin.bio
 lnk.bio
 valleydao.bio
+zaap.bio
 c10nbase.biz
 coinbase.biz
 coinbasecloud.biz

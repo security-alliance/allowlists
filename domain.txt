@@ -4813,6 +4813,8 @@ rss3.io
 rumour.io
 runonflux.io
 home.runonflux.io
+ruvi.io
+presale.ruvi.io
 sallar.io
 sango.io
 cdn.sanity.io

@@ -35,6 +35,7 @@ battleofagents.ai
 bitdoctor.ai
 bittensor.ai
 bytenova.ai
+capx.ai
 chainopera.ai
 chatdkg.ai
 clore.ai

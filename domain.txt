@@ -4539,6 +4539,7 @@ coinbaseprime.io
 coinbasepro.io
 coinbasewallet.io
 coinbasexchange.io
+download.coinup.io
 coinweb.io
 combinder.io
 combonetwork.io

@@ -3782,6 +3782,7 @@ mystennft.education
 sui.education
 euler-app.fanz.ee
 morpho-app.fanz.ee
+polkadex.ee
 orderbook.polkadex.ee
 opensea.elite
 c10nbase.email

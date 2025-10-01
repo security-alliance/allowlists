@@ -218,6 +218,7 @@ totle.app
 unibot.app
 unimon.app
 0g-faucet.vercel.app
+agora-next-scroll-henna.vercel.app
 bridge-git-gj-lambard-testnet-mysten-labs.vercel.app
 bridge-git-gj-support-lbtc-token-mysten-labs.vercel.app
 bridge-git-main-mysten-labs.vercel.app

@@ -7,6 +7,7 @@ opensea.accountants
 opensea.actor
 coinbase.adult-blockplus
 opensea.adult
+zoho.ae
 coinbase.af
 coinbase.africa
 opensea.africa
@@ -3613,11 +3614,16 @@ zkswaps.com
 zksync-nodes.com
 zkunconference.com
 zohoapis.com
+zohocalendar.com
 zohocorp.com
 zohodesk.com
 zohodomains.com
 zohomail.com
+zohomeeting.com
+zohopeople.com
+zohorecruit.com
 zohosites.com
+zohowebstatic.com
 zondacrypto.com
 zoniqx.com
 instagram.cominsomniacsstupor

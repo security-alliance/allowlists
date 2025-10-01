@@ -4047,6 +4047,7 @@ ranger.finance
 redstone.finance
 rhea.finance
 ribbon.finance
+v1.robonet.finance
 saffron.finance
 satori.finance
 save.finance

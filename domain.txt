@@ -2837,6 +2837,7 @@ llamarpc.com
 lmxlabs.com
 locuschain.com
 ltonetwork.com
+luma.com
 lumiwavelab.com
 luno.com
 macroinsiders.com
@@ -3945,6 +3946,7 @@ mole.fi
 moonwell.fi
 multipli.fi
 nemi.fi
+neutrl.fi
 noves.fi
 docs.noves.fi
 ordiswap.fi

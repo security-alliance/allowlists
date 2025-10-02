@@ -3192,6 +3192,7 @@ starknetkit.com
 stateofcrypto2025.com
 stateofcrypto2026.com
 stateofcryptosummit.com
+staticblitz.com
 stcoins.com
 steem.com
 steemit.com
@@ -4883,6 +4884,7 @@ smardex.io
 solaxy.io
 somesing.io
 soul.io
+stackblitz.io
 stafi.io
 stakingcrypto.io
 statter.io

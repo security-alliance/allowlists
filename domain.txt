@@ -6279,6 +6279,7 @@ dydx.trade
 ethereal.trade
 flamix.trade
 fly.trade
+app.fly.trade
 gains.trade
 loyal.trade
 merkle.trade

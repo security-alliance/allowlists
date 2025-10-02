@@ -6289,6 +6289,7 @@ app.fly.trade
 gains.trade
 loyal.trade
 merkle.trade
+oku.trade
 paradex.trade
 app.rage.trade
 reactor.trade

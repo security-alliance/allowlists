@@ -4139,6 +4139,7 @@ amo.foundation
 caduceus.foundation
 domin.foundation
 dydx.foundation
+gear.foundation
 hedera.foundation
 hyperlane.foundation
 claim.hyperlane.foundation

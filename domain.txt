@@ -5524,6 +5524,7 @@ request.network
 reya.network
 rly.network
 roam.network
+rocksolid.network
 rosetta-api.network
 rosettaapi.network
 sending.network

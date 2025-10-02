@@ -2635,7 +2635,10 @@ etherealize.com
 ethpresentation.com
 ethpresentations.com
 ethwell.com
+base.ethxy.com
 cards.ethxy.com
+docs.ethxy.com
+main.ethxy.com
 plots.ethxy.com
 exchangecoinbase.com
 exmo.com
@@ -4380,6 +4383,7 @@ cbase.id
 coinbase.co.id
 coinb.id
 coinbasecard.id
+whale.eth.id
 moongate.id
 qubo.id
 reveel.id

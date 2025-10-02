@@ -3983,6 +3983,7 @@ neutrl.fi
 noves.fi
 docs.noves.fi
 ordiswap.fi
+pacifica.fi
 plutus.fi
 polynomial.fi
 rhino.fi

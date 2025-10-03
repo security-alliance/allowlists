@@ -1700,6 +1700,7 @@ deepbookui.wal.app
 zksync-docs-staging-5eb09.web.app
 zksync-interop.web.app
 withblaze.app
+xlog.app
 yield.app
 zencashplatform.app
 zenplatform.app

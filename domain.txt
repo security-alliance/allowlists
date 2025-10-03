@@ -4272,6 +4272,7 @@ ancient8.gg
 bitplay.gg
 boost.gg
 cambria.gg
+chronoforge.gg
 coinbase.gg
 fireplace.gg
 fishfish.gg

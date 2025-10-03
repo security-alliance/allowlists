@@ -3396,6 +3396,7 @@ whitebit.com
 wicrypt.com
 wilderworld.com
 wingriders.com
+docs.wingriders.com
 winterwalrus.com
 wirexapp.com
 woocoinbase.com

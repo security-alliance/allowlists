@@ -4043,6 +4043,7 @@ ellipsis.finance
 emblem.finance
 enzyme.finance
 etherex.finance
+evaa.finance
 exponent.finance
 falcon.finance
 fibrous.finance

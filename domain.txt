@@ -3735,6 +3735,7 @@ envio.dev
 essential.dev
 fairx.dev
 token2049.getblock.dev
+ghost.dev
 helius.dev
 interchainsecurity.dev
 lfglabs.dev
@@ -4671,6 +4672,7 @@ galaxiacoin.io
 gamezone.io
 gatechain.io
 get-protocol.io
+ghost.io
 gifto.io
 gigaverse.io
 4185063753-files.gitbook.io
@@ -5780,6 +5782,7 @@ gamefi.org
 gasdao.org
 getravencoin.org
 getsession.org
+ghost.org
 golemproject.org
 gostellar.org
 groestlcoin.org

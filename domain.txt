@@ -6780,6 +6780,7 @@ verified-pools.xyz
 verifiedpools.xyz
 viction.xyz
 vlayer.xyz
+app.wallchain.xyz
 walrus.xyz
 claim.walrus.xyz
 token-image.walrus.xyz

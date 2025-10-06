@@ -5032,6 +5032,7 @@ docs.zknet.io
 zkswap.io
 zkverify.io
 zofai.io
+zofinance.io
 zoth.io
 zotto.io
 zulunetwork.io

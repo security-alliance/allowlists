@@ -2616,6 +2616,8 @@ dwrobo.com
 dydxgrants.com
 dydxopsdao.com
 dydxv4.com
+earnos.com
+app.earnos.com
 earnpark.com
 earthfromanothersun.com
 easeprotocol.com
@@ -2885,6 +2887,7 @@ clearpool.medium.com
 cvex.medium.com
 cwallet.medium.com
 energywebx.medium.com
+folksfinance.medium.com
 horizenlabs.medium.com
 htxofficial.medium.com
 inchnetwork-cn.medium.com
@@ -3387,6 +3390,7 @@ walruscan.com
 wazirx.com
 wcoinbase.com
 weatherxm.com
+web3enabler.com
 web3otc.com
 web3sonic.com
 webacy.com
@@ -4054,6 +4058,7 @@ fibrous.finance
 firelight.finance
 flamingo.finance
 flowx.finance
+folks.finance
 goldfinch.finance
 app.goldfinch.finance
 harvest.finance
@@ -5857,6 +5862,7 @@ onyx.org
 opencustody.org
 opensea-support.org
 openseasupport.org
+openxai.org
 opulous.org
 pawsupfam.org
 pendulumchain.org
@@ -6580,6 +6586,8 @@ wallet.fastset.xyz
 fermah.xyz
 flare.xyz
 fleek.xyz
+flowmatic.xyz
+docs.flowmatic.xyz
 fluent.xyz
 fractionai.xyz
 fractrade.xyz

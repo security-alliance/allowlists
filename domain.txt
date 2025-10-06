@@ -669,6 +669,7 @@ mvr-git-pat-upgrade-move-binding-sui-foundation.vercel.app
 mvr-git-tharbert-docker-api-sui-foundation.vercel.app
 mvr-git-tharbert-indexer-env-sui-foundation.vercel.app
 mysten-chatapp.vercel.app
+nemo-landing-page-next-7trvveiiz-nemo-protocol-19e01ef8.vercel.app
 opensea-teaser.vercel.app
 overflow-landing-page.vercel.app
 overflow-landing-page-git-main-sui-foundation.vercel.app

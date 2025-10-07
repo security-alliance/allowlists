@@ -6726,6 +6726,7 @@ polysights.xyz
 pondo.xyz
 popcatsolana.xyz
 poply.xyz
+psy.xyz
 mainnet.pumpbtc.xyz
 railway.xyz
 re7labs.xyz

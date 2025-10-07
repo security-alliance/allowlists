@@ -5838,6 +5838,7 @@ morpho-labs.org
 blog.morpho.org
 discord.morpho.org
 multichain.org
+multiplenetwork.org
 mystanlabs.org
 mystenlabs.org
 mystenlabsnft.org

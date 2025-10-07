@@ -5466,6 +5466,7 @@ crust.network
 datagram.network
 ddai.network
 app.ddai.network
+decharge.network
 deeper.network
 delta.network
 dexe.network

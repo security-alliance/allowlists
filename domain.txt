@@ -6011,6 +6011,7 @@ powerpod.pro
 tagomi.pro
 teneo.pro
 tokenpocket.pro
+zerobase.pro
 zomma.pro
 coinbasecard.promo
 coinbase.pt

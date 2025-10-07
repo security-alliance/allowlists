@@ -4035,6 +4035,7 @@ app.badger.finance
 balancer.finance
 bounce.finance
 bronto.finance
+bscs.finance
 caddy.finance
 coinbase.finance
 coinbasecard.finance

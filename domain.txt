@@ -5938,6 +5938,7 @@ tonguard.org
 toshi.org
 trmlabs.org
 udao.org
+testnet.ultrade.org
 umaproject.org
 usenexus.org
 ustrwg.org

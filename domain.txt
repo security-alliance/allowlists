@@ -6522,6 +6522,7 @@ abster.xyz
 aeroswap.xyz
 aevo.xyz
 degen.aevo.xyz
+agoralend.xyz
 alphafi.xyz
 docs.alphafi.xyz
 alva.xyz

@@ -2076,6 +2076,7 @@ tradexapp.co
 trmlabs.co
 weipay.co
 zabobank.co
+ico.zapme.co
 zora.co
 coinbasecard.codes
 coinbasecloud.codes

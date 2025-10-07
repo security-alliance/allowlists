@@ -51,6 +51,7 @@ delaunch.ai
 dmailnetwork.ai
 effect.ai
 elympics.ai
+everlyn.ai
 exabits.ai
 fairchain.ai
 docs.fetch.ai

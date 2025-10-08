@@ -6704,6 +6704,7 @@ mizulabs.xyz
 docs.mizulabs.xyz
 mogcoin.xyz
 monad.xyz
+claim.monad.xyz
 monadescrow.xyz
 monadpad.xyz
 monadscan.xyz

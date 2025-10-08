@@ -297,6 +297,7 @@ gymnasuium-mysten-labs.vercel.app
 ibe-marketplace-git-joy-add-header-mysten-labs.vercel.app
 ibe-marketplace-git-joy-verify-personal-msg-mysten-labs.vercel.app
 metamask-dev-dashboard-feat-remove-prora-consensys-ddffed67.vercel.app
+metamask-wagmi-demo.vercel.app
 monad-networks.vercel.app
 monadviber.vercel.app
 multisig-toolkit-git-ak-enable-compression-mainnet-mysten-labs.vercel.app

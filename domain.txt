@@ -201,6 +201,7 @@ polaris.app
 positional.app
 arbitrum.proposals.app
 exchange.quboid.app
+questbook.app
 reservoir.app
 rmrk.app
 rosetta-api.app

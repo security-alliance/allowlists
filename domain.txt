@@ -3995,6 +3995,7 @@ bracket.fi
 bullpen.fi
 caddi.fi
 common.fi
+classic.curve.fi
 dein.fi
 ekiden.fi
 app.ekiden.fi

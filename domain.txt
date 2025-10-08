@@ -3380,6 +3380,7 @@ vanihq.com
 vaulta.com
 velas.com
 venovate.com
+docs.ventuals.com
 testnet.ventuals.com
 vergecurrency.com
 verified-pools.com

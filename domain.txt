@@ -3070,6 +3070,7 @@ portal.projectserum.com
 proofofplay.com
 propy.com
 publicnode.com
+arbitrum-one.publicnode.com
 puffymunchies.com
 pulsar.com
 pundix.com
@@ -4750,6 +4751,7 @@ idex.io
 indigoprotocol.io
 inferix.io
 infura.io
+argent.infura-ipfs.io
 instantsell.io
 interchain.io
 interchainlabs.io

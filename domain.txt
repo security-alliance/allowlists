@@ -60,6 +60,7 @@ gmnetwork.ai
 gokite.ai
 hacken.ai
 horizen.ai
+infinityg.ai
 kaito.ai
 masa.ai
 misten.ai

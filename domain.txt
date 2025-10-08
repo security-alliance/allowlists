@@ -5804,6 +5804,7 @@ elastos.org
 elephant-blue.org
 energyweb.org
 ergoplatform.org
+eips.ethereum.org
 remix-alpha.ethereum.org
 remix-beta.ethereum.org
 ethereumclassic.org

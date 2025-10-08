@@ -3732,6 +3732,7 @@ newsoft.design
 sui.design
 aurora.dev
 base.dev
+buildnbuild.dev
 c10nbase.dev
 chaingpt.dev
 nft.chaingpt.dev

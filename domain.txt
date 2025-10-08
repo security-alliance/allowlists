@@ -4966,6 +4966,7 @@ suinames.io
 suinameservice.io
 suinamesystem.io
 suins.io
+claim.suins.io
 docs.suins.io
 testnet.suins.io
 suipassport.io

@@ -166,6 +166,9 @@ defi.app
 docs.defi.app
 dfast.app
 eo.app
+forms.app
+my.forms.app
+online.forms.app
 freighter.app
 goatai.app
 hashpack.app

@@ -167,6 +167,8 @@ docs.defi.app
 dfast.app
 eo.app
 forms.app
+community.forms.app
+community2.forms.app
 my.forms.app
 online.forms.app
 freighter.app

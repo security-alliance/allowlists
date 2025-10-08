@@ -6312,6 +6312,7 @@ coinbase.tl
 coinbase.tn
 coinbase.to
 gtly.to
+lithos.to
 papercryp.to
 plasma.to
 app.plasma.to

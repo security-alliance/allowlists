@@ -5556,6 +5556,7 @@ nodeops.network
 omg.network
 testnet.omniscan.network
 omnity.network
+optimai.network
 orderly.network
 orochi.network
 over.network

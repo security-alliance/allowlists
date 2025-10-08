@@ -4592,6 +4592,7 @@ trade.cex.io
 chainbing.io
 app.chainpatrol.io
 chainport.io
+docs.chainport.io
 clober.io
 docs.clober.io
 cobaltwallet.io

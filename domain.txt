@@ -4264,6 +4264,7 @@ mystenlabs.gallery
 mystenlabsnft.gallery
 mystennft.gallery
 battleworld.game
+kangamoon.game
 laniakea.game
 metacraft.game
 misten.game

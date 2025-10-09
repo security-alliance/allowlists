@@ -4326,6 +4326,7 @@ horizen.gg
 rpc-arbitrum.lfj.gg
 milady.gg
 moonveil.gg
+nura.gg
 opensea.gg
 polkastarter.gg
 sub0.gg

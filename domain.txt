@@ -4882,6 +4882,7 @@ openc.io
 opensea-support.io
 openseadn.io
 openseauserdata.io
+gov.optimism.io
 optimustoken.io
 orbitchain.io
 orcabay.io

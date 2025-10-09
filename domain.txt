@@ -2072,6 +2072,7 @@ openrarity.co
 opensea.co
 papercrypto.co
 paradex.co
+privix.co
 procoinbase.co
 quadraticvote.co
 realvisiondelta.co

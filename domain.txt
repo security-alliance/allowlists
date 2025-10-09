@@ -4977,6 +4977,7 @@ suipassport.io
 sun.io
 sw-dev.io
 earn.sw-dev.io
+syfu.io
 symphony.io
 symptomify.io
 t2m.io

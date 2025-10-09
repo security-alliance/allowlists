@@ -23,6 +23,7 @@ storagescan-newton.0g.ai
 375.ai
 aethir.ai
 agara.ai
+agnthub.ai
 akave.ai
 alethea.ai
 alphamountain.ai

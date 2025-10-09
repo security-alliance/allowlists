@@ -178,6 +178,7 @@ hedgehog.app
 meebits.app
 meganet.app
 metapool.app
+meteorwallet.app
 midas.app
 initialabs-develop.mintlify.app
 polymarket.mintlify.app

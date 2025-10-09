@@ -6237,6 +6237,7 @@ mysten.systems
 mystenlabs.systems
 mystenlabsnft.systems
 mystennft.systems
+seismic.systems
 skew.systems
 sui.systems
 awaken.tax

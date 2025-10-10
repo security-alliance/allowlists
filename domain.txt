@@ -5304,6 +5304,7 @@ blog.chain.link
 dev.chain.link
 docs.chain.link
 rewards.chain.link
+chainlink-staking.link
 coinbasecard.link
 coinbaseinvestorday.link
 coinbasepro.link

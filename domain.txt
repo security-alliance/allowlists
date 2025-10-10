@@ -1922,6 +1922,7 @@ legion.cc
 mexc.cc
 nomis.cc
 ooki.cc
+smartcontractz.cc
 coinbase.center
 coinbasecard.center
 coinbasecloud.center
@@ -3280,6 +3281,13 @@ skew-stg.com
 skool.com
 smarcontract.com
 smartcontract.com
+smartcontractdb.com
+smartcontractinternal.com
+smartcontractresearch.com
+smartcontractresearchforum.com
+smartcontracts.com
+smartcontractsystems.com
+smartercontracts.com
 smartofgiving.com
 smmpakpanel.com
 smolrefuel.com
@@ -3316,6 +3324,7 @@ app.squidrouter.com
 stellar.stackexchange.com
 stackingsalmon.com
 staderlabs.com
+staking-chainlink.com
 stakingrewards.com
 standwithcrypto.com
 staratlas.com
@@ -3403,6 +3412,7 @@ thanksui.com
 theapestore.com
 thebithack.com
 thecelo.com
+thechainlinkfoundation.com
 thegamingcatalyst.com
 thekoroshi.com
 thetalenetbase.com
@@ -3419,7 +3429,9 @@ tnccoin.com
 tncitgroup.com
 todofund.com
 tokenbrowser.com
+tokenisedinamerica.com
 tokenized-funds.com
+tokenizedinamerica.com
 tokocrypto.com
 toncontests.com
 tonicvault.com
@@ -3477,6 +3489,7 @@ uquidcoin.com
 usdc.com
 usdcswap.com
 usebraintrust.com
+usechainlinkfunctions.com
 usecorn.com
 blog.usecorn.com
 docs.usecorn.com
@@ -3913,6 +3926,8 @@ pcswap.dev
 reservoir.dev
 rollkit.dev
 rosetta-api.dev
+smartcontracthub.dev
+smartcontracts.dev
 snapchain.dev
 docs.symbol.dev
 docs.weavedb.dev
@@ -4061,6 +4076,7 @@ blog.rango.exchange
 widget.rango.exchange
 rocketx.exchange
 rubic.exchange
+smartcontract.exchange
 sui.exchange
 titan.exchange
 tokenize.exchange
@@ -4319,7 +4335,9 @@ piratenation.foundation
 rari.foundation
 satlayer.foundation
 sentient.foundation
+smartcontract.foundation
 sui.foundation
+thechainlink.foundation
 tonomy.foundation
 walletconnect.foundation
 wormhole.foundation
@@ -4634,6 +4652,7 @@ suiplay0x1.info
 support-opensea.info
 tagomi.info
 theblockbeats.info
+tokenizedinamerica.info
 totle.info
 trmlabs.info
 whitecoin.info
@@ -4641,6 +4660,7 @@ zenchain.info
 spindl.ink
 use.ink
 coinbasecard.institute
+smartcontractresearch.institute
 coinbase.international
 coinbasecard.international
 coinbasecloud.international
@@ -5128,9 +5148,11 @@ timpi.io
 titannet.io
 todofund.io
 tokenizedfunds.io
+tokenizedinamerica.io
 toshi.io
 totle.io
 tradestrike.io
+transporter.io
 trezor.io
 trmlabs.io
 tronscan.io
@@ -5301,6 +5323,7 @@ mystennft.link
 payy.link
 relay.link
 rosetta-api.link
+smartcontractresearch.link
 spindl.link
 stake.link
 c10nbase.live
@@ -5571,6 +5594,8 @@ sergeynazarov.net
 skyweaver.net
 smarcontract.net
 smarcontracts.net
+smartcontractresearch.net
+stakinglink.net
 stasis.net
 storyprotocol.net
 monitor.storyprotocol.net
@@ -5584,6 +5609,7 @@ suipassport.net
 suiplay0x1.net
 support-opensea.net
 tamego.net
+tokenizedinamerica.net
 trmlabs.net
 ustrwg.net
 walletlink.net
@@ -6113,6 +6139,7 @@ rvcaymancalling.org
 selfkey.org
 sergeynazarov.org
 skatechain.org
+smartcontractresearch.org
 sofaprotocol.org
 solana.org
 solar.org
@@ -6144,10 +6171,12 @@ support-opensea.org
 syscoin.org
 tamego.org
 templarfi.org
+thechainlinkfoundation.org
 theqrl.org
 wallet.theqrl.org
 thestratos.org
 threshold.org
+tokenizedinamerica.org
 tonguard.org
 toshi.org
 trmlabs.org
@@ -6270,6 +6299,7 @@ coinbasecloud.services
 dydx.services
 hybridsmartcontract.services
 rosetta-api.services
+smartcontract.services
 coinbase.com.sg
 coinbase.sh
 opensea.sh

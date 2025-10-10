@@ -132,6 +132,7 @@ bondex.app
 bsky.app
 c10nbase.app
 cap.app
+chainlink-example.app
 cobaltwallet.app
 coinbaseassetmanagement.app
 coinbasecard.app
@@ -2140,6 +2141,7 @@ advancedcoinbase.com
 aelf.com
 aeternity.com
 agaralabs.com
+airdrop-chainlink.com
 akashexplorer.com
 alignedlayer.com
 allora-ecosystem.com
@@ -2279,6 +2281,9 @@ cginbase.com
 chainabuse.com
 chainabuse-staging.com
 docs.chainabuse.com
+chainlink.com
+chainlink-coin.com
+chainlinkadvisor.com
 chainlinkecosystem.com
 chainlinklabs.com
 charidai.com
@@ -3686,6 +3691,7 @@ instagram.comkostascrypto
 1inch.community
 ambassadors.1inch.community
 app.ambassadors.1inch.community
+chainlink.community
 coinbase.community
 coinbasecloud.community
 cookie.community
@@ -4195,6 +4201,7 @@ algorand.foundation
 allora.foundation
 amo.foundation
 caduceus.foundation
+chainlink.foundation
 domin.foundation
 dydx.foundation
 gear.foundation
@@ -4482,6 +4489,7 @@ opensea.industries
 aiprotocol.info
 bch.info
 c10nbase.info
+chainelink.info
 coinbase.info
 coinbaseassetmanagement.info
 coinbasecard.info
@@ -5506,6 +5514,7 @@ celer.network
 celsius.network
 cere.network
 cess.network
+chainlink.network
 coinbasecard.network
 coinbasecloud.network
 cosign.network
@@ -6506,6 +6515,7 @@ starknet.vc
 coinbasecard.ventures
 coinbasecloud.ventures
 coinbase.vg
+chainlink.video
 misten.video
 mistenlabs.video
 mysten.video

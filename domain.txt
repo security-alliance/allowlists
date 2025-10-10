@@ -4857,6 +4857,7 @@ naviprotocol.io
 neiroeth.io
 nem.io
 neopin.io
+neova.io
 nerochain.io
 nestree.io
 netris.io

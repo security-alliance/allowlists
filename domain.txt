@@ -4747,6 +4747,7 @@ bitshares.github.io
 coinbase.github.io
 fuellabs.github.io
 metamask.github.io
+wormhole-foundation.github.io
 glif.io
 gmx.io
 golem-base.io

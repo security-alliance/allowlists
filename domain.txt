@@ -1949,6 +1949,7 @@ flr.chat
 savant.chat
 sgb.chat
 circle.ci
+chainlink.cl
 coinbase.cl
 coinbaseprime.cl
 c10nbase.click

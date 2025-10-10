@@ -132,6 +132,7 @@ bondex.app
 bsky.app
 c10nbase.app
 cap.app
+chainlink-demo.app
 chainlink-example.app
 cobaltwallet.app
 coinbaseassetmanagement.app
@@ -2096,6 +2097,7 @@ weipay.co
 zabobank.co
 ico.zapme.co
 zora.co
+chainlink.codes
 coinbasecard.codes
 coinbasecloud.codes
 hexo.codes
@@ -2283,7 +2285,11 @@ chainabuse-staging.com
 docs.chainabuse.com
 chainlink.com
 chainlink-coin.com
+chainlink-foundation.com
+chainlink-us.com
 chainlinkadvisor.com
+chainlinkage.com
+chainlinkbanker.com
 chainlinkecosystem.com
 chainlinklabs.com
 charidai.com
@@ -4332,6 +4338,7 @@ ancient8.gg
 bitplay.gg
 boost.gg
 cambria.gg
+chainlink.gg
 chronoforge.gg
 coinbase.gg
 fireplace.gg
@@ -5710,6 +5717,7 @@ playtron.one
 ponder.one
 coinbasecard.onl
 c10nbase.online
+chainlinkblog.online
 coinbasecard.online
 coinbasecloud.online
 coinbasegiveaway.online
@@ -6362,6 +6370,7 @@ tawk.to
 tether.to
 gold.tether.to
 usdt0.to
+chainlink.today
 coinbasecard.today
 chaingpt.tools
 coinbasecard.tools

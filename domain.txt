@@ -232,6 +232,7 @@ unibot.app
 unimon.app
 0g-faucet.vercel.app
 agora-next-scroll-henna.vercel.app
+appkit-laboratory-git-changeset-release-release183-reown-com.vercel.app
 bridge-git-gj-lambard-testnet-mysten-labs.vercel.app
 bridge-git-gj-support-lbtc-token-mysten-labs.vercel.app
 bridge-git-main-mysten-labs.vercel.app

@@ -5357,6 +5357,8 @@ cbit-stage.net
 cellframe.net
 wiki.cellframe.net
 cennz.net
+chainlinkdata.net
+chainlinkdatafeeds.net
 chia.net
 coin-base.net
 coinbaseassetmanagement.net
@@ -5522,6 +5524,7 @@ celsius.network
 cere.network
 cess.network
 chainlink.network
+chainlinkfoundation.network
 coinbasecard.network
 coinbasecloud.network
 cosign.network

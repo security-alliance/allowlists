@@ -5327,6 +5327,7 @@ rosetta-api.link
 smartcontractresearch.link
 spindl.link
 stake.link
+staker-chain.link
 c10nbase.live
 coinbasecard.live
 coinbaseindia.live

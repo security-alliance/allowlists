@@ -1917,6 +1917,7 @@ fassets.au.cc
 bitbank.cc
 coinbasecard.cc
 coinbaseprime.cc
+crustnetwork.cc
 cryptocommerce.cc
 fuelup.cc
 legion.cc
@@ -6839,6 +6840,7 @@ conduit.xyz
 contango.xyz
 contezt.xyz
 0g-faucet.corenodehq.xyz
+crustnetwork.xyz
 cudis.xyz
 cvex.xyz
 daostewards.xyz

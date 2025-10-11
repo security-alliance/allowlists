@@ -64,6 +64,7 @@ horizen.ai
 infinityg.ai
 kaito.ai
 masa.ai
+minionlab.ai
 misten.ai
 mistenlabs.ai
 mixie.ai

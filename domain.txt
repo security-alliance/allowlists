@@ -4942,6 +4942,7 @@ kilt.io
 kizzy.io
 kleros.io
 klever.io
+therootnetwork.komi.io
 kpk.io
 kunalabs.io
 kuru.io

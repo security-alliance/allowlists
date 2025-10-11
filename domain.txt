@@ -6583,6 +6583,7 @@ testnet.cvex.trade
 din.trade
 dln.trade
 app.drift.trade
+drip.trade
 dydx.trade
 ethereal.trade
 flamix.trade

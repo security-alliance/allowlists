@@ -6222,6 +6222,7 @@ woo.org
 dex.woo.org
 world.org
 worldcoin.org
+worldethicaldata.org
 xdc.org
 xian.org
 xinfin.org

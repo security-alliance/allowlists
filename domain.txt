@@ -40,6 +40,7 @@ bytenova.ai
 capx.ai
 chainopera.ai
 chatdkg.ai
+chirppad.ai
 clore.ai
 coiin.ai
 coinbase.ai

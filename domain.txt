@@ -2981,6 +2981,7 @@ discord.llamafolio.com
 llamanodes.com
 llamarpc.com
 lmxlabs.com
+loadedlions.com
 locuschain.com
 ltonetwork.com
 luma.com

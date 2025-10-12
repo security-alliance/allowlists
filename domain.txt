@@ -4003,6 +4003,7 @@ morpho-app.fanz.ee
 polkadex.ee
 orderbook.polkadex.ee
 opensea.elite
+x.em
 c10nbase.email
 coinbasecard.email
 coinbasecloud.email

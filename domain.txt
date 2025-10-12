@@ -5553,6 +5553,7 @@ coinomi.net
 coins-base.net
 crosschainsmartcontract.net
 crosschainsmartcontracts.net
+cryptalk.net
 blog.csdn.net
 debridge.net
 defigram.net

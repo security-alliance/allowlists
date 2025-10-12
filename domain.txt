@@ -4928,6 +4928,7 @@ horizenlabs.io
 horizon.io
 humanode.io
 hybridsmartcontract.io
+hyperweb.io
 ice.io
 icp0.io
 idex.io

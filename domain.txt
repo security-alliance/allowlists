@@ -5718,6 +5718,7 @@ app.dforce.network
 dusk.network
 eon.network
 everscale.network
+fairblock.network
 coston-explorer.flare.network
 coston2-explorer.flare.network
 fair.flare.network

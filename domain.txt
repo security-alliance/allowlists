@@ -4193,6 +4193,7 @@ summer.fi
 app.symbiotic.fi
 blog.symbiotic.fi
 taya.fi
+upheaval.fi
 volo.fi
 whirl.fi
 juiced.yearn.fi

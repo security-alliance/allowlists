@@ -6442,6 +6442,7 @@ coinbasecard.space
 coinbasecloud.space
 coinbasenft.space
 coinbasepro.space
+dexlab.space
 misten.space
 mistenlabs.space
 mysten.space

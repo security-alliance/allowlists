@@ -5004,6 +5004,7 @@ community.metamask.io
 metana.io
 metars.io
 meter.io
+metronome.io
 milkalliance.io
 millards.io
 mint.io

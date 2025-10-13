@@ -6535,6 +6535,7 @@ suisec.tech
 tunnel.tech
 unbound.tech
 waves.tech
+zos.zero.tech
 alt.technology
 bedrock.technology
 coinbase.technology

@@ -2860,6 +2860,7 @@ gdwax.com
 gdxax.com
 gdyax.com
 gdzax.com
+geckoterminal.com
 gemini.com
 genlayer.com
 getalby.com
@@ -4902,6 +4903,7 @@ polymarketguide.gitbook.io
 quboid.gitbook.io
 rndr.gitbook.io
 turbos.gitbook.io
+upheaval-1.gitbook.io
 zircuit.gitbook.io
 1inch-community.github.io
 alt-research.github.io

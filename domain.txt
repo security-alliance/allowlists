@@ -5316,6 +5316,7 @@ horizen.la
 fx.land
 moss.land
 redbrick.land
+starke-orte.land
 coinbasecard.legal
 c10nbase.life
 coinbasenft.life

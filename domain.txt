@@ -4773,6 +4773,7 @@ bucketprotocol.io
 docs.bucketprotocol.io
 buckyou.io
 bullx.io
+byreal.io
 bytom.io
 c4e.io
 cartesi.io

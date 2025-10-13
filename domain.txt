@@ -2078,6 +2078,7 @@ passport.gitcoin.co
 store.gitcoin.co
 support.gitcoin.co
 grantsstack.co
+hypurr.co
 imperator.co
 investcoinbase.co
 ipregistry.co

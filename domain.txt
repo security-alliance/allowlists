@@ -3065,6 +3065,7 @@ monadbridge.com
 monadexplorer.com
 testnet.monadexplorer.com
 monerium.com
+moneygram.com
 mooar.com
 moonchain.com
 moonpay.com

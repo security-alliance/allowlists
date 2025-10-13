@@ -6987,6 +6987,7 @@ nodekit.xyz
 novastro.xyz
 olab.xyz
 app.olab.xyz
+onchainheroes.xyz
 onchainkit.xyz
 onchainsummer.xyz
 opencampus.xyz

@@ -4261,6 +4261,7 @@ firelight.finance
 flamingo.finance
 flowx.finance
 folks.finance
+fullsail.finance
 goldfinch.finance
 app.goldfinch.finance
 harvest.finance

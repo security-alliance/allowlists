@@ -5494,6 +5494,7 @@ sui.mobi
 totle.mobi
 abracadabra.money
 aura.money
+avici.money
 cctp.money
 coinbasecard.money
 dfi.money

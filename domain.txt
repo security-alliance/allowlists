@@ -228,6 +228,7 @@ slingshot.app
 slush.app
 my.slush.app
 subwallet.app
+blog.subwallet.app
 suiet.app
 suipassport.app
 support-opensea.app

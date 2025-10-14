@@ -6546,6 +6546,7 @@ hex.tech
 infinit.tech
 terminal.infinit.tech
 kbtg.tech
+kryon.tech
 misten.tech
 mistenlabs.tech
 mysten.tech

@@ -6587,6 +6587,7 @@ rosettaapi.technology
 shentu.technology
 sui.technology
 uns.technology
+wallet.tg
 coinbase.co.th
 amlbot.in.th
 guts.tickets

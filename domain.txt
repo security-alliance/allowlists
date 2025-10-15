@@ -1884,6 +1884,7 @@ reservoir.buzz
 stellar.buzz
 coinbasecloud.ca
 coinbaseprime.ca
+fido.ca
 zohoapis.ca
 zohocloud.ca
 allo.capital

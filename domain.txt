@@ -3988,6 +3988,7 @@ wormhole-5sz.pages.dev
 wormhole-web.pages.dev
 zksync-era-website.pages.dev
 pcswap.dev
+pse.dev
 reservoir.dev
 rollkit.dev
 rosetta-api.dev

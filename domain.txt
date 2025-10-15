@@ -3596,10 +3596,18 @@ governance.worldlibertyfinancial.com
 vote.worldlibertyfinancial.com
 worldmobiletoken.com
 worldofdypians.com
+airdrop.wormhole.com
+book.wormhole.com
 docs.wormhole.com
+mail.wormhole.com
+prod-flat-files.wormhole.com
 prod-flat-files-min.wormhole.com
 production-flat-files.wormhole.com
 wormholebridge.com
+v1.wormholebridge.com
+wormholenetwork.com
+book.wormholenetwork.com
+docs.wormholenetwork.com
 wowearn.com
 wrappednfts.com
 wtfisqf.com
@@ -3969,6 +3977,7 @@ monad-sybill-checker.pages.dev
 monad-takehome.pages.dev
 monadvision.pages.dev
 overflow-7qq.pages.dev
+portal-bridge-github-actions.pages.dev
 portal-bridge-production.pages.dev
 portal-bridge-staging.pages.dev
 preprod-landing.pages.dev
@@ -5932,6 +5941,7 @@ coinbaseprime.co.nz
 coinbase.nz
 analog.one
 c10nbase.one
+wormhole-v2-mainnet-api.certus.one
 coinbasecard.one
 coinbasecloud.one
 everstake.one

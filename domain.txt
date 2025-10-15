@@ -3050,6 +3050,7 @@ raiinmaker.medium.com
 skatechain.medium.com
 topco.medium.com
 u2unetwork.medium.com
+wormholecrypto.medium.com
 link.meebco.com
 meetup.com
 mefoundation.com
@@ -3201,6 +3202,7 @@ polymarketanalytics.com
 polymarketexchange.com
 polynoob.com
 popg.com
+staging.portalbridge.com
 portaldefi.com
 hub.portaltobitcoin.com
 nodes.portaltobitcoin.com
@@ -3594,6 +3596,10 @@ governance.worldlibertyfinancial.com
 vote.worldlibertyfinancial.com
 worldmobiletoken.com
 worldofdypians.com
+docs.wormhole.com
+prod-flat-files-min.wormhole.com
+production-flat-files.wormhole.com
+wormholebridge.com
 wowearn.com
 wrappednfts.com
 wtfisqf.com
@@ -3950,6 +3956,7 @@ openrarity.dev
 1inch-io-landing-production.pages.dev
 akashexplorer.pages.dev
 bill-camp-net-worth.pages.dev
+da02926816b3ed667ca0bac0bdca27102783e4a491d9fbeef750151b19.pages.dev
 flixflare-down.pages.dev
 geekflaread.pages.dev
 geekflareak.pages.dev
@@ -3962,6 +3969,8 @@ monad-sybill-checker.pages.dev
 monad-takehome.pages.dev
 monadvision.pages.dev
 overflow-7qq.pages.dev
+portal-bridge-production.pages.dev
+portal-bridge-staging.pages.dev
 preprod-landing.pages.dev
 reown-wallet-test.pages.dev
 uptimeflare-5wv.pages.dev
@@ -5266,6 +5275,8 @@ zerion-inc.webflow.io
 wifimap.io
 winx.io
 worldmobile.io
+wormholescan.io
+testnet.wormholescan.io
 x.io
 xcavate.io
 xeleb.io
@@ -6895,6 +6906,7 @@ cbase.xyz
 cdpsdk.xyz
 cedomis.xyz
 soneiumcows.clintmod111.xyz
+clubhologram.xyz
 codex.xyz
 coinbase.xyz
 coinbasenft.xyz
@@ -7154,6 +7166,8 @@ token-image.walrus.xyz
 wasabi.xyz
 weroam.xyz
 worldofwomen.xyz
+wormholelabs.xyz
+xlabs.xyz
 zekret.xyz
 zeusnetwork.xyz
 zksynclinks.xyz

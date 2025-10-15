@@ -3985,6 +3985,7 @@ reown-wallet-test.pages.dev
 uptimeflare-5wv.pages.dev
 user-5816127315-79aab36f-51k.pages.dev
 wormhole-5sz.pages.dev
+wormhole-web.pages.dev
 zksync-era-website.pages.dev
 pcswap.dev
 reservoir.dev

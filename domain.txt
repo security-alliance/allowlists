@@ -6929,6 +6929,7 @@ eigenyields.xyz
 elixir.xyz
 ellipsislabs.xyz
 fastlane.xyz
+discord.fastlane.xyz
 explorer.fastset.xyz
 wallet.fastset.xyz
 fermah.xyz

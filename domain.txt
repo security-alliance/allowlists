@@ -6096,6 +6096,7 @@ decred.org
 proposals.decred.org
 deepbrainchain.org
 depined.org
+devconnect.org
 dexrp.org
 dfinity.org
 diadata.org

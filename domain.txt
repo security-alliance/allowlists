@@ -6415,6 +6415,7 @@ coinbasecloud.shop
 coinbasegiveaway.shop
 coinbasecard.shopping
 coinbase.short-blockwildcard
+watt.si
 brizy.site
 c10nbase.site
 coinbasecloud.site

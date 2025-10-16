@@ -2012,6 +2012,7 @@ sui.cm
 tagomi.com.cn
 zoho.com.cn
 zohoapis.com.cn
+moneygram.cn
 tagomi.net.cn
 tagomi.org.cn
 sophon-file.sophon.cn

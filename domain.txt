@@ -1774,6 +1774,7 @@ opensea.autos
 opensea.baby
 opensea.band
 opensea.bargains
+moneygram.com.bd
 coinbase.be
 coinbasecloud.be
 coinbaseprime.be

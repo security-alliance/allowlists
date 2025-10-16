@@ -4055,6 +4055,7 @@ euler-app.fanz.ee
 morpho-app.fanz.ee
 polkadex.ee
 orderbook.polkadex.ee
+moneygram.eg
 opensea.elite
 x.em
 c10nbase.email

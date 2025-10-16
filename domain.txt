@@ -5430,6 +5430,7 @@ cbhq.link
 blog.chain.link
 dev.chain.link
 docs.chain.link
+home.chain.link
 rewards.chain.link
 chainlink-staking.link
 coinbasecard.link

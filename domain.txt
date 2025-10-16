@@ -4669,6 +4669,7 @@ sui.id
 talentum.id
 coinbasecard.ie
 coinbaseprime.co.il
+moneygram.co.il
 opensea.ill
 aegis.im
 aleph.im

@@ -3918,6 +3918,7 @@ pareto.credit
 opensea.creditcard
 coinbase.cx
 goat.cx
+moneygram.com.cy
 coinbase.cyou
 coinbase.cz
 coinbaseprime.cz

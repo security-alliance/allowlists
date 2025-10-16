@@ -2007,6 +2007,7 @@ discord.turtle.club
 coinbaseprime.cm
 misten.cm
 mistenlabs.cm
+moneygram.cm
 mysten.cm
 mystenlabs.cm
 sui.cm

@@ -1730,6 +1730,7 @@ yield.app
 zencashplatform.app
 zenplatform.app
 coinbaseprime.com.ar
+moneygram.com.ar
 opensea.army
 capy.art
 forma.art

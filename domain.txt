@@ -5411,6 +5411,7 @@ velo.drome.eth.link
 hybridsmartcontract.link
 hybridsmartcontracts.link
 market.link
+mgrm.link
 misten.link
 mistenlabs.link
 morpho.link
@@ -5423,6 +5424,7 @@ relay.link
 rosetta-api.link
 smartcontractresearch.link
 spindl.link
+sprout.link
 stake.link
 staker-chain.link
 staking-chain.link

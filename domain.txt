@@ -5573,6 +5573,7 @@ coinbase.mu
 coinbase.mx
 coinbaseprime.mx
 zabo.com.mx
+moneygram.mx
 opensea.org.mx
 zabo.mx
 coinbase.my

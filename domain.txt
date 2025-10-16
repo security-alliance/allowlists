@@ -4589,6 +4589,7 @@ mystenlabsnft.group
 mystennft.group
 sui.group
 coinbase.gs
+moneygram.gt
 coinbasecloud.guide
 misten.guide
 mistenlabs.guide

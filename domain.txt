@@ -5593,6 +5593,7 @@ moneygram.mx
 opensea.org.mx
 zabo.mx
 coinbase.my
+moneygram.my
 coinbase.name
 coinbasecard.name
 coinbasecloud.name

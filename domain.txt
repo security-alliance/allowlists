@@ -4049,6 +4049,7 @@ sui.download
 coinbase.ec
 iex.ec
 docs.iex.ec
+moneygram.ec
 misten.education
 mistenlabs.education
 mysten.education

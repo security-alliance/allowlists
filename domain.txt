@@ -4518,6 +4518,7 @@ pear.garden
 coinbase.gay
 coinbase.gd
 coinbase.ge
+moneygram.ge
 aitv.gg
 ancient8.gg
 bitplay.gg

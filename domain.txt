@@ -4191,6 +4191,7 @@ bullpen.fi
 caddi.fi
 common.fi
 classic.curve.fi
+curvy.fi
 dein.fi
 ekiden.fi
 app.ekiden.fi

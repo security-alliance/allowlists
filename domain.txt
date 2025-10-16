@@ -4367,6 +4367,7 @@ treehouse.finance
 mystenlabs.tres.finance
 turbos.finance
 typus.finance
+umami.finance
 dev.valdora.finance
 vvs.finance
 wing.finance

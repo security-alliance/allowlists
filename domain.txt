@@ -4863,6 +4863,7 @@ docs.chainport.io
 clober.io
 docs.clober.io
 cobaltwallet.io
+coiin.io
 coinbase.io
 coinbaseam.io
 coinbaseassetmanagement.io

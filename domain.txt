@@ -127,6 +127,7 @@ zyf.ai
 morpho.airforce
 opensea.airforce
 re.al
+moneygram.am
 opensea.apartments
 aptosconnect.app
 arbitrumfoundation.app

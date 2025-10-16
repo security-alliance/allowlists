@@ -5921,6 +5921,7 @@ roam.network
 rocksolid.network
 rosetta-api.network
 rosettaapi.network
+rujira.network
 sending.network
 silencio.network
 somnia.network

@@ -5382,6 +5382,7 @@ coinone.co.kr
 korbit.co.kr
 coinbase.kr
 coinbaseprime.kr
+moneygram.kr
 cbam-intl.ky
 mugen.ky
 coinbase.kz

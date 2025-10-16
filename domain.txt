@@ -1825,6 +1825,7 @@ sui.blog
 compound.blue
 morpho.blue
 coinbase.bm
+moneygram.bo
 opensea.boats
 ape.bond
 coinbase.bond

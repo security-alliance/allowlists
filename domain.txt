@@ -58,6 +58,7 @@ everlyn.ai
 exabits.ai
 fairchain.ai
 docs.fetch.ai
+fireswap.ai
 gaib.ai
 gmnetwork.ai
 gokite.ai

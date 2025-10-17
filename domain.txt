@@ -6945,6 +6945,7 @@ degen.aevo.xyz
 agoralend.xyz
 alphafi.xyz
 docs.alphafi.xyz
+altiuslabs.xyz
 alva.xyz
 alvara.xyz
 links.alvara.xyz

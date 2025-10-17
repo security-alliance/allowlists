@@ -5033,6 +5033,7 @@ intract.io
 iost.io
 iotex.io
 itch.io
+jexchange.io
 jokerace.io
 kadena.io
 kaia.io

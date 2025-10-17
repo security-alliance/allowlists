@@ -7053,6 +7053,7 @@ app.hyperbolic.xyz
 hyperion.xyz
 hyperlane.xyz
 hyperliquid.xyz
+stats.hyperliquid.xyz
 sui.hyperspace.xyz
 app.hyperwavefi.xyz
 hyvelabs.xyz

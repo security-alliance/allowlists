@@ -105,6 +105,7 @@ spindl.ai
 support-opensea.ai
 talentbased.ai
 theoriq.ai
+tokenomist.ai
 trmlabs.ai
 unmarshal.ai
 uomi.ai

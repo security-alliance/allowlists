@@ -5596,6 +5596,7 @@ fei.money
 level.money
 app.level.money
 pinto.money
+pulsar.money
 terra.money
 docs.usual.money
 tech.usual.money

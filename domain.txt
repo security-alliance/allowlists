@@ -4272,6 +4272,7 @@ juiced.yearn.fi
 aborean.finance
 aera.finance
 aftermath.finance
+ajna.finance
 ambient.finance
 anzen.finance
 apollox.finance

@@ -6690,6 +6690,7 @@ coinbase.tk
 coinbaseprime.tk
 coinbase.tl
 coinbase.tn
+biome.to
 coinbase.to
 gtly.to
 lithos.to

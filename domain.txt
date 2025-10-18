@@ -4277,6 +4277,7 @@ ambient.finance
 anzen.finance
 apollox.finance
 aura.finance
+autoscale.finance
 babybera.finance
 app.badger.finance
 balancer.finance

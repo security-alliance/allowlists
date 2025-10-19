@@ -4361,6 +4361,7 @@ redstone.finance
 rhea.finance
 ribbon.finance
 v1.robonet.finance
+rub.finance
 saffron.finance
 satori.finance
 save.finance

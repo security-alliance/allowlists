@@ -5210,6 +5210,7 @@ sango.io
 cdn.sanity.io
 game.sapien.io
 scallop.io
+app.scallop.io
 docs.scallop.io
 scalloplabs.io
 scrollchain.io

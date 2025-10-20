@@ -7116,6 +7116,7 @@ monadpad.xyz
 monadscan.xyz
 monadshow.xyz
 monid.xyz
+moremarkets.xyz
 morkie.xyz
 morpho.xyz
 morpho-labs.xyz

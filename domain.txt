@@ -5276,6 +5276,7 @@ docs.suins.io
 testnet.suins.io
 suipassport.io
 sun.io
+svim.io
 sw-dev.io
 earn.sw-dev.io
 syfu.io

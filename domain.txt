@@ -5560,6 +5560,7 @@ cb.markets
 coinbase.markets
 emblem.markets
 mango.markets
+alpha.melee.markets
 bento.me
 chainlinkfoundation.me
 coinbasecard.me

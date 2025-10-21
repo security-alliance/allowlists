@@ -4358,6 +4358,7 @@ docs.mellow.finance
 terra.mirror.finance
 mmt.finance
 app.mmt.finance
+modulo.finance
 mozi.finance
 nept.finance
 articles.nept.finance

@@ -43,6 +43,7 @@ capx.ai
 chainopera.ai
 chatdkg.ai
 chirppad.ai
+chutes.ai
 clore.ai
 coiin.ai
 coinbase.ai

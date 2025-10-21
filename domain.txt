@@ -5228,6 +5228,7 @@ smardex.io
 solaxy.io
 somesing.io
 soul.io
+sova.io
 stackblitz.io
 stafi.io
 stakingcrypto.io

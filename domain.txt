@@ -49,6 +49,7 @@ coiin.ai
 coinbase.ai
 computelabs.ai
 cortexlabs.ai
+cryptopunksnft.ai
 cyvers.ai
 deagent.ai
 defusion.ai
@@ -2079,6 +2080,7 @@ app.cookie3.co
 copper.co
 crosschainsmartcontract.co
 crosschainsmartcontracts.co
+cryptopunks.co
 custodycoinbase.co
 cyber.co
 eth-coinbase.co
@@ -6186,6 +6188,7 @@ creditcoin.org
 crosschainsmartcontract.org
 crosschainsmartcontracts.org
 crypto435.org
+cryptopunks721.org
 cudos.org
 dash.org
 newsroom.dash.org
@@ -6838,6 +6841,7 @@ coinbasepayments.co.uk
 coinbaseprime.co.uk
 coinbasepro.co.uk
 coinbasewallet.co.uk
+cryptopunks721.co.uk
 tagomi.co.uk
 trmlabs.co.uk
 coinbase.uk

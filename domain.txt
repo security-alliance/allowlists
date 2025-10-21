@@ -50,6 +50,7 @@ computelabs.ai
 cortexlabs.ai
 cyvers.ai
 deagent.ai
+defusion.ai
 degentics.ai
 delaunch.ai
 dmailnetwork.ai

@@ -5916,6 +5916,7 @@ staking.natix.network
 nebulai.network
 docs.nebulai.network
 nodeops.network
+nomisma.network
 0g.notifi.network
 ofero.network
 omg.network

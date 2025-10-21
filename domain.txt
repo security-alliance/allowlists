@@ -4843,6 +4843,7 @@ arpanetwork.io
 artblocks.io
 assembleprotocol.io
 ai.assembleprotocol.io
+asterizm.io
 atomics.io
 aventus.io
 axelarscan.io

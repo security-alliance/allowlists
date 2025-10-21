@@ -6013,6 +6013,7 @@ ab-isolutions.nl
 coinbase.nl
 coinbasecloud.nl
 coinbaseprime.no
+kai.now
 coinbase.nu
 neutrino.nu
 opensea.nyc

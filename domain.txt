@@ -3060,6 +3060,7 @@ folksfinance.medium.com
 horizenlabs.medium.com
 htxofficial.medium.com
 inchnetwork-cn.medium.com
+learnify.medium.com
 massalabs.medium.com
 neocortexai.medium.com
 nest-protocol.medium.com
@@ -7111,6 +7112,7 @@ kittypunch.xyz
 launchtube.xyz
 intel.layer3.xyz
 learnify.xyz
+whitepaper.learnify.xyz
 lens.xyz
 lenster.xyz
 letshamsterdance.xyz

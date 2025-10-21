@@ -4994,6 +4994,7 @@ drip-trade.gitbook.io
 gata-1.gitbook.io
 haedal-protocol.gitbook.io
 level-money.gitbook.io
+melee-1.gitbook.io
 momentum-safe.gitbook.io
 naviprotocol.gitbook.io
 phantasma.gitbook.io

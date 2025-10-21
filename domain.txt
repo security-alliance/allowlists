@@ -2704,6 +2704,7 @@ cryptoindexhub.com
 cryptology.com
 cryptopackagedgoods.com
 cryptopunks721.com
+cryptopunksnft.com
 cryptoslate.com
 cryptouniversity.com
 curvance.com
@@ -4934,6 +4935,7 @@ coti.io
 crankk.io
 crosschainsmartcontract.io
 crosschainsmartcontracts.io
+cryptopunks721.io
 cryptorank.io
 cultdao.io
 app.cultdao.io
@@ -5551,6 +5553,7 @@ coinbasecard.management
 apedao.market
 coinbasecard.market
 coinbasecloud.market
+cryptopunks.market
 echelon.market
 gmoney.market
 hbar.market
@@ -6246,6 +6249,7 @@ hyperbridge.org
 hyperfoundation.org
 ichi.org
 inco.org
+infinitenodefoundation.org
 internetcomputer.org
 intersectmbo.org
 iota.org
@@ -6319,6 +6323,7 @@ arc.plume.org
 bridge.plume.org
 portal.plume.org
 primodata.org
+punksbrunch.org
 push.org
 qtum.org
 radiantblockchain.org
@@ -6958,6 +6963,7 @@ coinbasecard.work
 coinbasecloud.work
 coinbasenft.work
 coinbasepro.work
+nodeart.work
 nodenet.work
 coinbasecard.works
 coinbasecloud.works

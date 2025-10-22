@@ -1898,6 +1898,7 @@ coinbasecloud.ca
 coinbaseprime.ca
 fido.ca
 omnitv.ca
+shaw.ca
 sportsnet.ca
 zohoapis.ca
 zohocloud.ca

@@ -6793,6 +6793,7 @@ reservoir.tools
 something.tools
 sui.tools
 tangle.tools
+kusama-discord.w3f.tools
 polkadot-discord.w3f.tools
 c10nbase.top
 coinbasecard.top

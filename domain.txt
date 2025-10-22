@@ -4177,6 +4177,7 @@ dln.exchange
 dydx.exchange
 hyperswap.exchange
 jumper.exchange
+limitless.exchange
 loot.exchange
 metropolis.exchange
 misten.exchange

@@ -1894,6 +1894,7 @@ sui.business
 bookofmeme.buzz
 reservoir.buzz
 stellar.buzz
+citynews.ca
 citytvplus.ca
 coinbasecloud.ca
 coinbaseprime.ca

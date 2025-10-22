@@ -3031,6 +3031,7 @@ limitbreak.com
 br.linkedin.com
 in.linkedin.com
 lisk.com
+litecoin.com
 litentry.com
 litprotocol.com
 llama-corp.com

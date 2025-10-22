@@ -1946,6 +1946,7 @@ bitbank.cc
 coinbasecard.cc
 coinbaseprime.cc
 crustnetwork.cc
+files.crustnetwork.cc
 cryptocommerce.cc
 fuelup.cc
 legion.cc
@@ -2710,6 +2711,7 @@ cpoinbase.com
 crosschainsmartcontract.com
 crosschainsmartcontracts.com
 crunchdao.com
+crustfiles.com
 crypto-university.com
 crypto435.com
 cryptoindexhub.com
@@ -7066,6 +7068,7 @@ conduit.xyz
 contango.xyz
 contezt.xyz
 0g-faucet.corenodehq.xyz
+crustfiles.xyz
 crustnetwork.xyz
 files.crustnetwork.xyz
 cryptopunks721.xyz

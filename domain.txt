@@ -176,6 +176,8 @@ coinbasewallet.app
 coinbasexchange.app
 cointent.app
 conft.app
+crustcloud.app
+files.crustnetwork.app
 cryptomaze.app
 cryptopunks.app
 cybermarket.app
@@ -184,6 +186,7 @@ defi.app
 docs.defi.app
 dfast.app
 eo.app
+ethda.app
 forms.app
 community.forms.app
 community2.forms.app
@@ -7064,6 +7067,7 @@ contango.xyz
 contezt.xyz
 0g-faucet.corenodehq.xyz
 crustnetwork.xyz
+files.crustnetwork.xyz
 cryptopunks721.xyz
 cudis.xyz
 cvex.xyz

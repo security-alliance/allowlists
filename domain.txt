@@ -4011,6 +4011,7 @@ governance-1inch-community.pages.dev
 lab-walletconnect-modal.pages.dev
 metamask-connector-test.pages.dev
 metamask-react-boilerplate.pages.dev
+monad-bridge-staging.pages.dev
 monad-sybill-checker.pages.dev
 monad-takehome.pages.dev
 monadvision.pages.dev

@@ -1893,9 +1893,11 @@ sui.business
 bookofmeme.buzz
 reservoir.buzz
 stellar.buzz
+citytvplus.ca
 coinbasecloud.ca
 coinbaseprime.ca
 fido.ca
+omnitv.ca
 zohoapis.ca
 zohocloud.ca
 allo.capital
@@ -3311,6 +3313,7 @@ riveronedigital.com
 rockx.com
 rogers.com
 rogerssportsandmedia.com
+rogerstv.com
 rollbit.com
 roninchain.com
 docs.roninchain.com

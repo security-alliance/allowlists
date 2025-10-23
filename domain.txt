@@ -2213,6 +2213,7 @@ aon.com
 apechain.com
 apecoin.com
 apkgk.com
+podcasts.apple.com
 demos.arcium.com
 arcs-chain.com
 arichain.com
@@ -6152,6 +6153,7 @@ bitc2.org
 bitcoinaddict.org
 bitcoindiamond.org
 bitcoingold.org
+bitcointalk.org
 bitdegree.org
 bitvm-acc.org
 blockvision.org

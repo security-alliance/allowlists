@@ -5267,6 +5267,7 @@ sembra.io
 sentinelprotocol.io
 sentry.io
 sergeynazarov.io
+shib.io
 shibarium.shib.io
 singularitynet.io
 slex.io

@@ -5779,6 +5779,7 @@ docs.io.net
 jsdelivr.net
 layerxtech.net
 liquid.net
+lumiterra.net
 maidsafe.net
 massa.net
 mawari.net

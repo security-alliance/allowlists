@@ -6493,6 +6493,7 @@ openseapro.pro
 paradex.pro
 ponet.pro
 powerpod.pro
+swft.pro
 tagomi.pro
 teneo.pro
 tokenpocket.pro

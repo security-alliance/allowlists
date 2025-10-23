@@ -4981,6 +4981,7 @@ dkargo.io
 dkloud.io
 dock.io
 dolomite.io
+app.dolomite.io
 dropwireless.io
 drosera.io
 dev.drosera.io

@@ -3207,6 +3207,7 @@ openseaprorelayproxy.com
 opensearelayproxy.com
 openseasecurityprovider.com
 openseauserdata.com
+fasset.oracle-daemon.com
 fassets.oracle-daemon.com
 orbs.com
 orchid.com

@@ -3207,6 +3207,7 @@ openseaprorelayproxy.com
 opensearelayproxy.com
 openseasecurityprovider.com
 openseauserdata.com
+oracle-daemon.com
 fasset.oracle-daemon.com
 fassets.oracle-daemon.com
 orbs.com
@@ -5921,6 +5922,7 @@ portal.flare.network
 songbird-explorer.flare.network
 songbird-systems-explorer.flare.network
 songbird-validators.flare.network
+xrpfi.flare.network
 form.network
 fwd.network
 gauntlet.network

@@ -7053,6 +7053,7 @@ degen.aevo.xyz
 agoralend.xyz
 alphafi.xyz
 docs.alphafi.xyz
+alphalend.xyz
 altiuslabs.xyz
 alva.xyz
 alvara.xyz

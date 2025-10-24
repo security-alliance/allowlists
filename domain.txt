@@ -143,6 +143,7 @@ backpack.app
 base.app
 join.base.app
 believe.app
+bitton.app
 bondex.app
 bsky.app
 c10nbase.app

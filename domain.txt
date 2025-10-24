@@ -4467,6 +4467,7 @@ sui.forsale
 dydx.forum
 algorand.foundation
 allora.foundation
+claims.allora.foundation
 amo.foundation
 caduceus.foundation
 chainlink.foundation

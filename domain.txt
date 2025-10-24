@@ -5630,6 +5630,7 @@ coinbasenft.me
 coinbaseprime.me
 datadex.me
 enokey.me
+exmo.me
 haha.me
 messageth.me
 misten.me
@@ -6536,6 +6537,8 @@ punkz.rocks
 coinbase.rs
 coinbaseprime.ru
 coinbase.com.ru
+rutube.ru
+vc.ru
 zohoapis.sa
 coinbasecard.sale
 coinbase.sc

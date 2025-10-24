@@ -6842,6 +6842,7 @@ paradex.trade
 app.rage.trade
 reactor.trade
 app.sherpa.trade
+discord.sherpa.trade
 totle.trade
 coinbasecard.training
 coinbasecloud.training

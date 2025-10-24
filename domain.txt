@@ -6841,6 +6841,7 @@ oku.trade
 paradex.trade
 app.rage.trade
 reactor.trade
+app.sherpa.trade
 totle.trade
 coinbasecard.training
 coinbasecloud.training

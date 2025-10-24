@@ -723,6 +723,7 @@ reclaim-links-eskk.vercel.app
 seal-example-git-joy-use-seal-client-mysten-labs.vercel.app
 seal-example-git-main-mysten-labs.vercel.app
 siws.vercel.app
+sol-incinerator.vercel.app
 starknetkit-website-f0ejy1m72-argentlabs.vercel.app
 stashed-git-indexer-rpc-test-mysten-labs.vercel.app
 stashed-git-mh-bump-suins-sdk-mysten-labs.vercel.app

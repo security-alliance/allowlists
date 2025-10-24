@@ -19,6 +19,7 @@ coinbase.ag
 app.meteora.ag
 aiverse.0g.ai
 storagescan-newton.0g.ai
+claim.airdrop.0gfoundation.ai
 0x0.ai
 0xnest.ai
 375.ai

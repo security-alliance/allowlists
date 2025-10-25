@@ -4656,6 +4656,7 @@ tokenmint.global
 travelrule.global
 trust.global
 zenny.global
+ayni.gold
 fartcoin.gold
 translate.goog
 coinbase.gr

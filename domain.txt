@@ -5270,6 +5270,7 @@ sallar.io
 sango.io
 cdn.sanity.io
 game.sapien.io
+app.satonomy.io
 scallop.io
 app.scallop.io
 docs.scallop.io

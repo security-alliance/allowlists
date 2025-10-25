@@ -15,6 +15,7 @@ opensea.africa
 docs.7k.ag
 port.7k.ag
 tako.7k.ag
+atmos.ag
 coinbase.ag
 app.meteora.ag
 aiverse.0g.ai

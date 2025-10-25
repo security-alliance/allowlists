@@ -1830,6 +1830,7 @@ tagomi.biz
 totle.biz
 c10nbase.blog
 coinbasecloud.blog
+hive.blog
 misten.blog
 mistenlabs.blog
 mysten.blog
@@ -5085,6 +5086,7 @@ havah.io
 hermez.io
 hippocrat.io
 hive.io
+gitlab.hive.io
 hokko.io
 holder.io
 hooked.io
@@ -5498,6 +5500,7 @@ redbrick.land
 starke-orte.land
 moneygram.com.lb
 coinbasecard.legal
+myhive.li
 c10nbase.life
 coinbasenft.life
 mf.life

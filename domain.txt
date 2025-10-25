@@ -98,6 +98,7 @@ otoy.ai
 ozak.ai
 perle.ai
 pinlink.ai
+prismax.ai
 privasea.ai
 proopensea.ai
 propensea.ai

@@ -4515,6 +4515,7 @@ smartcontract.foundation
 sui.foundation
 thechainlink.foundation
 tonomy.foundation
+vortex.foundation
 walletconnect.foundation
 wormhole.foundation
 zka.foundation

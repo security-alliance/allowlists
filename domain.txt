@@ -5134,6 +5134,7 @@ kardiachain.io
 app.kava.io
 kelpme.io
 kgen.io
+khorus.io
 kilt.io
 kizzy.io
 kleros.io

@@ -204,6 +204,7 @@ hashpack.app
 hedgehog.app
 meebits.app
 meganet.app
+messier.app
 metapool.app
 meteorwallet.app
 midas.app

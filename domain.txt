@@ -5059,6 +5059,7 @@ galaxiacoin.io
 gamezone.io
 gatechain.io
 get-protocol.io
+getgems.io
 ghost.io
 gifto.io
 gigaverse.io

@@ -5010,6 +5010,7 @@ dock.io
 dolomite.io
 app.dolomite.io
 docs.dolomite.io
+dreamcatalyst.io
 dropwireless.io
 drosera.io
 dev.drosera.io

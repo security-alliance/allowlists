@@ -3103,6 +3103,7 @@ polkadex.medium.com
 quillaudits.medium.com
 raiinmaker.medium.com
 skatechain.medium.com
+sundaeswap-finance.medium.com
 topco.medium.com
 u2unetwork.medium.com
 wormholecrypto.medium.com
@@ -4320,6 +4321,7 @@ docs.suilend.fi
 suipearl.fi
 summer.fi
 sundae.fi
+app.sundae.fi
 app.symbiotic.fi
 blog.symbiotic.fi
 taya.fi

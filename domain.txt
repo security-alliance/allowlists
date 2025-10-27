@@ -1850,6 +1850,7 @@ opensea.boats
 ape.bond
 coinbase.bond
 coinbase.bot
+punkcity.bot
 phi.box
 stage.box
 starknet.stage.box

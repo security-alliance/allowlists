@@ -5498,6 +5498,7 @@ coinbase.kz
 coinbase.la
 horizen.la
 cryptopunks721.land
+elysia.land
 fuzz.land
 fx.land
 moss.land

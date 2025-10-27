@@ -5688,6 +5688,7 @@ app.level.money
 pinto.money
 pulsar.money
 reflect.money
+solido.money
 terra.money
 docs.usual.money
 tech.usual.money

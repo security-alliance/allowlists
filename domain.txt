@@ -5119,6 +5119,7 @@ idclub.io
 idex.io
 indigoprotocol.io
 inferix.io
+infinityrising.io
 infura.io
 argent.infura-ipfs.io
 instantsell.io

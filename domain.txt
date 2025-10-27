@@ -3278,6 +3278,7 @@ portal.projectserum.com
 proofofplay.com
 propy.com
 proteodefi.com
+docs.proteodefi.com
 publicnode.com
 arbitrum-one.publicnode.com
 puffymunchies.com

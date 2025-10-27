@@ -3276,6 +3276,7 @@ procoinbase.com
 portal.projectserum.com
 proofofplay.com
 propy.com
+proteodefi.com
 publicnode.com
 arbitrum-one.publicnode.com
 puffymunchies.com

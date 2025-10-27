@@ -5257,6 +5257,7 @@ photonchain.io
 pinai.io
 pingnetwork.io
 playdapp.io
+playdeck.io
 poap.io
 exchange.pointpay.io
 pokpok.io

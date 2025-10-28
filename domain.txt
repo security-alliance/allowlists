@@ -5683,6 +5683,7 @@ proton.me
 rainbow.me
 readyplayer.me
 strike.me
+x.me
 coinbasecloud.media
 misten.media
 mistenlabs.media

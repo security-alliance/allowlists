@@ -1749,6 +1749,7 @@ zksync-interop.web.app
 withblaze.app
 xlog.app
 yield.app
+zar.app
 zencashplatform.app
 zenplatform.app
 coinbaseprime.com.ar

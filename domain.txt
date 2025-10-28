@@ -5269,6 +5269,7 @@ pinai.io
 pingnetwork.io
 playdapp.io
 playdeck.io
+hub.playprovidence.io
 poap.io
 exchange.pointpay.io
 pokpok.io

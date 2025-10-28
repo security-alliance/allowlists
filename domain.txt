@@ -2104,6 +2104,7 @@ cryptopunks.co
 custodycoinbase.co
 cyber.co
 eth-coinbase.co
+evg.co
 exchangecoinbase.co
 fintechstories.co
 flamedefi.co

@@ -3576,6 +3576,7 @@ tranchess.com
 transak.com
 travala.com
 trendspider.com
+tri-countycopiers.com
 trmlabs-careers.com
 trmlabs-demo.com
 trmlabs-dev.com
@@ -4180,6 +4181,7 @@ misten.es
 mistenlabs.es
 mysten.es
 mystenlabs.es
+xerox.es
 polymark.et
 21x.eu
 buxmarkets.eu
@@ -6127,6 +6129,7 @@ coinbase.ng
 ab-isolutions.nl
 coinbase.nl
 coinbasecloud.nl
+xerox.nl
 coinbaseprime.no
 kai.now
 coinbase.nu

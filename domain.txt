@@ -4412,6 +4412,7 @@ claim.lombard.finance
 docs.lombard.finance
 lynx.finance
 lyra.finance
+test.madness.finance
 makina.finance
 marinade.finance
 mayan.finance

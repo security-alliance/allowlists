@@ -6954,6 +6954,7 @@ coinbasewallet.co.uk
 cryptopunks721.co.uk
 tagomi.co.uk
 trmlabs.co.uk
+xerox.co.uk
 coinbase.uk
 coinbasecard.uk
 coinbasecloud.uk

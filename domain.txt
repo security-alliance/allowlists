@@ -191,6 +191,7 @@ cryptopunks.app
 cybermarket.app
 deepdrop.app
 defi.app
+app.defi.app
 docs.defi.app
 dfast.app
 eo.app

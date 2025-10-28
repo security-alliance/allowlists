@@ -6189,6 +6189,7 @@ alpacafinance.org
 ampleforth.org
 amptoken.org
 apenft.org
+apexfusion.org
 api3.org
 aptosfoundation.org
 aragon.org

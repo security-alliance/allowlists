@@ -2161,6 +2161,7 @@ top.co
 tradexapp.co
 trmlabs.co
 weipay.co
+xellar.co
 zabobank.co
 ico.zapme.co
 zora.co

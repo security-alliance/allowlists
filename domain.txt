@@ -1863,6 +1863,7 @@ coinbaseprime.com.br
 foxbit.com.br
 mercadobitcoin.com.br
 nubank.com.br
+raylz.com.br
 santosfc.com.br
 coinbase.net.br
 coinbase.bs
@@ -3252,6 +3253,7 @@ p2pb2b.com
 paragraph.com
 app.parcllabs.com
 paribu.com
+parity-network.com
 paxos.com
 perp.com
 app.perp.com
@@ -3317,7 +3319,11 @@ radixtokens.com
 raiinmaker.com
 rampdefi.com
 ravxy.com
+rayld.com
 rayls.com
+raylsfoundation.com
+raylslabs.com
+raylz.com
 realvision.com
 realvisionadvisor.com
 realvisioncaymancalling.com
@@ -4091,6 +4097,7 @@ user-5816127315-79aab36f-51k.pages.dev
 wormhole-5sz.pages.dev
 wormhole-web.pages.dev
 zksync-era-website.pages.dev
+parfin.dev
 pcswap.dev
 pse.dev
 reservoir.dev
@@ -4538,6 +4545,7 @@ nexera.foundation
 opensea.foundation
 piratenation.foundation
 rari.foundation
+rayls.foundation
 satlayer.foundation
 sentient.foundation
 smartcontract.foundation
@@ -5283,7 +5291,10 @@ airdrop.paintswap.io
 papercrypto.io
 paradex.io
 paraswap.io
+parfin.io
 parity.io
+parity-network.io
+paritynetwork.io
 parops.io
 photonchain.io
 pinai.io
@@ -5308,6 +5319,8 @@ raac.io
 rabby.io
 raidenx.io
 rate-x.io
+raylsfoundation.io
+raylz.io
 recoveris.io
 redactedgroup.io
 reef.io
@@ -5873,6 +5886,7 @@ opensea-support.net
 openseasupport.net
 openseauserdata.net
 papercrypto.net
+parchain.net
 parsiq.net
 pawchain.net
 peercoin.net
@@ -5880,6 +5894,7 @@ plumefoundation.net
 primal.net
 proofofreserves.net
 quad9.net
+rayls.net
 realvisioncaymancalling.net
 realvisionpublications.net
 realvisionpublishing.net
@@ -6061,6 +6076,7 @@ orderly.network
 orochi.network
 over.network
 parasail.network
+parchain.network
 pell.network
 phala.network
 docs.pi2.network
@@ -6083,6 +6099,8 @@ staking.pyth.network
 quant.network
 wachxbt.quillai.network
 raiin.network
+rayls.network
+raylz.network
 node.rcade.network
 recall.network
 rei.network
@@ -6432,6 +6450,7 @@ openseasupport.org
 openxai.org
 opulous.org
 pactus.org
+parchain.org
 pawsupfam.org
 pendulumchain.org
 pepecoin.org
@@ -6451,6 +6470,9 @@ radiantblockchain.org
 radworks.org
 railgun.org
 ravencoin.org
+rayls.org
+raylslabs.org
+raylz.org
 realvisioncaymancalling.org
 realvisionpublications.org
 realvisiontv.org
@@ -6967,6 +6989,7 @@ coinbaseprime.co.uk
 coinbasepro.co.uk
 coinbasewallet.co.uk
 cryptopunks721.co.uk
+raylz.co.uk
 tagomi.co.uk
 trmlabs.co.uk
 xerox.co.uk

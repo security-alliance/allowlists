@@ -6011,6 +6011,7 @@ haust.network
 hybridsmartcontract.network
 hyperbridge.network
 app.hyperbridge.network
+icb.network
 jiritsu.network
 just.network
 karak.network

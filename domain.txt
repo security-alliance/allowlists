@@ -4470,6 +4470,7 @@ streamflow.finance
 sudo.finance
 symbiosis.finance
 docs.symbiosis.finance
+tangent.finance
 tradegpt.finance
 treehouse.finance
 mystenlabs.tres.finance

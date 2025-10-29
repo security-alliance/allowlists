@@ -4512,6 +4512,7 @@ gear.foundation
 hedera.foundation
 hyperlane.foundation
 claim.hyperlane.foundation
+kite.foundation
 klaytn.foundation
 liquidbitcoin.foundation
 docs.liquidbitcoin.foundation

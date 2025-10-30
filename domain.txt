@@ -7222,6 +7222,7 @@ crustnetwork.xyz
 files.crustnetwork.xyz
 cryptopunks721.xyz
 cudis.xyz
+cukecoin.xyz
 cvex.xyz
 daostewards.xyz
 deberrys.xyz

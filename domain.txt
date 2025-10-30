@@ -4530,6 +4530,10 @@ hedera.foundation
 hyperlane.foundation
 claim.hyperlane.foundation
 kite.foundation
+claim.kite.foundation
+nft.kite.foundation
+staging.kite.foundation
+validators.kite.foundation
 klaytn.foundation
 liquidbitcoin.foundation
 docs.liquidbitcoin.foundation

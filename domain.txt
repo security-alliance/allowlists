@@ -6110,6 +6110,7 @@ polymath.network
 polymesh.network
 pontem.network
 positional.network
+presens.network
 insights.pyth.network
 kpi.pyth.network
 staking.pyth.network

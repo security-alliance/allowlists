@@ -4671,6 +4671,7 @@ chronoforge.gg
 coinbase.gg
 fireplace.gg
 fishfish.gg
+glyde.gg
 hoge.gg
 horizen.gg
 rpc-arbitrum.lfj.gg

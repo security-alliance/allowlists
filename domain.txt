@@ -6605,6 +6605,7 @@ ponet.pro
 powerpod.pro
 swft.pro
 tagomi.pro
+tars.pro
 teneo.pro
 tokenpocket.pro
 zerobase.pro

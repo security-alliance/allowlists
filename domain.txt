@@ -6001,6 +6001,7 @@ app.ddai.network
 decharge.network
 deeper.network
 delta.network
+destra.network
 dexe.network
 dforce.network
 app.dforce.network

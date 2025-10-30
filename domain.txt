@@ -71,6 +71,7 @@ fireswap.ai
 gaib.ai
 gmnetwork.ai
 gokite.ai
+testnet.gokite.ai
 hacken.ai
 horizen.ai
 infinityg.ai

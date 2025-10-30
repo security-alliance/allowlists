@@ -4154,6 +4154,7 @@ coinbase.ec
 iex.ec
 docs.iex.ec
 moneygram.ec
+well.eco
 misten.education
 mistenlabs.education
 mysten.education

@@ -247,6 +247,7 @@ scroll-skelly--scroll-io.netlify.app
 sui-zk-wallet.netlify.app
 subtle-oyster-positive.ngrok-free.app
 nightly.app
+on-fleek.app
 metabase-app-h3pqk.ondigitalocean.app
 opensea.app
 opensea-support.app

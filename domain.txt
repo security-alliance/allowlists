@@ -207,6 +207,7 @@ defi.app
 app.defi.app
 docs.defi.app
 dfast.app
+earthfast.app
 eo.app
 ethda.app
 ethervista.app

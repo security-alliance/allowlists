@@ -3242,6 +3242,7 @@ moonbirds.com
 minting.moonbirds.com
 moonchain.com
 moonpay.com
+dev.moonpay.com
 moonpaycommerce.com
 moonshot.com
 support.moonshot.com

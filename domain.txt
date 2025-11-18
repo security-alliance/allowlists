@@ -4910,6 +4910,7 @@ coinbasecloud.host
 coinbasenft.host
 coinbasepro.host
 holo.host
+orbiter.host
 walrus.host
 stake.walrus.host
 suibuilder.house
@@ -7323,6 +7324,7 @@ mysten.website
 mystenlabs.website
 mystenlabsnft.website
 mystennft.website
+orbiter.website
 rosetta-api.website
 rosettaapi.website
 sui.website

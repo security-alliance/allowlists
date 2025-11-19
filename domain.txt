@@ -6237,6 +6237,7 @@ haust.network
 hybridsmartcontract.network
 hyperbridge.network
 app.hyperbridge.network
+hyra.network
 icb.network
 jiritsu.network
 just.network

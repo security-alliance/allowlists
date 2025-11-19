@@ -5539,6 +5539,7 @@ solaxy.io
 somesing.io
 soul.io
 sova.io
+spicenet.io
 spoonai.io
 stackblitz.io
 stafi.io

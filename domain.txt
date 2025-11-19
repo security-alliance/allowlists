@@ -7080,6 +7080,7 @@ rosetta-api.tech
 rosettaapi.tech
 aura.shards.tech
 sia.tech
+socket.tech
 sprinter.tech
 suisec.tech
 tunnel.tech

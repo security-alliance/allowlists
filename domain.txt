@@ -134,6 +134,7 @@ tokenomist.ai
 trmlabs.ai
 unmarshal.ai
 uomi.ai
+usd.ai
 vaani.ai
 vaiot.ai
 vanagraph.ai

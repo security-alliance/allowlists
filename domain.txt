@@ -2835,6 +2835,7 @@ dioneprotocol.com
 disneypinnacle.com
 dlnews.com
 dmmuneef.com
+hub.docker.com
 dogecoin.com
 dogelonmars.com
 dogeos.com
@@ -3297,6 +3298,7 @@ noradrop.com
 nosana.com
 nostr.com
 nousresearch.com
+npmjs.com
 nym.com
 oceanprotocol.com
 ocinbase.com

@@ -6561,6 +6561,7 @@ deepbrainchain.org
 deepnode.org
 depined.org
 devconnect.org
+ethday.devconnect.org
 dexrp.org
 dfinity.org
 diadata.org

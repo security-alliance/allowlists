@@ -7191,6 +7191,7 @@ flamix.trade
 fly.trade
 app.fly.trade
 gains.trade
+hello.trade
 ionex.trade
 loyal.trade
 merkle.trade

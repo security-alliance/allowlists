@@ -5471,6 +5471,7 @@ origintrail.io
 ostium.io
 outlierventures.io
 airdrop.paintswap.io
+live-ethday.pantheonsite.io
 papercrypto.io
 paradex.io
 paraswap.io

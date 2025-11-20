@@ -248,6 +248,7 @@ deploy-preview-426--scroll-io.netlify.app
 mainnet--scroll-io.netlify.app
 scroll-io.netlify.app
 scroll-skelly--scroll-io.netlify.app
+studio-testnet.netlify.app
 sui-zk-wallet.netlify.app
 subtle-oyster-positive.ngrok-free.app
 nightly.app

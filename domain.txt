@@ -2167,6 +2167,7 @@ mdex.co
 mistenlabs.co
 mystenlabsnft.co
 mystennft.co
+nexusmutual.co
 ocinbase.co
 oinbase.co
 omisego.co
@@ -5440,6 +5441,7 @@ neova.io
 nerochain.io
 nestree.io
 netris.io
+nexus1.io
 nexusmutual.io
 nexusmutualdao.io
 ngrave.io
@@ -6677,6 +6679,7 @@ nockchain.org
 story-faucet.nodefleet.org
 notcoin.org
 nuralchain.org
+nxmcommunity.org
 oasisprotocol.org
 oax.org
 obol.org
@@ -7245,6 +7248,7 @@ coinbaseprime.co.uk
 coinbasepro.co.uk
 coinbasewallet.co.uk
 cryptopunks721.co.uk
+nexusmutual.co.uk
 raylz.co.uk
 tagomi.co.uk
 trmlabs.co.uk

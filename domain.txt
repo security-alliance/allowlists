@@ -6337,6 +6337,7 @@ docs.soo.network
 spheron.network
 ssv.network
 step.network
+storacha.network
 stork.network
 stp.network
 streamr.network

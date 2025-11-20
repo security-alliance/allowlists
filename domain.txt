@@ -4364,6 +4364,7 @@ dango.exchange
 delta.exchange
 dln.exchange
 dydx.exchange
+edgex.exchange
 hyperswap.exchange
 jumper.exchange
 lighter.exchange

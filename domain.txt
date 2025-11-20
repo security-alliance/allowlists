@@ -241,6 +241,7 @@ mysten.app
 mystenlabs.app
 mystenlabsnft.app
 mystennft.app
+allora-studio-mainnet.netlify.app
 alpha--scroll-io.netlify.app
 clever-mahavira-2a2527.netlify.app
 deploy-preview-426--scroll-io.netlify.app
@@ -6159,6 +6160,8 @@ aioz.network
 docs.akash.network
 forum.akash.network
 docs.allora.network
+explorer.allora.network
+testnet.explorer.allora.network
 arcana.network
 arch.network
 arkiv.network

@@ -4374,6 +4374,7 @@ mysten.exchange
 mystenlabs.exchange
 mystenlabsnft.exchange
 mystennft.exchange
+o1.exchange
 octo.exchange
 pingu.exchange
 pnp.exchange

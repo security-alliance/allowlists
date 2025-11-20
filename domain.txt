@@ -7504,6 +7504,7 @@ fractionai.xyz
 fractrade.xyz
 frontier.xyz
 fuelshot.xyz
+galaxis.xyz
 gata.xyz
 gauntlet.xyz
 app.gauntlet.xyz

@@ -3180,6 +3180,7 @@ allbridge.medium.com
 alphafisui.medium.com
 ambergroup.medium.com
 anvil-protocol.medium.com
+apexdex.medium.com
 arpa.medium.com
 bitmart-exchange.medium.com
 bobanetwork.medium.com

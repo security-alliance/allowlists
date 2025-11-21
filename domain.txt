@@ -7730,6 +7730,7 @@ suipassport.xyz
 suiplay0x1.xyz
 suiscan.xyz
 suivision.xyz
+sunrisebridge.xyz
 superp.xyz
 superpeach.xyz
 superseed.xyz

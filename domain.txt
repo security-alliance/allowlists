@@ -4349,6 +4349,7 @@ base.events
 coinbasecloud.events
 coinbaseinvestorday.events
 1inch.exchange
+apex.exchange
 backpack.exchange
 support.backpack.exchange
 balancer.exchange

@@ -5568,6 +5568,7 @@ spicenet.io
 spoonai.io
 stackblitz.io
 stafi.io
+stakely.io
 stakingcrypto.io
 statter.io
 statuspage.io

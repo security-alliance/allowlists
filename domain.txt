@@ -172,6 +172,7 @@ c10nbase.app
 cap.app
 chainlink-demo.app
 chainlink-example.app
+cian.app
 cobaltwallet.app
 coinbaseassetmanagement.app
 coinbasecard.app

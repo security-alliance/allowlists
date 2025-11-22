@@ -238,6 +238,7 @@ interchange.app
 krak.app
 krakapp.app
 krakbank.app
+krakenfutures.app
 krakenplus.app
 krakpay.app
 krakwen.app
@@ -1842,9 +1843,11 @@ beauforts.com.au
 btradeaustralia.com.au
 coinbase.com.au
 zoho.com.au
+kraken.auction
 opensea.autos
 opensea.baby
 opensea.band
+kraken.bargains
 opensea.bargains
 moneygram.com.bd
 bcmtoday.be
@@ -2074,6 +2077,8 @@ coinbaseinvestorday.chat
 flr.chat
 savant.chat
 sgb.chat
+kraken.cheap
+kraken.church
 circle.ci
 moneygram.ci
 chainlink.cl
@@ -2242,6 +2247,7 @@ krakbank.co
 kraken.co
 kraken-okta.co
 kraken-zendesk.co
+krakenbank.co
 krakenfutures.co
 krakenink.co
 krakenonchain.co
@@ -2963,6 +2969,7 @@ doschain.com
 draftcoins.com
 dremica.com
 drewsecurity.com
+drive-kraken.com
 dropstab.com
 dsrv.com
 docs.dune.com
@@ -3274,6 +3281,7 @@ kraken-pro.com
 kraken-service.com
 kraken-slack.com
 kraken-wallet.com
+kraken-wrike.com
 kraken-zendesk.com
 kraken-zoom.com
 blog.kraken.com
@@ -3281,12 +3289,17 @@ pro.kraken.com
 support.kraken.com
 krakenapp.com
 krakenbank.com
+krakenbit.com
+krakenco.com
+krakencom.com
 krakenderivatives.com
 krakendesktop.com
 krakendesktops.com
 krakendltf.com
 krakenequities.com
 krakenequity.com
+krakenfinance.com
+krakenfinancialservices.com
 krakenfutures.com
 krakenkrak.com
 krakenonchain.com
@@ -4338,6 +4351,7 @@ mystennft.computer
 sui.computer
 instagram.comsamblackshear
 coinbasecloud.consulting
+kraken.consulting
 coinbase.contact
 coinbasecard.cool
 misten.cool
@@ -4347,6 +4361,7 @@ mystenlabs.cool
 mystenlabsnft.cool
 mystennft.cool
 sui.cool
+kraken.coupons
 moneygram.cr
 opensea.creator
 bond.credit
@@ -4479,6 +4494,7 @@ coinbase.do
 moneygram.do
 dogechain.dog
 flr.domains
+kraken.domains
 opensea.domains
 coinbase.donuts-blockplus
 coinbasecard.download
@@ -4534,6 +4550,7 @@ mystenlabsnft.engineering
 mystennft.engineering
 opensea.engineering
 sui.engineering
+kraken.enterprises
 misten.enterprises
 mistenlabs.enterprises
 mysten.enterprises
@@ -4573,6 +4590,7 @@ zohoapis.eu
 base.events
 coinbasecloud.events
 coinbaseinvestorday.events
+kraken.events
 1inch.exchange
 apex.exchange
 backpack.exchange
@@ -4599,6 +4617,7 @@ edgex.exchange
 getkrak.exchange
 hyperswap.exchange
 jumper.exchange
+krakenbitcoin.exchange
 lighter.exchange
 limitless.exchange
 loot.exchange
@@ -4636,6 +4655,8 @@ mystenlabs.expert
 mystenlabsnft.expert
 mystennft.expert
 sui.expert
+kraken.exposed
+kraken.fail
 misten.fail
 mistenlabs.fail
 mysten.fail
@@ -4644,8 +4665,10 @@ mystenlabsnft.fail
 mystennft.fail
 opensea.fail
 sui.fail
+kraken.family
 paws.family
 sidekick.fans
+kraken.farm
 opensea.farm
 misten.feedback
 mistenlabs.feedback
@@ -4888,6 +4911,7 @@ wolf.financial
 coinbase.fm
 monero.forex
 coinbasecard.forsale
+kraken.forsale
 misten.forsale
 mistenlabs.forsale
 mysten.forsale
@@ -5075,7 +5099,9 @@ vortx.gg
 xoob.gg
 moneygram.com.gh
 opensea.gift
+kraken.gifts
 opensea.gifts
+kraken.gives
 opensea.gives
 sui.gives
 coinbase.gl
@@ -5108,6 +5134,7 @@ translate.goog
 coinbase.gr
 coinbaseprime.gr
 opensea.graphics
+kraken.green
 misten.gripe
 mistenlabs.gripe
 mysten.gripe
@@ -5623,6 +5650,7 @@ therootnetwork.komi.io
 kpk.io
 krak.io
 krakapp.io
+krakenfinancial.io
 krakenink.io
 krakenonchain.io
 krakenplus.io
@@ -6035,12 +6063,14 @@ cryptopunks721.land
 elysia.land
 fuzz.land
 fx.land
+kraken.land
 moss.land
 mycel.land
 redbrick.land
 starke-orte.land
 moneygram.com.lb
 coinbasecard.legal
+kraken.legal
 myhive.li
 c10nbase.life
 coinbasenft.life
@@ -6142,6 +6172,7 @@ mystenlabsnft.ltd
 mystennft.ltd
 coinbaseprime.lu
 coinbasecard.management
+kraken.management
 9dcc.market
 apedao.market
 coinbasecard.market
@@ -6368,10 +6399,12 @@ docs.io.net
 jsdelivr.net
 krakapp.net
 krakbank.net
+krakenbank.net
 krakenfutures.net
 krakenkrak.net
 krakenonchain.net
 krakenplus.net
+krakenspdi.net
 krakmoney.net
 krakpay.net
 layerxtech.net
@@ -6956,6 +6989,7 @@ keensalmon.org
 kingprotocol.org
 klksync.org
 krakapp.org
+krakenbank.org
 krakenink.org
 krakenonchain.org
 krakenplus.org
@@ -7155,6 +7189,7 @@ coins.ph
 coinbase.pl
 coinbaseprime.pl
 osk-moskal.pl
+kraken.place
 0.plus
 coinbase.pm
 zeitgeist.pm
@@ -7203,9 +7238,11 @@ mystenlabsnft.red
 mystennft.red
 sui.red
 coinbasecard.report
+kraken.report
 mysten.review
 coinbasecard.reviews
 coinbasecloud.reviews
+kraken.rip
 coinbase.ro
 coinbaseprime.ro
 ma.ro
@@ -7219,6 +7256,7 @@ rutube.ru
 vc.ru
 zohoapis.sa
 coinbasecard.sale
+kraken.sale
 coinbase.sc
 coinba.se
 coinbase.se
@@ -7235,6 +7273,7 @@ coinbasecard.services
 coinbasecloud.services
 dydx.services
 hybridsmartcontract.services
+krakenfinancial.services
 rosetta-api.services
 smartcontract.services
 coinbase.com.sg
@@ -7308,6 +7347,7 @@ votex.so
 bsky.social
 coinbasecloud.social
 jumble.social
+kraken.social
 mastodon.social
 vala.social
 chaingpt.software
@@ -7374,6 +7414,7 @@ mystenlabsnft.sucks
 mystennft.sucks
 opensea.sucks
 sui.sucks
+kraken.supply
 picks.supply
 coinbasecard.support
 coinbasecloud.support
@@ -7479,6 +7520,7 @@ guts.tickets
 coinbase.tips
 coinbasecard.tips
 coinbasecloud.tips
+kraken.tips
 misten.tips
 mistenlabs.tips
 mysten.tips
@@ -7561,6 +7603,7 @@ getkrak.trading
 krak.trading
 coinbasecard.training
 coinbasecloud.training
+kraken.training
 misten.training
 mistenlabs.training
 mysten.training
@@ -7629,6 +7672,7 @@ mystenlabsnft.uk
 mystennft.uk
 coinbase.org.uk
 trmlabs.uk
+kraken.university
 coinbase.888.unstop-block
 coinbase.bitcoin.unstop-block
 coinbase.coin.unstop-block
@@ -7719,6 +7763,7 @@ krakpay.vip
 pepe.vip
 suicommunity.vip
 golem.watch
+kraken.watch
 c10nbase.website
 coinbasecard.website
 coinbasecloud.website

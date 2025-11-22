@@ -1831,6 +1831,7 @@ mysten.asia
 mystenlabs.asia
 mystenlabsnft.asia
 mystennft.asia
+payward.asia
 opensea.associates
 bcmtoday.at
 bitladon.at
@@ -1988,6 +1989,7 @@ kraken.ca
 omnitv.ca
 shaw.ca
 sportsnet.ca
+tulr.ca
 zohoapis.ca
 zohocloud.ca
 inkchain.cam
@@ -2068,6 +2070,7 @@ prismfi.cc
 purp.cc
 purpa.cc
 smartcontractz.cc
+tulr.cc
 coinbase.center
 coinbasecard.center
 coinbasecloud.center
@@ -2370,6 +2373,7 @@ realtyx.co
 realvisiondelta.co
 realvisiongroup.co
 realvisionpublishing.co
+ripplegateway.co
 scrib3.co
 sentinel.co
 sergeynazarov.co
@@ -2390,6 +2394,7 @@ trader-kraken.co
 traderkraken.co
 tradexapp.co
 trmlabs.co
+tulr.co
 weipay.co
 xellar.co
 zabobank.co
@@ -2717,6 +2722,7 @@ cinbase.com
 cioinbase.com
 cionbsae.com
 circleci.com
+circletrade.com
 civic.com
 ckinbase.com
 ckoinbase.com
@@ -3670,6 +3676,7 @@ monadbridge.com
 monadexplorer.com
 testnet.monadexplorer.com
 monerium.com
+moneycanbe.com
 moneygram.com
 mooar.com
 moonbirds.com
@@ -3786,6 +3793,7 @@ paywaado.com
 paywado.com
 payward.com
 payward-accredited.com
+payward-it-temp.com
 payward-mena.com
 payward-okta.com
 payward-slack.com
@@ -3940,18 +3948,31 @@ richquack.com
 ripple-ts.com
 rippleauction.com
 ripplebroker.com
+ripplebrokers.com
 rippledealer.com
 rippledealers.com
 rippleeft.com
 rippleforex.com
 ripplefutures.com
 ripplegateway.com
+ripplegateways.com
 rippleglobal.com
 ripplegram.com
+ripplegrams.com
 ripplehedge.com
+rippleholding.com
+rippleholdings.com
 rippleiou.com
+rippleious.com
 ripplejs.com
+ripplepaper.com
+ripplesec.com
+ripplesecurities.com
 ripplesecurity.com
+rippleshares.com
+ripplestock.com
+rippleuser.com
+rippleusers.com
 risczero.com
 risechain.com
 riveronedigital.com
@@ -3993,6 +4014,7 @@ sensortower.com
 shibaswap.com
 shibatoken.com
 shrapnel.com
+shutcoin.com
 shutsea.com
 sidusheroes.com
 silencatech.com
@@ -4022,6 +4044,7 @@ smolrefuel.com
 snek.com
 socios.com
 sodex.com
+soee.com
 sofi.com
 soinbase.com
 sol-incinerator.com
@@ -4201,6 +4224,7 @@ blog.tradetomato.com
 trainercentral.com
 tranchess.com
 transak.com
+transferbitcoins.com
 travala.com
 trebleswap.com
 trendspider.com
@@ -4294,6 +4318,7 @@ vultisig.com
 w-staticblitz.com
 wallet-link.com
 react-app.walletconnect.com
+walletster.com
 walruscan.com
 wazirx.com
 wcoinbase.com
@@ -4304,8 +4329,11 @@ web3sonic.com
 webacy.com
 wemix.com
 wgdax.com
+whalemode.com
 what-is-berachain.com
+whatmoneycanbe.com
 whitebit.com
+wholecoin.com
 wibegram.com
 wicrypt.com
 wilderworld.com
@@ -4535,6 +4563,21 @@ xn--onbae-qtb12js61k.com
 xn--onbase-b2c2955c.com
 xn--onbase-p9a6908c.com
 xoinbase.com
+xrpangel.com
+xrpangels.com
+xrpbet.com
+xrpbets.com
+xrpbroker.com
+xrpbrokerage.com
+xrpeft.com
+xrpfund.com
+xrphedge.com
+xrpinvestor.com
+xrpinvestors.com
+xrpstorage.com
+xrptime.com
+xrpvault.com
+xrpx.com
 efas-packs.xsollasitebuilder.com
 xstocks.com
 xt.com
@@ -5261,6 +5304,8 @@ vortex.foundation
 walletconnect.foundation
 wormhole.foundation
 zka.foundation
+bcmtoday.fr
+bitladon.fr
 coinbase.fr
 coinbaseprime.fr
 cryptoast.fr
@@ -5540,6 +5585,7 @@ moneygram.in
 payward.in
 sweatco.in
 telco.in
+tulr.in
 voltinu.in
 zoho.in
 zohoapis.in
@@ -5622,6 +5668,7 @@ tokenizedinamerica.info
 tokeo.info
 totle.info
 trmlabs.info
+tulr.info
 whitecoin.info
 zenchain.info
 getkrak.ink
@@ -6329,6 +6376,8 @@ zoth.io
 zotto.io
 zulunetwork.io
 coinbase.is
+bcmtoday.it
+bitladon.it
 coinbase.co.it
 coinbase.it
 coinbasecloud.it
@@ -6363,6 +6412,7 @@ coinbasepayments.jp
 coinbaseprime.jp
 coinbasepro.jp
 coinbasewallet.jp
+cryptowatch.jp
 zoho.jp
 moneygram.co.ke
 coinbase.ke
@@ -6562,6 +6612,7 @@ info.quicksync.me
 rainbow.me
 readyplayer.me
 strike.me
+tulr.me
 x.me
 coinbasecloud.media
 misten.media
@@ -6812,6 +6863,7 @@ realvisionpublications.net
 realvisionpublishing.net
 realvisiontv.net
 redpandaninja.net
+ripplegateway.net
 ritual.net
 rosetta-api.net
 rosettaapi.net
@@ -7591,6 +7643,8 @@ sophon.party
 coinbase.pe
 coinbase.ph
 coins.ph
+bcmtoday.pl
+bitladon.pl
 coinbase.pl
 coinbaseprime.pl
 osk-moskal.pl
@@ -8154,9 +8208,13 @@ staked.us
 tagomi.us
 totle.us
 trmlabs.us
+tulr.us
 web3port.us
 coinbase.vc
+kraken.vc
 longhash.vc
+payward.vc
+purp.vc
 reforge.vc
 starknet.vc
 digital.trive.vc
@@ -8165,6 +8223,7 @@ coinbasecloud.ventures
 kraken.ventures
 payward.ventures
 purp.ventures
+purpa.ventures
 coinbase.vg
 chainlink.video
 misten.video

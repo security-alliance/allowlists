@@ -2264,7 +2264,9 @@ grantsstack.co
 growadecacorn.co
 growahectacorn.co
 growahectocorn.co
+growaunicorn.co
 howtogrowadecacorn.co
+howtogrowahectacorn.co
 howtogrowahectocorn.co
 howtogrowaunicorn.co
 htgad.co
@@ -2304,6 +2306,7 @@ krakenink.co
 krakenonchain.co
 krakenplus.co
 krakenspdi.co
+krakenterminal.co
 krakenx.co
 krakpay.co
 kraktag.co
@@ -3270,6 +3273,7 @@ googleapis.com
 fonts.googleapis.com
 googleusercontent.com
 gotchanft.com
+goxxed.com
 grandgangstacity.com
 groups-kraken.com
 growadecacorn.com
@@ -3297,6 +3301,7 @@ helixapp.com
 heuristicsolomon.com
 hex.com
 hexagate.com
+heypip.com
 hgdax.com
 hivello.com
 hobyy.com
@@ -3309,6 +3314,7 @@ howtogrowahectocorn.com
 howtogrowaunicorn.com
 hpos10i.com
 hpx.com
+htgad.com
 htgadecacorn.com
 htgau.com
 htx.com
@@ -3320,6 +3326,7 @@ hybridsmartcontracts.com
 iagon.com
 id-kraken.com
 id-payward.com
+ifexproject.com
 imgnai.com
 immunage.com
 immune-iq.com
@@ -3342,6 +3349,7 @@ imunen.com
 imuzef.com
 index-kraken.com
 indexcoop.com
+indexkraken.com
 indicies-kraken.com
 indicieskraken.com
 indodax.com
@@ -3438,16 +3446,21 @@ krakenapp.com
 krakenbank.com
 krakenbit.com
 krakenbitcoin.com
+krakenclient.com
 krakenco.com
 krakencom.com
 krakencustody.com
 krakenderivatives.com
 krakendesktop.com
 krakendesktops.com
+krakendirect.com
 krakendltf.com
+krakenecn.com
 krakenequities.com
 krakenequity.com
 krakenex.com
+krakenexchange.com
+krakenexpress.com
 krakenfinance.com
 krakenfinancialgroup.com
 krakenfinancialservices.com
@@ -4699,6 +4712,7 @@ kraken.direct
 opensea.direct
 coinbasecard.directory
 coinbasecloud.directory
+kraken.directory
 sui.directory
 opensea.discount
 coinbase.dk
@@ -4713,6 +4727,7 @@ coinbase.donuts-blockplus
 coinbasecard.download
 coinbasecloud.download
 coinbasepro.download
+kraken.download
 misten.download
 mistenlabs.download
 mysten.download
@@ -6518,6 +6533,7 @@ cctp.money
 coinbasecard.money
 dfi.money
 drop.money
+everythingification.money
 fei.money
 getkrak.money
 interchange.money
@@ -6529,6 +6545,7 @@ new.money
 payward.money
 pinto.money
 pulsar.money
+purpa.money
 reflect.money
 solido.money
 terra.money
@@ -6663,7 +6680,10 @@ krakapp.net
 krakbank.net
 krakenbank.net
 krakendesktop.net
+krakendirect.net
+krakenecn.net
 krakenex.net
+krakenexchange.net
 krakenfinance.net
 krakenfinancial.net
 krakenforex.net
@@ -6684,6 +6704,7 @@ lnkonchain.net
 lumiterra.net
 maidsafe.net
 massa.net
+mathbasedcurrency.net
 mawari.net
 mistenlabs.net
 mudigital.net
@@ -7257,6 +7278,7 @@ hederacouncil.org
 holochain.org
 hoprnet.org
 horizen.org
+howtogrowadecacorn.org
 humanity.org
 hybridsmartcontract.org
 hybridsmartcontracts.org
@@ -7279,7 +7301,10 @@ klksync.org
 krakapp.org
 krakenbank.org
 krakendesktop.org
+krakendirect.org
 krakenecn.org
+krakenex.org
+krakenexchange.org
 krakenfinance.org
 krakenfinancial.org
 krakenfx.org

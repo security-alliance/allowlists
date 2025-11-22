@@ -2258,11 +2258,13 @@ kraken-zendesk.co
 krakenbank.co
 krakendirect.co
 krakenfinancial.co
+krakenfuture.co
 krakenfutures.co
 krakenink.co
 krakenonchain.co
 krakenplus.co
 krakenspdi.co
+krakenx.co
 krakpay.co
 kraktag.co
 lmxlabs.co
@@ -2400,6 +2402,7 @@ allnodes.com
 blog.allnodes.com
 allora-ecosystem.com
 alphacitymeta.com
+alphakraken.com
 altdeer.com
 altura.com
 amlbot.com
@@ -2462,6 +2465,7 @@ discord.beradrome.com
 berascan.com
 beratone-game.com
 beratrax.com
+betakraken.com
 bgdax.com
 biconomy.com
 bifrostnetwork.com
@@ -2990,6 +2994,7 @@ deribit.com
 desci.com
 deso.com
 destor.com
+dev3kraken.com
 dex-trade.com
 dexalot.com
 app.dexalot-test.com
@@ -3257,6 +3262,7 @@ imuzef.com
 index-kraken.com
 indexcoop.com
 indicies-kraken.com
+indicieskraken.com
 indodax.com
 infinityrising.com
 influxtechnologies.com
@@ -3289,6 +3295,7 @@ rpc-arbitrum.joepegs.com
 joincoinbase.com
 joinozone.com
 juliestarkeyauthor.com
+k2aken.com
 kalichain.com
 kamino.com
 kanpaipandas.com
@@ -3317,6 +3324,7 @@ krakapps.com
 krakbank.com
 krakbanks.com
 krakcard.com
+krakchain.com
 kraken-accredited.com
 kraken-airdrop.com
 kraken-bank.com
@@ -3324,7 +3332,9 @@ kraken-chat.com
 kraken-desktop.com
 kraken-email.com
 kraken-futures.com
+kraken-index.com
 kraken-kfee.com
+kraken-mena.com
 kraken-okta.com
 kraken-otc.com
 kraken-pay.com
@@ -3332,6 +3342,7 @@ kraken-pro.com
 kraken-service.com
 kraken-slack.com
 kraken-wallet.com
+kraken-webinar.com
 kraken-wrike.com
 kraken-zendesk.com
 kraken-zoom.com
@@ -3345,15 +3356,18 @@ krakenbit.com
 krakenbitcoin.com
 krakenco.com
 krakencom.com
+krakencustody.com
 krakenderivatives.com
 krakendesktop.com
 krakendesktops.com
 krakendltf.com
 krakenequities.com
 krakenequity.com
+krakenex.com
 krakenfinance.com
 krakenfinancialgroup.com
 krakenfinancialservices.com
+krakenfuture.com
 krakenfutures.com
 krakenfuturesapp.com
 krakenglobel.com
@@ -3372,6 +3386,7 @@ krakenventures.com
 krakenwebinar.com
 krakenx-slack.com
 krakfx.com
+krakgn.com
 krakkan.com
 krakkk.com
 krakmn.com
@@ -3821,6 +3836,7 @@ sidusheroes.com
 silencatech.com
 silentswap.com
 sinbadnetwork.com
+sites-kraken.com
 skew.com
 skew-dev.com
 skew-markets.com
@@ -3894,6 +3910,7 @@ stateofcrypto2025.com
 stateofcrypto2026.com
 stateofcryptosummit.com
 staticblitz.com
+statuskraken.com
 stcoins.com
 steem.com
 steemit.com
@@ -4575,6 +4592,7 @@ mystenlabsnft.digital
 mystennft.digital
 opensea.digital
 rosetta-api.digital
+kraken.direct
 opensea.direct
 coinbasecard.directory
 coinbasecloud.directory
@@ -4659,6 +4677,7 @@ mistenlabs.es
 mysten.es
 mystenlabs.es
 xerox.es
+kraken.estate
 polymark.et
 21x.eu
 bcmtoday.eu
@@ -4709,6 +4728,7 @@ edgex.exchange
 getkrak.exchange
 hyperswap.exchange
 jumper.exchange
+kraken.exchange
 krakenbitcoin.exchange
 krakenfx.exchange
 lighter.exchange
@@ -5160,6 +5180,7 @@ opensea.games
 playa3ull.games
 sui.games
 xai.games
+kraken.garden
 pear.garden
 coinbase.gay
 kraken.gay
@@ -5281,6 +5302,7 @@ coinbase.com.hk
 coinbase.hn
 moneygram.hn
 gle.holdings
+kraken.holdings
 mysten.holdings
 mystenlabs.holdings
 opensea.holdings
@@ -5417,6 +5439,7 @@ totle.info
 trmlabs.info
 whitecoin.info
 zenchain.info
+getkrak.ink
 inkonchain.ink
 k.ink
 krakenink.ink
@@ -5438,6 +5461,7 @@ mystenlabsnft.international
 mystennft.international
 sui.international
 totle.international
+kraken.investments
 blog.1inch.io
 docs.1inch.io
 forward.1inch.io
@@ -6326,6 +6350,7 @@ enokey.me
 exmo.me
 haha.me
 krakbank.me
+krakenx.me
 lemon.me
 messageth.me
 misten.me
@@ -6720,6 +6745,7 @@ keep.network
 keep3r.network
 khalani.network
 koii.network
+kraken.network
 krakenink.network
 krakenonchain.network
 kroma.network
@@ -7118,11 +7144,13 @@ krakapp.org
 krakenbank.org
 krakenfinance.org
 krakenfinancial.org
+krakenfx.org
 krakenglobal.org
 krakenink.org
 krakenonchain.org
 krakenplus.org
 krakenspdi.org
+krakenterminal.org
 krakpay.org
 layerai.org
 liquity.org
@@ -7587,6 +7615,7 @@ skew.systems
 sui.systems
 awaken.tax
 coinbasecard.tax
+kraken.tax
 coinbase.tc
 chaingpt.team
 coinbase.team
@@ -7697,6 +7726,7 @@ krak.today
 chaingpt.tools
 coinbasecard.tools
 coinbasecloud.tools
+kraken.tools
 misten.tools
 mistenlabs.tools
 mysten.tools
@@ -7733,6 +7763,7 @@ app.fly.trade
 gains.trade
 hello.trade
 ionex.trade
+kraken.trade
 loyal.trade
 merkle.trade
 oku.trade
@@ -7886,6 +7917,7 @@ starknet.vc
 digital.trive.vc
 coinbasecard.ventures
 coinbasecloud.ventures
+kraken.ventures
 coinbase.vg
 chainlink.video
 misten.video

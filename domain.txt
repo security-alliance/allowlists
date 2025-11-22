@@ -58,6 +58,7 @@ docs.coiin.ai
 coinbase.ai
 computelabs.ai
 cortexlabs.ai
+cryptofinance.ai
 cryptopunksnft.ai
 cyvers.ai
 deagent.ai
@@ -84,6 +85,7 @@ hacken.ai
 horizen.ai
 infinityg.ai
 kaito.ai
+krakenplus.ai
 masa.ai
 minionlab.ai
 misten.ai
@@ -227,6 +229,10 @@ functions-demo.app
 goatai.app
 hashpack.app
 hedgehog.app
+interchange.app
+krak.app
+krakenplus.app
+krakwen.app
 lumefi.app
 meebits.app
 meganet.app
@@ -1817,7 +1823,9 @@ opensea.associates
 coinbase.at
 coinbaseprime.at
 opensea.attorney
+beauforts.au
 coinbase.au
+beaufortfiduciaries.com.au
 coinbase.com.au
 zoho.com.au
 opensea.autos
@@ -1855,6 +1863,7 @@ coinbaseprime.biz
 coinbasepro.biz
 dexguru.biz
 arbitrum-explorer-prod.dexguru.biz
+krakenplus.biz
 misten.biz
 mistenlabs.biz
 mysten.biz
@@ -1894,6 +1903,7 @@ raylz.com.br
 santosfc.com.br
 coinbase.net.br
 coinbase.bs
+cargo.build
 decent.build
 poh.linea.build
 lineaplorer.build
@@ -2017,6 +2027,7 @@ tapps.center
 altresear.ch
 coinbase.ch
 coinbaseprime.ch
+cryptowat.ch
 misten.ch
 mistenlabs.ch
 mysten.ch
@@ -2062,6 +2073,7 @@ mystennft.cloud
 polkadot.cloud
 rosetta-api.cloud
 skew.cloud
+staked.cloud
 suicommunity.cloud
 zama.cloud
 fx.aladdin.club
@@ -2167,7 +2179,10 @@ hypurr.co
 imperator.co
 investcoinbase.co
 ipregistry.co
+krakenink.co
+krakenplus.co
 lmxlabs.co
+lnkonchain.co
 mdex.co
 mistenlabs.co
 mystenlabsnft.co
@@ -2181,6 +2196,7 @@ opensea.co
 oplabs.co
 papercrypto.co
 paradex.co
+picks.co
 privix.co
 procoinbase.co
 quadraticvote.co
@@ -2215,6 +2231,7 @@ mystenlabsnft.codes
 mystennft.codes
 coinbase.coffee
 0gswap.com
+0xplore.com
 10tfund.com
 1inch.com
 app.1inch.com
@@ -2343,6 +2360,7 @@ bitmex.com
 bitopro.com
 bitrue.com
 bitso.com
+bitstreetjournal.com
 bittime.com
 bittorrent.com
 bitunix.com
@@ -2368,6 +2386,8 @@ braintrust.com
 brandwatch.com
 brave.com
 breakoutprop.com
+btcx.com
+btradeaustralia.com
 btse.com
 bubblegumkids.com
 buidlcoinbase.com
@@ -2742,8 +2762,10 @@ coinrase.com
 coinsbase.com
 coinsbasediscount.com
 coinsbasenft.com
+coinsetter.com
 coinstore.com
 cointerminal.com
+coinvantage.com
 coinvase.com
 coinvbase.com
 coinw.com
@@ -2785,6 +2807,7 @@ crunchdao.com
 crustfiles.com
 crypto-university.com
 crypto435.com
+cryptofacilities.com
 cryptoindexhub.com
 cryptology.com
 cryptopackagedgoods.com
@@ -3003,6 +3026,7 @@ genomeprotocol.com
 getalby.com
 getbabb.com
 getchainlink.com
+getkrakenplus.com
 getmojito.com
 getstashed.com
 gfdax.com
@@ -3090,9 +3114,11 @@ infrasingularity.com
 initiafoundation.com
 inkfnd.com
 inkonchain.com
+inkonchian.com
 insidebitcoins.com
 inspiringwolf.com
 intainft.com
+interchangehq.com
 intercomcdn.com
 interestprotocol.com
 claim.interstellardao.com
@@ -3123,9 +3149,15 @@ klimafoundation.com
 klimaprotocol.com
 klinkfinance.com
 komodoplatform.com
+krak-wen.com
+krakbank.com
 blog.kraken.com
 pro.kraken.com
 support.kraken.com
+krakenbank.com
+krakenonchain.com
+krakenventures.com
+krfiles.com
 link.kucoin.com
 l4va.com
 lamina1.com
@@ -3367,6 +3399,10 @@ app.parcllabs.com
 paribu.com
 parity-network.com
 paxos.com
+payward.com
+paywardbvi.com
+paywardfinancial.com
+paywardmena.com
 perp.com
 app.perp.com
 phantomgalaxies.com
@@ -3512,6 +3548,8 @@ saudixerox.com
 scrolltone.com
 seadn.com
 secretbitcoinproject.com
+seewhatcryptocanbe.com
+seewhatmoneycanbe.com
 segment.com
 coinbase.sendsafely.com
 sensortower.com
@@ -3676,6 +3714,7 @@ test-delete-later.com
 tezos.com
 tgdax.com
 thanksui.com
+thatskraken.com
 theapestore.com
 thebithack.com
 thecelo.com
@@ -4052,6 +4091,7 @@ xn--onbase-b2c2955c.com
 xn--onbase-p9a6908c.com
 xoinbase.com
 efas-packs.xsollasitebuilder.com
+xstocks.com
 xt.com
 xtonwallet.com
 xwc.com
@@ -4316,6 +4356,7 @@ mystenlabsnft.email
 mystennft.email
 opensea.email
 opensea.engineer
+cargo.engineering
 coinbase.engineering
 coinbasecloud.engineering
 misten.engineering
@@ -5036,6 +5077,7 @@ elastos.info
 fairx.info
 filfox.info
 horizen.info
+krakenplus.info
 lmxlabs.info
 misten.info
 mistenlabs.info
@@ -5064,6 +5106,9 @@ totle.info
 trmlabs.info
 whitecoin.info
 zenchain.info
+k.ink
+lnkchain.ink
+ocho.ink
 spindl.ink
 use.ink
 coinbasecard.institute
@@ -5139,6 +5184,7 @@ borachain.io
 bosonprotocol.io
 boxbet.io
 bt.io
+btrade.io
 bubblefong.io
 bubblemaps.io
 bucketprotocol.io
@@ -5383,6 +5429,8 @@ kleros.io
 klever.io
 therootnetwork.komi.io
 kpk.io
+krakenink.io
+krakenplus.io
 kunalabs.io
 kuru.io
 docs.kuru.io
@@ -6004,6 +6052,7 @@ moneygram.my
 coinbase.name
 coinbasecard.name
 coinbasecloud.name
+krakenplus.name
 opensea.name
 tagomi.name
 xn--coinbas-xs4c.name
@@ -6100,6 +6149,7 @@ insuretoken.net
 io.net
 docs.io.net
 jsdelivr.net
+krakenplus.net
 layerxtech.net
 liquid.net
 lumiterra.net
@@ -6277,6 +6327,7 @@ hyperbridge.network
 app.hyperbridge.network
 hyra.network
 icb.network
+inkonchain.network
 jiritsu.network
 just.network
 karak.network
@@ -6290,6 +6341,7 @@ kroma.network
 kusama.network
 blog.kyber.network
 lazai.network
+lnkchain.network
 logx.network
 midnight.network
 mira.network
@@ -6413,6 +6465,7 @@ coinbase.ng
 ab-isolutions.nl
 coinbase.nl
 coinbasecloud.nl
+kraken.nl
 xerox.nl
 coinbaseprime.no
 kai.now
@@ -6446,6 +6499,8 @@ playtron.one
 ponder.one
 surf.one
 coinbasecard.onl
+kraken.onl
+krakenpro.onl
 c10nbase.online
 chainlinkblog.online
 chainlinklimited.online
@@ -6656,6 +6711,8 @@ kaspa.org
 keensalmon.org
 kingprotocol.org
 klksync.org
+krakenink.org
+krakenplus.org
 layerai.org
 liquity.org
 litecoin.org
@@ -6864,6 +6921,7 @@ coinbasi.pro
 conibase.pro
 denet.pro
 foresightnews.pro
+krakenplus.pro
 opensea.pro
 support.opensea.pro
 openseapro.pro
@@ -6933,6 +6991,7 @@ c10nbase.shop
 coinbasecard.shop
 coinbasecloud.shop
 coinbasegiveaway.shop
+krakenplus.shop
 coinbasecard.shopping
 coinbase.short-blockwildcard
 watt.si
@@ -6943,6 +7002,7 @@ coinbasegiveaway.site
 coinbasenft.site
 coinbasepro.site
 coinbaserosetta.site
+krakenplus.site
 mises.site
 misten.site
 mistenlabs.site
@@ -7040,6 +7100,8 @@ blob.store
 coinbasecloud.store
 fishfish.store
 fuse.store
+krak.store
+krakapp.store
 opendatalabs.store
 sourcebase.store
 sui.store
@@ -7052,6 +7114,7 @@ mystenlabsnft.sucks
 mystennft.sucks
 opensea.sucks
 sui.sucks
+picks.supply
 coinbasecard.support
 coinbasecloud.support
 misten.support
@@ -7108,6 +7171,7 @@ hex.tech
 infinit.tech
 terminal.infinit.tech
 kbtg.tech
+krakenplus.tech
 kryon.tech
 misten.tech
 mistenlabs.tech
@@ -7190,6 +7254,7 @@ mysten.tools
 mystenlabs.tools
 mystenlabsnft.tools
 mystennft.tools
+rarity.tools
 reservoir.tools
 something.tools
 sui.tools
@@ -7330,6 +7395,7 @@ exchangecoinbase.us
 formpl.us
 fundcoinbase.us
 investcoinbase.us
+krakenplus.us
 misten.us
 mistenlabs.us
 mysten.us
@@ -7338,6 +7404,7 @@ mystenlabsnft.us
 mystennft.us
 onwalr.us
 procoinbase.us
+staked.us
 tagomi.us
 totle.us
 trmlabs.us
@@ -7586,6 +7653,7 @@ anvil.initia.xyz
 irys.xyz
 irysarcade.xyz
 jesse.xyz
+k.xyz
 kalefarm.xyz
 kaleidofinance.xyz
 karnot.xyz
@@ -7595,6 +7663,7 @@ kelpdao.xyz
 kinto.xyz
 kintsu.xyz
 kittypunch.xyz
+krakenplus.xyz
 launchtube.xyz
 intel.layer3.xyz
 layerakira.xyz
@@ -7804,6 +7873,7 @@ coinbasecloud.zone
 cosmosspaces.zone
 dimo.zone
 dydx.zone
+kraken.zone
 misten.zone
 mistenlabs.zone
 mysten.zone

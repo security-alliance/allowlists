@@ -2955,6 +2955,8 @@ coinsbase.com
 coinsbasediscount.com
 coinsbasenft.com
 coinsetter.com
+coinship.com
+coinslayer.com
 coinspan.com
 coinstore.com
 cointerminal.com
@@ -6624,8 +6626,10 @@ coinbasevault.net
 coinbaseventure.net
 coinbaseventures.net
 coinbasexchange.net
+coinity.net
 coinomi.net
 coins-base.net
+coinslayer.net
 crosschainsmartcontract.net
 crosschainsmartcontracts.net
 cryptalk.net
@@ -7184,6 +7188,7 @@ coinbasewallet.org
 coinbasexchange.org
 coinex.org
 coinity.org
+coinslayer.org
 confluxnetwork.org
 creditcoin.org
 crosschainsmartcontract.org

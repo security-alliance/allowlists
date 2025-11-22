@@ -1994,7 +1994,15 @@ inkonchain.cam
 krak.cam
 krakapp.cam
 krakbank.cam
+krakenbank.cam
+krakenfinance.cam
+krakenfinancial.cam
+krakenspdi.cam
 krakpay.cam
+paywardbank.cam
+paywardfinance.cam
+paywardfinancial.cam
+paywardspdi.cam
 allo.capital
 coinbasecard.capital
 init.capital
@@ -2002,6 +2010,7 @@ kraken.capital
 mimo.capital
 noon.capital
 opensea.capital
+payward.capital
 radiant.capital
 rari.capital
 usx.capital
@@ -2050,6 +2059,7 @@ legion.cc
 mexc.cc
 nomis.cc
 ooki.cc
+payward.cc
 prismfi.cc
 smartcontractz.cc
 coinbase.center
@@ -2226,6 +2236,10 @@ exchangecoinbase.co
 fintechstories.co
 flamedefi.co
 fundcoinbase.co
+future-kraken.co
+futurekraken.co
+futures-kraken.co
+futureskraken.co
 fx-kraken.co
 fxkraken.co
 builder.gitcoin.co
@@ -2241,6 +2255,15 @@ passport.gitcoin.co
 store.gitcoin.co
 support.gitcoin.co
 grantsstack.co
+growadecacorn.co
+growahectacorn.co
+growahectocorn.co
+howtogrowadecacorn.co
+howtogrowahectocorn.co
+howtogrowaunicorn.co
+htgad.co
+htgah.co
+htgau.co
 hypurr.co
 imperator.co
 index-kraken.co
@@ -2388,6 +2411,10 @@ abey.com
 accredited-kraken.com
 accreditedkraken.com
 acurast.com
+admin1kraken.com
+admin2kraken.com
+admin3kraken.com
+adminkraken.com
 advancecoinbase.com
 advancedcoinbase.com
 aelf.com
@@ -2398,6 +2425,7 @@ airdrop-chainlink.com
 airdrop-kraken.com
 akashexplorer.com
 alignedlayer.com
+alittlebitcoin.com
 allnodes.com
 blog.allnodes.com
 allora-ecosystem.com
@@ -2953,6 +2981,7 @@ cryptopunks721.com
 cryptopunksnft.com
 cryptoresearchltd.com
 cryptoslate.com
+cryptostrategiesltd.com
 cryptouniversity.com
 cryptowatch.com
 cryptowatch-desktop.com
@@ -2994,6 +3023,8 @@ deribit.com
 desci.com
 deso.com
 destor.com
+dev1kraken.com
+dev2kraken.com
 dev3kraken.com
 dex-trade.com
 dexalot.com
@@ -3107,6 +3138,10 @@ bullpen-help.freshdesk.com
 coinomi.freshdesk.com
 frynetworks.com
 fsl.com
+future-kraken.com
+futurekraken.com
+futures-kraken.com
+futureskraken.com
 g-dax.com
 gamee.com
 gamerhash.com
@@ -3201,6 +3236,10 @@ googleusercontent.com
 gotchanft.com
 grandgangstacity.com
 groups-kraken.com
+growadecacorn.com
+growahectacorn.com
+growahectocorn.com
+growaunicorn.com
 gsdax.com
 gstatic.com
 gtdax.com
@@ -3228,8 +3267,13 @@ hobyy.com
 holoworld.com
 hotcoin.com
 hourglassx.com
+howtogrowadecacorn.com
+howtogrowahectacorn.com
+howtogrowahectocorn.com
+howtogrowaunicorn.com
 hpos10i.com
 hpx.com
+htgadecacorn.com
 htx.com
 huddle01.com
 huggingface.com
@@ -3293,6 +3337,7 @@ jedmccaleb.com
 jelurida.com
 rpc-arbitrum.joepegs.com
 joincoinbase.com
+joinkrak.com
 joinozone.com
 juliestarkeyauthor.com
 k2aken.com
@@ -3373,6 +3418,7 @@ krakenfuturesapp.com
 krakenglobel.com
 krakenglodal.com
 krakengroup.com
+krakenindex.com
 krakenkrak.com
 krakenmena.com
 krakenonchain.com
@@ -3384,6 +3430,7 @@ krakentrade.com
 krakenus.com
 krakenventures.com
 krakenwebinar.com
+krakenx.com
 krakenx-slack.com
 krakfx.com
 krakgn.com
@@ -3587,6 +3634,7 @@ nftcoinbaseipo.com
 nftinder.com
 nfts2me.com
 nftworlds.com
+niftex.com
 nillion.com
 nine-chronicles.com
 nitrograph.com
@@ -3602,6 +3650,7 @@ nym.com
 oceanprotocol.com
 ocinbase.com
 odoo.com
+officialkrak.com
 officialsuifrens.com
 oimbase.com
 ojingo.com
@@ -3653,6 +3702,7 @@ paribu.com
 parity-network.com
 paxos.com
 paykrak.com
+paywaado.com
 payward.com
 payward-accredited.com
 payward-mena.com
@@ -3664,19 +3714,26 @@ payward-zoom.com
 paywardaccredited.com
 paywardbank.com
 paywardbvi.com
+paywardex.com
 paywardfinance.com
 paywardfinancial.com
+paywardfx.com
 paywardglobal.com
 paywardmena.com
 paywardspdi.com
 paywardventure.com
 paywardventures.com
+paywardx.com
+paywarudo.com
 paywithkrak.com
+paywode.com
 paywordbank.com
 paywordfinance.com
 paywordfinancial.com
 paywordglobal.com
 payworldfinancial.com
+peiwaado.com
+peiwado.com
 perp.com
 app.perp.com
 phantomgalaxies.com
@@ -3897,6 +3954,7 @@ app.squidrouter.com
 stellar.stackexchange.com
 stackingsalmon.com
 staderlabs.com
+stagingkraken.com
 staking-chainlink.com
 stakingrewards.com
 standwithcrypto.com
@@ -4066,6 +4124,7 @@ trustswap.com
 trusttoken.com
 tuumio.com
 pbs.twimg.com
+twitchstocks.com
 bluefinfoundation.typeform.com
 ubisoft.com
 uk-trmlabs.com
@@ -4728,6 +4787,7 @@ edgex.exchange
 getkrak.exchange
 hyperswap.exchange
 jumper.exchange
+krak.exchange
 kraken.exchange
 krakenbitcoin.exchange
 krakenfx.exchange
@@ -4746,6 +4806,7 @@ mystennft.exchange
 o1.exchange
 docs.o1.exchange
 octo.exchange
+payward.exchange
 pingu.exchange
 pnp.exchange
 rango.exchange
@@ -4970,6 +5031,7 @@ omnibtc.finance
 ondo.finance
 owlto.finance
 ozean.finance
+payward.finance
 perennial.finance
 poolz.finance
 qompredator.finance
@@ -5022,6 +5084,7 @@ coinbasecloud.financial
 krak.financial
 kraken.financial
 monad.financial
+payward.financial
 wolf.financial
 coinbase.fm
 monero.forex
@@ -5130,6 +5193,7 @@ kraken.fund
 maelstrom.fund
 oneriverdigitalassets.fund
 opensea.fund
+payward.fund
 seedify.fund
 staking.seedify.fund
 todo.fund
@@ -5229,6 +5293,7 @@ coinbasepro.global
 v3.dex.enosys.global
 horizen.global
 icn.global
+krak.global
 milc.global
 minima.global
 misten.global
@@ -5306,6 +5371,7 @@ kraken.holdings
 mysten.holdings
 mystenlabs.holdings
 opensea.holdings
+payward.holdings
 h2o.homes
 coinbasecloud.host
 coinbasenft.host
@@ -5408,6 +5474,7 @@ horizen.info
 krakbank.info
 krakenfinance.info
 krakenplus.info
+krakenx.info
 kraktag.info
 lmxlabs.info
 misten.info
@@ -5891,6 +5958,7 @@ orcabay.io
 origintrail.io
 ostium.io
 outlierventures.io
+p0rtis.io
 p0rtls.io
 airdrop.paintswap.io
 live-ethday.pantheonsite.io
@@ -6240,6 +6308,7 @@ velo.drome.eth.link
 hybridsmartcontract.link
 hybridsmartcontracts.link
 bafybeiecvujvs74xvxgpwctmbfkcucazyaudmwuiw4wfv6ys7uio7o376u.ipfs.inbrowser.link
+inkchain.link
 inkonchain.link
 krakenink.link
 market.link
@@ -6290,6 +6359,7 @@ coinbasecard.loan
 coinbase.loans
 coinbasecard.loans
 kraken.loans
+payward.loans
 degendapps.lol
 degenname.lol
 degenradio.lol
@@ -6349,6 +6419,7 @@ datadex.me
 enokey.me
 exmo.me
 haha.me
+justkrak.me
 krakbank.me
 krakenx.me
 lemon.me
@@ -6407,6 +6478,7 @@ krakapp.money
 level.money
 app.level.money
 new.money
+payward.money
 pinto.money
 pulsar.money
 reflect.money
@@ -6527,6 +6599,7 @@ freesui.net
 glidera.net
 golemproject.net
 gpu.net
+howtogrowadecacorn.net
 hybridsmartcontract.net
 hybridsmartcontracts.net
 hydration.net
@@ -6537,6 +6610,7 @@ jsdelivr.net
 krakapp.net
 krakbank.net
 krakenbank.net
+krakendesktop.net
 krakenex.net
 krakenfinance.net
 krakenfinancial.net
@@ -6546,6 +6620,8 @@ krakenkrak.net
 krakenonchain.net
 krakenplus.net
 krakenspdi.net
+krakenterminal.net
+krakenx.net
 krakmoney.net
 krakpay.net
 layerxtech.net
@@ -6573,6 +6649,7 @@ papercrypto.net
 parchain.net
 parsiq.net
 pawchain.net
+payward.net
 paywardbank.net
 paywardfinance.net
 paywardfinancial.net
@@ -6830,6 +6907,7 @@ soo.network
 docs.soo.network
 spheron.network
 ssv.network
+staked.network
 step.network
 storacha.network
 stork.network
@@ -7142,6 +7220,7 @@ kingprotocol.org
 klksync.org
 krakapp.org
 krakenbank.org
+krakendesktop.org
 krakenfinance.org
 krakenfinancial.org
 krakenfx.org
@@ -7151,7 +7230,9 @@ krakenonchain.org
 krakenplus.org
 krakenspdi.org
 krakenterminal.org
+krakenx.org
 krakpay.org
+krankeforex.org
 layerai.org
 liquity.org
 litecoin.org
@@ -7214,6 +7295,7 @@ opulous.org
 pactus.org
 parchain.org
 pawsupfam.org
+payward.org
 paywardbank.org
 paywardfinance.org
 paywardfinancial.org
@@ -7621,6 +7703,7 @@ chaingpt.team
 coinbase.team
 coinbasecard.team
 coinbasecloud.team
+cryptowatch.team
 opensea.team
 phenom.team
 usual.team
@@ -7829,6 +7912,7 @@ cryptostrategiesltd.co.uk
 krakenfutures.co.uk
 krakenplus.co.uk
 nexusmutual.co.uk
+payward.co.uk
 raylz.co.uk
 tagomi.co.uk
 trmlabs.co.uk
@@ -7894,7 +7978,9 @@ glidera.us
 investcoinbase.us
 krak.us
 krakbank.us
+krakenfx.us
 krakenplus.us
+krakenx.us
 krakpay.us
 misten.us
 mistenlabs.us
@@ -7918,6 +8004,7 @@ digital.trive.vc
 coinbasecard.ventures
 coinbasecloud.ventures
 kraken.ventures
+payward.ventures
 coinbase.vg
 chainlink.video
 misten.video

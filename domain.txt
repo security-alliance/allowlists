@@ -2012,6 +2012,8 @@ mimo.capital
 noon.capital
 opensea.capital
 payward.capital
+purp.capital
+purpa.capital
 radiant.capital
 rari.capital
 usx.capital
@@ -2044,6 +2046,7 @@ mysten.cash
 mystenlabs.cash
 mystenlabsnft.cash
 mystennft.cash
+purpa.cash
 sui.cash
 tagomi.cash
 z.cash
@@ -2062,6 +2065,8 @@ nomis.cc
 ooki.cc
 payward.cc
 prismfi.cc
+purp.cc
+purpa.cc
 smartcontractz.cc
 coinbase.center
 coinbasecard.center
@@ -2302,6 +2307,7 @@ krakenfuture.co
 krakenfutures.co
 krakenfx.co
 krakenindex.co
+krakenindicies.co
 krakenink.co
 krakenonchain.co
 krakenplus.co
@@ -2354,6 +2360,11 @@ privix.co
 pro-kraken.co
 procoinbase.co
 prokraken.co
+purpa.co
+purpatrade.co
+purpatrader.co
+purpatuiti.co
+purpatuity.co
 quadraticvote.co
 realtyx.co
 realvisiondelta.co
@@ -3169,6 +3180,7 @@ flazio.com
 fluidtokens.com
 flyingtulip.com
 foinbase.com
+forexripple.com
 framer.com
 frautect.com
 news.frax.com
@@ -3248,6 +3260,7 @@ get-krak.com
 getalby.com
 getbabb.com
 getchainlink.com
+getgoxed.com
 getkrak.com
 getkrakenplus.com
 getmojito.com
@@ -3273,6 +3286,7 @@ googleapis.com
 fonts.googleapis.com
 googleusercontent.com
 gotchanft.com
+gotgoxed.com
 goxxed.com
 grandgangstacity.com
 groups-kraken.com
@@ -3326,6 +3340,7 @@ hybridsmartcontracts.com
 iagon.com
 id-kraken.com
 id-payward.com
+ifex-project.com
 ifexproject.com
 imgnai.com
 immunage.com
@@ -3473,6 +3488,7 @@ krakenglobel.com
 krakenglodal.com
 krakengroup.com
 krakenindex.com
+krakenindicies.com
 krakenkrak.com
 krakenmena.com
 krakenonchain.com
@@ -3555,9 +3571,17 @@ marginfi.com
 marketing-kraken.com
 masqbrowser.com
 mastercard.com
+math-basedcurrency.com
+mathbasedcash.com
+mathbasedcoin.com
+mathbasedcurrency.com
+mathbasedmoney.com
+mathcurrency.com
 matterhosted.com
 mattrlabs.com
 maxidogetoken.com
+mbcexchange.com
+mbcfund.com
 t.me.com
 medibloc.com
 0xmoongate.medium.com
@@ -3631,6 +3655,7 @@ mevcapital.com
 mexc.com
 0g-faucet.mictonode.com
 minaprotocol.com
+minebtc.com
 minepi.com
 minesofdalarnia.com
 coinbase.mini-morpho.com
@@ -3727,6 +3752,7 @@ oneriverindex.com
 onesma.com
 onlydust.com
 onocoy.com
+onyield.com
 ooinbase.com
 oortech.com
 opencover.com
@@ -3842,6 +3868,16 @@ puffymunchies.com
 pulsar.com
 pundix.com
 punkztoken.com
+purpa2ad.com
+purpatrade.com
+purpatrader.com
+purpatradr.com
+purpatraitor.com
+purpatuiti.com
+purpatuity.com
+purpitrader.com
+purpltrader.com
+purpltradr.com
 pxpmeme.com
 qntrl.com
 quadrantprotocol.com
@@ -3902,7 +3938,20 @@ rfox.com
 rfoxvalt.com
 richquack.com
 ripple-ts.com
+rippleauction.com
+ripplebroker.com
+rippledealer.com
+rippledealers.com
+rippleeft.com
+rippleforex.com
+ripplefutures.com
+ripplegateway.com
+rippleglobal.com
+ripplegram.com
+ripplehedge.com
+rippleiou.com
 ripplejs.com
+ripplesecurity.com
 risczero.com
 risechain.com
 riveronedigital.com
@@ -4868,6 +4917,8 @@ octo.exchange
 payward.exchange
 pingu.exchange
 pnp.exchange
+purp.exchange
+purpa.exchange
 rango.exchange
 app.rango.exchange
 blog.rango.exchange
@@ -5093,6 +5144,7 @@ ozean.finance
 payward.finance
 perennial.finance
 poolz.finance
+purpa.finance
 qompredator.finance
 rai.finance
 ranger.finance
@@ -5144,6 +5196,8 @@ krak.financial
 kraken.financial
 monad.financial
 payward.financial
+purp.financial
+purpa.financial
 wolf.financial
 coinbase.fm
 monero.forex
@@ -5253,6 +5307,8 @@ maelstrom.fund
 oneriverdigitalassets.fund
 opensea.fund
 payward.fund
+purp.fund
+purpa.fund
 seedify.fund
 staking.seedify.fund
 todo.fund
@@ -5431,6 +5487,8 @@ mysten.holdings
 mystenlabs.holdings
 opensea.holdings
 payward.holdings
+purp.holdings
+purpa.holdings
 h2o.homes
 coinbasecloud.host
 coinbasenft.host
@@ -6481,6 +6539,7 @@ datadex.me
 enokey.me
 exmo.me
 haha.me
+ifex.me
 justkrak.me
 krakbank.me
 krakenfx.me
@@ -6533,6 +6592,7 @@ cctp.money
 coinbasecard.money
 dfi.money
 drop.money
+e17n.money
 everythingification.money
 fei.money
 getkrak.money
@@ -6545,6 +6605,7 @@ new.money
 payward.money
 pinto.money
 pulsar.money
+purp.money
 purpa.money
 reflect.money
 solido.money
@@ -6672,6 +6733,8 @@ howtogrowadecacorn.net
 hybridsmartcontract.net
 hybridsmartcontracts.net
 hydration.net
+ifex-project.net
+ifexproject.net
 insuretoken.net
 io.net
 docs.io.net
@@ -6705,8 +6768,10 @@ lumiterra.net
 maidsafe.net
 massa.net
 mathbasedcurrency.net
+mathcurrency.net
 mawari.net
 mistenlabs.net
+mmoexchange.net
 mudigital.net
 mystan.net
 mystanlabs.net
@@ -6739,6 +6804,7 @@ peercoin.net
 plumefoundation.net
 primal.net
 proofofreserves.net
+purpatuity.net
 quad9.net
 rayls.net
 realvisioncaymancalling.net
@@ -7286,6 +7352,8 @@ hyperbeat.org
 hyperbridge.org
 hyperfoundation.org
 ichi.org
+ifex-project.org
+ifexproject.org
 inco.org
 infinitenodefoundation.org
 inkonchain.org
@@ -7326,6 +7394,8 @@ lmxlabs.org
 lnkchain.org
 lumia.org
 marlin.org
+mathbasedcurrency.org
+mathcurrency.org
 mavryk.org
 blog.mavryk.org
 memswap.org
@@ -7420,6 +7490,7 @@ renprotocol.org
 reserve.org
 revain.org
 company.revain.org
+ripplegateway.org
 rosetta-api.org
 rosettaapi.org
 rosettapi.org
@@ -7937,6 +8008,7 @@ loyal.trade
 merkle.trade
 oku.trade
 paradex.trade
+purp.trade
 app.rage.trade
 reactor.trade
 app.sherpa.trade
@@ -8092,6 +8164,7 @@ coinbasecard.ventures
 coinbasecloud.ventures
 kraken.ventures
 payward.ventures
+purp.ventures
 coinbase.vg
 chainlink.video
 misten.video

@@ -1963,6 +1963,7 @@ zeeprime.capital
 coinbase.cards
 coinbasecard.cards
 coinbase.careers
+cryptowatch.careers
 misten.careers
 mistenlabs.careers
 mysten.careers
@@ -2295,6 +2296,7 @@ bandprotocol.com
 bankless.com
 banxa.com
 barnbridge.com
+bcmtoday.com
 bedrockdao.com
 beemaps.com
 beeos2548.com
@@ -2365,6 +2367,7 @@ botanixlabs.com
 braintrust.com
 brandwatch.com
 brave.com
+breakoutprop.com
 btse.com
 bubblegumkids.com
 buidlcoinbase.com
@@ -2401,6 +2404,7 @@ ccoinbase.com
 cdnfonts.com
 cdoinbase.com
 celocamp.com
+cfbenchmarks.com
 cfoinbase.com
 cginbase.com
 chainabuse.com
@@ -5386,6 +5390,7 @@ lamafeed.io
 dashboard.layeredge.io
 layerswap.io
 leverfi.io
+lich.io
 lidofinance.io
 lightlink.io
 lightyear.io

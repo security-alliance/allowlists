@@ -60,6 +60,7 @@ computelabs.ai
 cortexlabs.ai
 cryptofinance.ai
 cryptopunksnft.ai
+cryptowatch.ai
 cyvers.ai
 deagent.ai
 deepsnitch.ai
@@ -1820,12 +1821,16 @@ mystenlabs.asia
 mystenlabsnft.asia
 mystennft.asia
 opensea.associates
+bcmtoday.at
 coinbase.at
 coinbaseprime.at
 opensea.attorney
+beaufortfiduciaries.au
 beauforts.au
 coinbase.au
 beaufortfiduciaries.com.au
+beauforts.com.au
+btradeaustralia.com.au
 coinbase.com.au
 zoho.com.au
 opensea.autos
@@ -1833,6 +1838,8 @@ opensea.baby
 opensea.band
 opensea.bargains
 moneygram.com.bd
+bcmtoday.be
+bitcoinmeester.be
 coinbase.be
 coinbasecloud.be
 coinbaseprime.be
@@ -1950,16 +1957,20 @@ sui.business
 bookofmeme.buzz
 reservoir.buzz
 stellar.buzz
+payward.bz
 citynews.ca
 citytvplus.ca
 coinbasecloud.ca
 coinbaseprime.ca
 fido.ca
+kraken.ca
 omnitv.ca
 shaw.ca
 sportsnet.ca
 zohoapis.ca
 zohocloud.ca
+inkchain.cam
+inkonchain.cam
 allo.capital
 coinbasecard.capital
 init.capital
@@ -2180,6 +2191,7 @@ imperator.co
 investcoinbase.co
 ipregistry.co
 krakenink.co
+krakenonchain.co
 krakenplus.co
 lmxlabs.co
 lnkonchain.co
@@ -2197,6 +2209,7 @@ oplabs.co
 papercrypto.co
 paradex.co
 picks.co
+picksandshovels.co
 privix.co
 procoinbase.co
 quadraticvote.co
@@ -2233,6 +2246,7 @@ coinbase.coffee
 0gswap.com
 0xplore.com
 10tfund.com
+12bcm.com
 1inch.com
 app.1inch.com
 blog.1inch.com
@@ -2348,6 +2362,7 @@ trade.bitazza.com
 bitcichain.com
 wallet.bitcichain.com
 blog.bitcoin.com
+bitcoinmeester.com
 bitcointry.com
 bitdelta.com
 bitflyer.com
@@ -2355,6 +2370,7 @@ bitgert.com
 bithackathon.com
 bithumb.com
 bitkub.com
+bitladon.com
 bitmart.com
 bitmex.com
 bitopro.com
@@ -3112,8 +3128,12 @@ infinityrising.com
 influxtechnologies.com
 infrasingularity.com
 initiafoundation.com
+inkchain.com
+inkchaln.com
 inkfnd.com
+inknochain.com
 inkonchain.com
+inkonchaln.com
 inkonchian.com
 insidebitcoins.com
 inspiringwolf.com
@@ -3151,12 +3171,14 @@ klinkfinance.com
 komodoplatform.com
 krak-wen.com
 krakbank.com
+kraken-wallet.com
 blog.kraken.com
 pro.kraken.com
 support.kraken.com
 krakenbank.com
 krakenonchain.com
 krakenventures.com
+krakplus.com
 krfiles.com
 link.kucoin.com
 l4va.com
@@ -3188,6 +3210,8 @@ discord.llamafolio.com
 llamanodes.com
 llamarpc.com
 lmxlabs.com
+lnkchain.com
+lnknochain.com
 loadedlions.com
 locuschain.com
 loomlay.com
@@ -3754,6 +3778,7 @@ totleinfra.com
 totlenext.com
 totlesystem.com
 towns.com
+tradekraken.com
 tradetomato.com
 blog.tradetomato.com
 trainercentral.com
@@ -4199,6 +4224,7 @@ moneygram.com.cy
 coinbase.cyou
 coinbase.cz
 coinbaseprime.cz
+bcmtoday.de
 coinbasecloud.de
 coinbaseprime.de
 weltderwunder.de
@@ -4326,6 +4352,7 @@ mystenlabsnft.download
 mystennft.download
 opensea.download
 sui.download
+kraken.earth
 coinbase.ec
 iex.ec
 docs.iex.ec
@@ -4374,6 +4401,8 @@ mystenlabs.enterprises
 mystenlabsnft.enterprises
 mystennft.enterprises
 sui.enterprises
+bcmtoday.es
+bitladon.es
 coinbase.es
 coionbase.es
 misten.es
@@ -4383,6 +4412,7 @@ mystenlabs.es
 xerox.es
 polymark.et
 21x.eu
+bcmtoday.eu
 buxmarkets.eu
 coinbasecard.eu
 coinbasecloud.eu
@@ -4919,6 +4949,7 @@ mystennft.global
 phoenix.global
 supply.phoenix.global
 sign.global
+staked.global
 tokenmint.global
 travelrule.global
 trust.global
@@ -5106,7 +5137,9 @@ totle.info
 trmlabs.info
 whitecoin.info
 zenchain.info
+inkonchain.ink
 k.ink
+krakenonchain.ink
 lnkchain.ink
 ocho.ink
 spindl.ink
@@ -5405,6 +5438,7 @@ inferix.io
 infinityrising.io
 infura.io
 argent.infura-ipfs.io
+inkonchain.io
 instantsell.io
 intelligencecubed.io
 interchain.io
@@ -5430,6 +5464,7 @@ klever.io
 therootnetwork.komi.io
 kpk.io
 krakenink.io
+krakenonchain.io
 krakenplus.io
 kunalabs.io
 kuru.io
@@ -5447,6 +5482,7 @@ litas.io
 llamafeed.io
 llamapay.io
 lmxlabs.io
+lnkchain.io
 loomx.io
 luminex.io
 luxxcoin.io
@@ -5880,6 +5916,7 @@ velo.drome.eth.link
 hybridsmartcontract.link
 hybridsmartcontracts.link
 bafybeiecvujvs74xvxgpwctmbfkcucazyaudmwuiw4wfv6ys7uio7o376u.ipfs.inbrowser.link
+krakenink.link
 market.link
 mgrm.link
 misten.link
@@ -6046,6 +6083,7 @@ coinbaseprime.mx
 zabo.com.mx
 moneygram.mx
 opensea.org.mx
+payward.mx
 zabo.mx
 coinbase.my
 moneygram.my
@@ -6152,6 +6190,7 @@ jsdelivr.net
 krakenplus.net
 layerxtech.net
 liquid.net
+lnkonchain.net
 lumiterra.net
 maidsafe.net
 massa.net
@@ -6337,6 +6376,8 @@ keep.network
 keep3r.network
 khalani.network
 koii.network
+krakenink.network
+krakenonchain.network
 kroma.network
 kusama.network
 blog.kyber.network
@@ -6463,9 +6504,15 @@ odaily.news
 radiant.nexus
 coinbase.ng
 ab-isolutions.nl
+bitcoinmeester.nl
+bitcoinmeesteracademy.nl
+bitladon.nl
+btcmeester.nl
 coinbase.nl
 coinbasecloud.nl
+hbitcoinmeester.nl
 kraken.nl
+litecoinmeester.nl
 xerox.nl
 coinbaseprime.no
 kai.now
@@ -6520,6 +6567,7 @@ sg-1.online
 suicommunity.online
 support-opensea.online
 zdkl.online
+kraken.ooo
 opensea.orb
 0ghub.org
 0xprotocol.org
@@ -6702,6 +6750,7 @@ hyperfoundation.org
 ichi.org
 inco.org
 infinitenodefoundation.org
+inkonchain.org
 internetcomputer.org
 intersectmbo.org
 iota.org
@@ -6712,6 +6761,7 @@ keensalmon.org
 kingprotocol.org
 klksync.org
 krakenink.org
+krakenonchain.org
 krakenplus.org
 layerai.org
 liquity.org
@@ -6719,6 +6769,7 @@ litecoin.org
 livepeer.org
 forum.livepeer.org
 lmxlabs.org
+lnkchain.org
 lumia.org
 marlin.org
 mavryk.org
@@ -6987,6 +7038,7 @@ coinbase.sh
 opensea.sh
 teleport.sh
 basedmerch.shop
+bitladon.shop
 c10nbase.shop
 coinbasecard.shop
 coinbasecloud.shop
@@ -7102,6 +7154,7 @@ fishfish.store
 fuse.store
 krak.store
 krakapp.store
+kraktag.store
 opendatalabs.store
 sourcebase.store
 sui.store
@@ -7245,6 +7298,7 @@ gold.tether.to
 usdt0.to
 chainlink.today
 coinbasecard.today
+krak.today
 chaingpt.tools
 coinbasecard.tools
 coinbasecloud.tools
@@ -7335,6 +7389,7 @@ coinbaseprime.co.uk
 coinbasepro.co.uk
 coinbasewallet.co.uk
 cryptopunks721.co.uk
+krakenplus.co.uk
 nexusmutual.co.uk
 raylz.co.uk
 tagomi.co.uk
@@ -7650,6 +7705,7 @@ ika.xyz
 infinex.xyz
 infinifi.xyz
 anvil.initia.xyz
+inkonchain.xyz
 irys.xyz
 irysarcade.xyz
 jesse.xyz
@@ -7663,7 +7719,10 @@ kelpdao.xyz
 kinto.xyz
 kintsu.xyz
 kittypunch.xyz
+krakenink.xyz
+krakenonchain.xyz
 krakenplus.xyz
+krakpay.xyz
 launchtube.xyz
 intel.layer3.xyz
 layerakira.xyz
@@ -7675,6 +7734,7 @@ letshamsterdance.xyz
 private-portal.letshamsterdance.xyz
 lighter.xyz
 app.lighter.xyz
+lnkchain.xyz
 lockness.xyz
 login.xyz
 oidc.login.xyz
@@ -7861,6 +7921,7 @@ zksynclinks.xyz
 coinbaseprime.co.za
 gas.zip
 1inch.zone
+bcmtoday.zone
 cetus.zone
 app.cetus.zone
 bridge.cetus.zone

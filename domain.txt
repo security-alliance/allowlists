@@ -1854,6 +1854,7 @@ opensea.bargains
 moneygram.com.bd
 bcmtoday.be
 bitcoinmeester.be
+bitladon.be
 coinbase.be
 coinbasecloud.be
 coinbaseprime.be
@@ -2161,15 +2162,19 @@ tagomi.cn
 account-kraken.co
 accountkraken.co
 app.alexlab.co
+alittlebitcoin.co
 almanak.co
 api-kraken.co
+apikraken.co
 ats-kraken.co
 atskraken.co
 audius.co
 baseapp.co
 bisontrails.co
+bitcoinchan.co
 block-kraken.co
 blockkraken.co
+blog-kraken.co
 blogkraken.co
 broker-kraken.co
 brokerkraken.co
@@ -2211,6 +2216,7 @@ coinbasepro.co
 coinbasewallet.co
 coinbasexchange.co
 coinbse.co
+coinslayer.co
 moneygram.com.co
 commercecoinbase.co
 conibase.co
@@ -2262,6 +2268,7 @@ howtogrowadecacorn.co
 howtogrowahectocorn.co
 howtogrowaunicorn.co
 htgad.co
+htgadecacorn.co
 htgah.co
 htgau.co
 hypurr.co
@@ -2270,19 +2277,29 @@ index-kraken.co
 indexkraken.co
 indicies-kraken.co
 indicieskraken.co
+inkchain.co
 investcoinbase.co
 ipregistry.co
 krakapp.co
 krakbank.co
 kraken.co
+kraken-future.co
 kraken-futures.co
+kraken-index.co
+kraken-indicies.co
 kraken-okta.co
 kraken-zendesk.co
 krakenbank.co
 krakendirect.co
+krakenecn.co
+krakenex.co
+krakenexchange.co
 krakenfinancial.co
+krakenforex.co
 krakenfuture.co
 krakenfutures.co
+krakenfx.co
+krakenindex.co
 krakenink.co
 krakenonchain.co
 krakenplus.co
@@ -2291,6 +2308,7 @@ krakenx.co
 krakpay.co
 kraktag.co
 lmxlabs.co
+lnkchain.co
 lnkonchain.co
 login-kraken.co
 loginkraken.co
@@ -2506,6 +2524,7 @@ trade.bitazza.com
 bitcichain.com
 wallet.bitcichain.com
 blog.bitcoin.com
+bitcoinchan.com
 bitcoinmeester.com
 bitcointry.com
 bitdelta.com
@@ -2547,6 +2566,7 @@ braintrust.com
 brandwatch.com
 brave.com
 breakoutprop.com
+broadcoin.com
 btcx.com
 btradeaustralia.com
 btse.com
@@ -2566,6 +2586,7 @@ c0inbase.com
 c0oinbase.com
 c9inbase.com
 c9oinbase.com
+calendar-kraken.com
 canyhoubemyfren.com
 canyoubemyfren.com
 capturgo.com
@@ -2689,6 +2710,7 @@ claimchainlink.com
 clashofcoins.com
 clementmurphy.com
 cloinbase.com
+closedcoin.com
 cloudflare.com
 cloudflareaccess.com
 1inch.cloudflareaccess.com
@@ -2731,6 +2753,9 @@ coimbaze.com
 coimbse.com
 coin68.com
 coin98.com
+coinatee.com
+coinati.com
+coinaty.com
 coinb-ase.com
 coinb1ase.com
 coinb1se.com
@@ -2885,6 +2910,7 @@ coinbazse.com
 coinbbase.com
 coinbcse.com
 coinbdse.com
+coinberg.com
 coinbese.com
 coinbgase.com
 coinbhase.com
@@ -2913,10 +2939,13 @@ coingase.com
 coingbase.com
 coinhbase.com
 coinibase.com
+coinitee.com
+coiniti.com
 coinjase.com
 coinjbase.com
 coinlbase.com
 coinmbase.com
+coinmeester.com
 coinness.com
 coinomi.com
 shop.coinomi.com
@@ -2926,12 +2955,14 @@ coinsbase.com
 coinsbasediscount.com
 coinsbasenft.com
 coinsetter.com
+coinspan.com
 coinstore.com
 cointerminal.com
 coinvantage.com
 coinvase.com
 coinvbase.com
 coinw.com
+coinward.com
 coiobase.com
 coionbase.com
 coirbase.com
@@ -2970,6 +3001,7 @@ crunchdao.com
 crustfiles.com
 crypto-university.com
 crypto435.com
+cryptobenchmarks.com
 cryptoclearinghouse.com
 cryptoderivativesexchange.com
 cryptofacilities.com
@@ -3063,6 +3095,7 @@ dwrobo.com
 dydxgrants.com
 dydxopsdao.com
 dydxv4.com
+e17n.com
 earnos.com
 app.earnos.com
 earnpark.com
@@ -3076,6 +3109,7 @@ elementalraiders.com
 elementwallet.com
 email-kraken.com
 email2-kraken.com
+email3-kraken.com
 energywebx.com
 marketplace.energywebx.com
 enokeyforme.com
@@ -3274,6 +3308,7 @@ howtogrowaunicorn.com
 hpos10i.com
 hpx.com
 htgadecacorn.com
+htgau.com
 htx.com
 huddle01.com
 huggingface.com
@@ -3376,8 +3411,10 @@ kraken-bank.com
 kraken-chat.com
 kraken-desktop.com
 kraken-email.com
+kraken-future.com
 kraken-futures.com
 kraken-index.com
+kraken-indicies.com
 kraken-kfee.com
 kraken-mena.com
 kraken-okta.com
@@ -3412,9 +3449,11 @@ krakenex.com
 krakenfinance.com
 krakenfinancialgroup.com
 krakenfinancialservices.com
+krakenforex.com
 krakenfuture.com
 krakenfutures.com
 krakenfuturesapp.com
+krakenfx.com
 krakenglobel.com
 krakenglodal.com
 krakengroup.com
@@ -3703,6 +3742,7 @@ parity-network.com
 paxos.com
 paykrak.com
 paywaado.com
+paywado.com
 payward.com
 payward-accredited.com
 payward-mena.com
@@ -3732,6 +3772,7 @@ paywordfinance.com
 paywordfinancial.com
 paywordglobal.com
 payworldfinancial.com
+paywyrd.com
 peiwaado.com
 peiwado.com
 perp.com
@@ -4545,6 +4586,7 @@ coinbase.cyou
 coinbase.cz
 coinbaseprime.cz
 bcmtoday.de
+bitladon.de
 coinbasecloud.de
 coinbaseprime.de
 weltderwunder.de
@@ -5473,6 +5515,7 @@ glidera.info
 horizen.info
 krakbank.info
 krakenfinance.info
+krakenfx.info
 krakenplus.info
 krakenx.info
 kraktag.info
@@ -5814,6 +5857,7 @@ inferix.io
 infinityrising.io
 infura.io
 argent.infura-ipfs.io
+inkchain.io
 inkonchain.io
 instantsell.io
 intelligencecubed.io
@@ -6356,6 +6400,7 @@ mystennft.llc
 payward.llc
 sui.llc
 coinbasecard.loan
+kraken.loan
 coinbase.loans
 coinbasecard.loans
 kraken.loans
@@ -6421,6 +6466,7 @@ exmo.me
 haha.me
 justkrak.me
 krakbank.me
+krakenfx.me
 krakenx.me
 lemon.me
 messageth.me
@@ -6511,11 +6557,13 @@ xn--coinbas-xs4c.name
 xn--oinbase-44a.name
 addressology.net
 adshares.net
+alittlebitcoin.net
 anoma.net
 research.anoma.net
 arthatech.net
 augur.net
 belong.net
+bitcoinchan.net
 bitdealer.net
 bitstamp.net
 links.bitstamp.net
@@ -6614,7 +6662,9 @@ krakendesktop.net
 krakenex.net
 krakenfinance.net
 krakenfinancial.net
+krakenforex.net
 krakenfutures.net
+krakenfx.net
 krakenglobal.net
 krakenkrak.net
 krakenonchain.net
@@ -6655,6 +6705,7 @@ paywardfinance.net
 paywardfinancial.net
 paywardmena.net
 paywardspdi.net
+paywode.net
 paywordbank.net
 paywordfinance.net
 paywordfinancial.net
@@ -7061,6 +7112,7 @@ app.betafinance.org
 biswap.org
 bitc2.org
 bitcoinaddict.org
+bitcoinchan.org
 bitcoindiamond.org
 bitcoingold.org
 bitcointalk.org
@@ -7131,6 +7183,7 @@ coinbaseventures.org
 coinbasewallet.org
 coinbasexchange.org
 coinex.org
+coinity.org
 confluxnetwork.org
 creditcoin.org
 crosschainsmartcontract.org
@@ -7221,6 +7274,7 @@ klksync.org
 krakapp.org
 krakenbank.org
 krakendesktop.org
+krakenecn.org
 krakenfinance.org
 krakenfinancial.org
 krakenfx.org
@@ -7301,6 +7355,7 @@ paywardfinance.org
 paywardfinancial.org
 paywardmena.org
 paywardspdi.org
+paywode.org
 paywordbank.org
 paywordfinance.org
 paywordfinancial.org
@@ -7532,6 +7587,7 @@ coinbase.sh
 opensea.sh
 teleport.sh
 basedmerch.shop
+bitcoinmeester.shop
 bitladon.shop
 c10nbase.shop
 coinbasecard.shop
@@ -7881,6 +7937,7 @@ bcmtoday.co.uk
 c01nbase.co.uk
 cbpayments.co.uk
 cfbenchmark.co.uk
+cfbenchmarks.co.uk
 cfbenchmarksltd.co.uk
 chainlinkfoundation.co.uk
 coinbase.co.uk

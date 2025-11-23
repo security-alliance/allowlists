@@ -78,6 +78,7 @@ fairchain.ai
 docs.fetch.ai
 fireswap.ai
 gaib.ai
+gmgn.ai
 gmnetwork.ai
 gokite.ai
 docs.gokite.ai

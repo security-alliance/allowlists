@@ -3614,6 +3614,7 @@ clearpool.medium.com
 cryptochefs.medium.com
 cvex.medium.com
 cwallet.medium.com
+dextools.medium.com
 energywebx.medium.com
 folksfinance.medium.com
 horizenlabs.medium.com

@@ -3684,6 +3684,7 @@ minting.moonbirds.com
 moonchain.com
 moonpay.com
 dev.moonpay.com
+support.moonpay.com
 moonpaycommerce.com
 moonshot.com
 support.moonshot.com

@@ -8517,6 +8517,7 @@ mizulabs.xyz
 docs.mizulabs.xyz
 mogcoin.xyz
 monad.xyz
+app.monad.xyz
 claim.monad.xyz
 monadescrow.xyz
 monadpad.xyz

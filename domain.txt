@@ -7745,6 +7745,7 @@ rosetta-api.services
 smartcontract.services
 coinbase.com.sg
 coinbase.sh
+beta.flap.sh
 opensea.sh
 teleport.sh
 basedmerch.shop

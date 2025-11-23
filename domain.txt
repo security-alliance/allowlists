@@ -6939,6 +6939,7 @@ sale.aztec.network
 balanced.network
 bancor.network
 beamable.network
+billions.network
 signup.billions.network
 bless.network
 blockdag.network

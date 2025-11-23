@@ -7057,6 +7057,7 @@ orochi.network
 over.network
 parasail.network
 parchain.network
+payai.network
 pell.network
 phala.network
 docs.pi2.network

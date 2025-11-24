@@ -3072,6 +3072,7 @@ feed.defillama.com
 swap.defillama.com
 wiki.defillama.com
 degensoft.com
+deloreanlabs.com
 delysium.com
 dentwireless.com
 deribit.com

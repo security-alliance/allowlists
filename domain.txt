@@ -370,11 +370,13 @@ enoki-portal-git-wrobertson-fixfix-mysten-labs.vercel.app
 enoki-portal-git-wrobertson-moviepasssubnames-mysten-labs.vercel.app
 explorer-topaz.vercel.app
 flare-bridge.vercel.app
+fork-swiftex.vercel.app
 gymnasuium.vercel.app
 gymnasuium-kevinzeidler-mystenlabsc-mysten-labs.vercel.app
 gymnasuium-mysten-labs.vercel.app
 ibe-marketplace-git-joy-add-header-mysten-labs.vercel.app
 ibe-marketplace-git-joy-verify-personal-msg-mysten-labs.vercel.app
+lend-v2-fe-test.vercel.app
 metamask-dev-dashboard-feat-remove-prora-consensys-ddffed67.vercel.app
 metamask-wagmi-demo.vercel.app
 monad-networks.vercel.app
@@ -2720,6 +2722,7 @@ chromatic.com
 chrome-stats.com
 chromia.com
 ciinbase.com
+cimmune.com
 cinbase.com
 cioinbase.com
 cionbsae.com
@@ -3362,10 +3365,12 @@ immune.com
 immune-5.com
 immune-b.com
 immune-iq.com
+immune-x.com
 immune3d.com
 immunedx.com
 immunee.com
 immunefi.com
+immuneflix.com
 immunefy.com
 immuneguy.com
 immunehub.com
@@ -3373,6 +3378,7 @@ immuneink.com
 immunekey.com
 immunemist.com
 immunemx.com
+immunen.com
 immunenet.com
 immunenow.com
 immunepl.com
@@ -3385,12 +3391,14 @@ immunet70.com
 immunetion.com
 immunetx.com
 immunez.com
+immunfuel.com
 immunheal.com
 immunies.com
 immunius.com
 immunoe.com
 immuntec.com
 immunzen.com
+immuzene.com
 imuneg.com
 imunen.com
 imunify.com

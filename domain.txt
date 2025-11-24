@@ -5165,7 +5165,6 @@ kriya.finance
 app.kriya.finance
 kylix.finance
 lagoon.finance
-lido.finance
 linear.finance
 liquifi.finance
 claim.lombard.finance

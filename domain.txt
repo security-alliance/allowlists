@@ -3677,6 +3677,7 @@ moltennetwork.com
 monadbridge.com
 monadexplorer.com
 testnet.monadexplorer.com
+monadfastbridge.com
 monerium.com
 moneycanbe.com
 moneygram.com

@@ -5759,6 +5759,7 @@ lnkchain.ink
 ocho.ink
 spindl.ink
 use.ink
+ui.use.ink
 coinbasecard.institute
 smartcontractresearch.institute
 coinbase.international

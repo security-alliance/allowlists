@@ -6165,6 +6165,7 @@ nestree.io
 netris.io
 nexus1.io
 nexusmutual.io
+app.nexusmutual.io
 nexusmutualdao.io
 ngrave.io
 nolus.io

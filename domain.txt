@@ -7380,7 +7380,6 @@ chainlinkvrf.org
 chainlist.org
 charidai.org
 chroniclelabs.org
-old.clhaingpt.org
 clv.org
 cod3x.org
 coinbase.org

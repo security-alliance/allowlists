@@ -6039,6 +6039,7 @@ grvt.io
 hacken.io
 hackmd.io
 hape.io
+marketplace.hape.io
 hashbot.io
 havah.io
 helixfi.io

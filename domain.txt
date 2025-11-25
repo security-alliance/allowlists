@@ -2826,8 +2826,10 @@ coinbase-staging.com
 coinbase-swag.com
 coinbase-test.com
 coinbase-walet.com
+custody.coinbase.com
 help.coinbase.com
 login.coinbase.com
+payments.coinbase.com
 profile.coinbase.com
 wallet.coinbase.com
 coinbase3.com

@@ -5379,6 +5379,7 @@ rayls.foundation
 satlayer.foundation
 sentient.foundation
 smartcontract.foundation
+claim.story.foundation
 sui.foundation
 thechainlink.foundation
 tonomy.foundation

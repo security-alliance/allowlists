@@ -67,6 +67,7 @@ deepsnitch.ai
 defiagents.ai
 defusion.ai
 degentics.ai
+degents.ai
 delaunch.ai
 dgrid.ai
 dmailnetwork.ai

@@ -7235,6 +7235,7 @@ watchx.network
 wbtc.network
 wire.network
 woo.network
+xorion.network
 xyo.network
 zeon.network
 zero.network

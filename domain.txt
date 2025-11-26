@@ -5858,6 +5858,7 @@ bullx.io
 byreal.io
 bytom.io
 c4e.io
+exmocom.canny.io
 cartesi.io
 catbal.io
 cbam-international.io

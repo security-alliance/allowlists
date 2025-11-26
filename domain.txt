@@ -3752,6 +3752,7 @@ monadbridge.com
 monadexplorer.com
 testnet.monadexplorer.com
 monadfastbridge.com
+testnet.monadvision.com
 monerium.com
 moneycanbe.com
 moneygram.com

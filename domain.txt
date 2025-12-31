@@ -8748,6 +8748,7 @@ kraken.trade
 loyal.trade
 merkle.trade
 oku.trade
+docs.oku.trade
 paradex.trade
 purp.trade
 app.rage.trade
@@ -9151,6 +9152,7 @@ gemlabs.xyz
 gemswap.xyz
 getoptimum.xyz
 getoro.xyz
+gfx.xyz
 gimofinance.xyz
 gizatech.xyz
 glowfinance.xyz

@@ -104,6 +104,7 @@ hydranet.ai
 infinityg.ai
 ipogenie.ai
 kaito.ai
+kled.ai
 krakapp.ai
 krakbank.ai
 krakenplus.ai

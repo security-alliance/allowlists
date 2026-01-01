@@ -102,6 +102,7 @@ hmt.ai
 horizen.ai
 hydranet.ai
 infinityg.ai
+ipogenie.ai
 kaito.ai
 krakapp.ai
 krakbank.ai

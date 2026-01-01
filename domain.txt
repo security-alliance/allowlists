@@ -6512,6 +6512,7 @@ kgen.io
 khorus.io
 kilt.io
 kizzy.io
+app.kizzy.io
 kleros.io
 klever.io
 therootnetwork.komi.io

@@ -7808,6 +7808,7 @@ mysten.one
 mystenlabs.one
 mystenlabsnft.one
 mystennft.one
+octavia.one
 onebridge.one
 oneexchange.one
 onerepo.one

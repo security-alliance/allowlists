@@ -7060,6 +7060,7 @@ coinbasecard.live
 coinbaseindia.live
 coinbaseinvestorday.live
 coinbasenft.live
+investing.crowdwisdom.live
 misten.live
 mistenlabs.live
 mysten.live

@@ -5065,6 +5065,7 @@ mystenlabsnft.design
 mystennft.design
 newsoft.design
 sui.design
+agglayer.dev
 aurora.dev
 base.dev
 buildnbuild.dev

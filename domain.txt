@@ -68,6 +68,7 @@ coinbase.ai
 google.com.ai
 computelabs.ai
 cortexlabs.ai
+cryptify.ai
 cryptofinance.ai
 cryptopunksnft.ai
 cryptowatch.ai

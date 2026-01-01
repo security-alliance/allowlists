@@ -2567,6 +2567,7 @@ advancecoinbase.com
 advancedcoinbase.com
 aelf.com
 aeternity.com
+main.affyn.com
 agaralabs.com
 ainft.com
 airdrop-chainlink.com

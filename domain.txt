@@ -8747,6 +8747,7 @@ ionex.trade
 kraken.trade
 loyal.trade
 merkle.trade
+monday.trade
 oku.trade
 docs.oku.trade
 paradex.trade

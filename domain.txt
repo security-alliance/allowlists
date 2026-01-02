@@ -5881,6 +5881,7 @@ sui.gives
 coinbase.gl
 google.gl
 goo.gle
+astral.global
 base.global
 coinbase.global
 coinbasecloud.global

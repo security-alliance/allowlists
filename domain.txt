@@ -7493,6 +7493,7 @@ suipassport.net
 suiplay0x1.net
 support-opensea.net
 tamego.net
+threads.net
 tokenizedinamerica.net
 trmlabs.net
 ustrwg.net

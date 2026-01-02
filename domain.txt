@@ -6557,6 +6557,7 @@ luminex.io
 luxxcoin.io
 lyzi.io
 m-safe.io
+maavatar.io
 magentalabs.io
 magma.io
 claim.magma.io

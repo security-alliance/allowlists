@@ -8134,6 +8134,7 @@ opensea-support.org
 openseasupport.org
 openxai.org
 opulous.org
+oroswap.org
 p2p.org
 pactus.org
 parchain.org

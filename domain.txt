@@ -311,6 +311,7 @@ opensea-support.app
 payward.app
 phantom.app
 podcast.phantom.app
+plasma1.app
 polaris.app
 polkadot-live.app
 positional.app
@@ -2232,6 +2233,7 @@ mysten.cloud
 mystenlabs.cloud
 mystenlabsnft.cloud
 mystennft.cloud
+plasmalabs.cloud
 polkadot.cloud
 rosetta-api.cloud
 skew.cloud
@@ -2245,6 +2247,7 @@ coinbasegiveaway.club
 coinbasenft.club
 daohaus.club
 exo-labs.club
+plasmalabs.club
 popp.club
 turtle.club
 app.turtle.club
@@ -4147,6 +4150,8 @@ pionex.com
 piratechain.com
 planetariumlabs.com
 planetix.com
+plasma-1.com
+plasmaexplorer.com
 playdapp.com
 playestates.com
 playsolana.com
@@ -6114,6 +6119,7 @@ paywardfinance.info
 paywardfinancial.info
 pcswap.info
 phantasma.info
+plasmalabs.info
 ppoi.info
 realvisioncaymancalling.info
 realvisionpublications.info
@@ -7075,6 +7081,7 @@ mysten.live
 mystenlabs.live
 mystenlabsnft.live
 mystennft.live
+plasmalabs.live
 sui.live
 tremor.live
 chn.lk
@@ -7096,6 +7103,7 @@ coinbase.loans
 coinbasecard.loans
 kraken.loans
 payward.loans
+plasma.locker
 degendapps.lol
 degenname.lol
 degenradio.lol
@@ -7186,6 +7194,7 @@ monad_nft.testnet.nfts2.me
 moonpay.onelink.me
 payward.me
 paywardfinancial.me
+plasmalabs.me
 proton.me
 quicksync.me
 info.quicksync.me
@@ -7456,6 +7465,8 @@ paywordfinance.net
 paywordfinancial.net
 payworldfinancial.net
 peercoin.net
+plasma-1.net
+plasmascan.net
 plumefoundation.net
 primal.net
 proofofreserves.net
@@ -7846,6 +7857,7 @@ mystenlabsnft.online
 mystennft.online
 opendatalabs.online
 paywardfinancial.online
+plasmalabs.online
 sg-1.online
 suicommunity.online
 support-opensea.online
@@ -8159,6 +8171,9 @@ perena.org
 phantomhive.org
 gate.phantomhive.org
 pivx.org
+plasma.org
+plasma-1.org
+plasmalabs.org
 plume.org
 arc.plume.org
 bridge.plume.org
@@ -8455,6 +8470,7 @@ symbioticfi.notion.site
 thegraphfoundation.notion.site
 valleydao.notion.site
 paywardfinancial.site
+plasmalabs.site
 rosetta-api.site
 rosettaapi.site
 wal.site
@@ -8552,6 +8568,7 @@ krak.store
 krakapp.store
 kraktag.store
 opendatalabs.store
+plasmalabs.store
 solyd.store
 sourcebase.store
 sui.store
@@ -8641,6 +8658,7 @@ mysten.tech
 mystenlabs.tech
 mystenlabsnft.tech
 mystennft.tech
+plasma-one.tech
 plasmalabs.tech
 app.polyflow.tech
 rosetta-api.tech
@@ -8711,6 +8729,7 @@ plasmascan.to
 testnet.plasmascan.to
 spdl.to
 spindl.to
+stabl.to
 tawk.to
 tether.to
 gold.tether.to
@@ -8994,6 +9013,7 @@ mystenlabs.wiki
 mystenlabsnft.wiki
 mystennft.wiki
 opensea.wiki
+plasmalabs.wiki
 sui.wiki
 c10nbase.win
 go.hex.win
@@ -9027,6 +9047,7 @@ ata.ws
 coinbase.ws
 google.ws
 payward.ws
+web3sec.ws
 datadex.wtf
 fairground.wtf
 jito.wtf

@@ -7257,6 +7257,7 @@ level.money
 app.level.money
 mass.money
 new.money
+oooo.money
 payward.money
 pinto.money
 pulsar.money

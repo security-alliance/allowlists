@@ -8286,6 +8286,7 @@ winklink.org
 woo.org
 dex.woo.org
 world.org
+worldbrains.org
 worldcoin.org
 worldethicaldata.org
 x4pay.org

@@ -3123,6 +3123,7 @@ coinness.com
 coinomi.com
 shop.coinomi.com
 support.coinomi.com
+coinp.com
 coinrase.com
 coinsbase.com
 coinsbasediscount.com

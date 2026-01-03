@@ -4519,6 +4519,7 @@ tegankline.com
 tensorians.com
 ternoa.com
 test-delete-later.com
+tevi.com
 web3.tevi.com
 tezos.com
 tgdax.com
@@ -6444,6 +6445,7 @@ quboid.gitbook.io
 rndr.gitbook.io
 robin-markets.gitbook.io
 stader.gitbook.io
+tevi.gitbook.io
 turbos.gitbook.io
 upheaval-1.gitbook.io
 zircuit.gitbook.io

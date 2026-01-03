@@ -202,7 +202,6 @@ join.base.app
 believe.app
 belo.app
 bitton.app
-bondex.app
 bracky.app
 bsky.app
 c10nbase.app

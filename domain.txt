@@ -8485,6 +8485,7 @@ mystenlabs.site
 mystenlabsnft.site
 mystennft.site
 1inch-ambassador.notion.site
+aiavatar.notion.site
 campaignlabs.notion.site
 corn-farmers.notion.site
 joinsuku.notion.site

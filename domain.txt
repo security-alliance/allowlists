@@ -8047,6 +8047,7 @@ getravencoin.org
 getsession.org
 ghost.org
 glidera.org
+goldcoinproject.org
 golemproject.org
 google.org
 gostellar.org

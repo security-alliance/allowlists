@@ -2747,6 +2747,7 @@ c9oinbase.com
 calendar-kraken.com
 canyhoubemyfren.com
 canyoubemyfren.com
+capcut.com
 capturgo.com
 catenalabs.com
 catslaptoken.com
@@ -3280,6 +3281,7 @@ dogeos.com
 docs.dogeos.com
 doinbase.com
 doschain.com
+douyin.com
 draftcoins.com
 dremica.com
 drewsecurity.com
@@ -3832,6 +3834,7 @@ web3.ldd678.com
 leagueofkingdoms.com
 play.leagueofkingdoms.com
 learnpolkadot.com
+lemon8-app.com
 letsgetjessebald.com
 lightprotocol.com
 lightyear-ops.com
@@ -4581,6 +4584,7 @@ totle.com
 totleinfra.com
 totlenext.com
 totlesystem.com
+toutiao.com
 towns.com
 tradekraken.com
 tradetomato.com

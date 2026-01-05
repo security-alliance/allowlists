@@ -7181,6 +7181,7 @@ coinbasecard.me
 coinbasenft.me
 coinbaseprime.me
 datadex.me
+discord.me
 enokey.me
 exmo.me
 google.me
@@ -8048,6 +8049,7 @@ getsession.org
 ghost.org
 glidera.org
 goldcoinproject.org
+goldcointalk.org
 golemproject.org
 google.org
 gostellar.org

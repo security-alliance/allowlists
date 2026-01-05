@@ -7923,6 +7923,7 @@ bitcoingold.org
 bitcointalk.org
 bitdegree.org
 bitshares.org
+bitsharestalk.org
 bitvm-acc.org
 blockchainpaymentsconsortium.org
 blockvision.org

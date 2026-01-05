@@ -2458,6 +2458,7 @@ otc-kraken.co
 otckraken.co
 papercrypto.co
 paradex.co
+parcl.co
 payward.co
 payward-okta.co
 payward-zendesk.co

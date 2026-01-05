@@ -4194,6 +4194,7 @@ proofofplay.com
 propy.com
 proteodefi.com
 docs.proteodefi.com
+provenance-emu.com
 publicnode.com
 arbitrum-one.publicnode.com
 pengu.pudgypenguins.com

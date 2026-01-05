@@ -1940,6 +1940,7 @@ opensea.berlin
 coinbasecard.best
 coinbasecloud.best
 morpholabs.best
+nexus.obsidian.best
 toshi.bet
 google.bf
 google.bg

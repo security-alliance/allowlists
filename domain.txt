@@ -5125,6 +5125,7 @@ mystenlabs.dev
 mystenlabsnft.dev
 mystennft.dev
 openrarity.dev
+1inch-com.pages.dev
 1inch-io-app.pages.dev
 1inch-io-app-v3.pages.dev
 1inch-io-landing-production.pages.dev

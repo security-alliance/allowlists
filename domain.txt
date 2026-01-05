@@ -8554,6 +8554,7 @@ coinbasecard.space
 coinbasecloud.space
 coinbasenft.space
 coinbasepro.space
+cubane.space
 dexlab.space
 misten.space
 mistenlabs.space

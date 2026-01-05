@@ -1730,6 +1730,7 @@ wallet-next-git-tlmysten-send-full-url-mysten-labs.vercel.app
 wallet-next-git-tlmysten-suspense-issue-mysten-labs.vercel.app
 wallet-next-git-v24120-mysten-labs.vercel.app
 wallet-next-git-wrobertson-ledgerrrr-mysten-labs.vercel.app
+walletconnect-specs.vercel.app
 walrus-sites-landing-page-git-alextzimas-sew-543426-mysten-labs.vercel.app
 walrus-sites-landing-page-git-fonts-mysten-labs.vercel.app
 walrus-sites-landing-page-git-legal-mysten-labs.vercel.app

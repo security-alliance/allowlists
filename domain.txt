@@ -6937,6 +6937,7 @@ zotto.io
 zulunetwork.io
 google.iq
 auroracoin.is
+auroraspjall.is
 coinbase.is
 google.is
 anoncoin.it

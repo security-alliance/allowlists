@@ -8537,6 +8537,7 @@ fossil.so
 google.so
 hylo.so
 onekey.so
+help.onekey.so
 openloop.so
 polyfund.so
 sonex.so

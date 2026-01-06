@@ -6439,6 +6439,7 @@ ace.fusionist.io
 galaxiacoin.io
 gamezone.io
 gatechain.io
+generalmagic.io
 get-protocol.io
 getgems.io
 ghost.io

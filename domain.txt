@@ -264,6 +264,7 @@ my.forms.app
 online.forms.app
 freighter.app
 functions-demo.app
+girin.app
 goatai.app
 hashpack.app
 hedgehog.app

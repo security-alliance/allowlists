@@ -5480,6 +5480,7 @@ docs.noves.fi
 nu.fi
 ordiswap.fi
 pacifica.fi
+piggybank.fi
 plutus.fi
 polynomial.fi
 rhino.fi

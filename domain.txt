@@ -9104,6 +9104,7 @@ payward.ws
 web3sec.ws
 datadex.wtf
 fairground.wtf
+gorbagana.wtf
 jito.wtf
 merv.wtf
 nouns.wtf

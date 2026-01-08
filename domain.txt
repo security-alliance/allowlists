@@ -9187,6 +9187,7 @@ conduit.xyz
 contango.xyz
 contezt.xyz
 0g-faucet.corenodehq.xyz
+cross-play.xyz
 crustfiles.xyz
 crustnetwork.xyz
 files.crustnetwork.xyz

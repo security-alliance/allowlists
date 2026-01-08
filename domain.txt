@@ -8073,6 +8073,7 @@ ethpresentation.org
 ethpresentations.org
 evmos.org
 fantom.org
+fil.org
 firmachain.org
 firo.org
 flappybird.org

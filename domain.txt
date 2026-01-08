@@ -3479,6 +3479,7 @@ genlayer.com
 genomeprotocol.com
 get-krak.com
 getalby.com
+getamppay.com
 getbabb.com
 getchainlink.com
 getgoxed.com

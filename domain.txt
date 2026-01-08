@@ -6265,6 +6265,7 @@ teste-2.baseportal.io
 teste-assinatura.baseportal.io
 teste01.baseportal.io
 teste02.baseportal.io
+battleverse.io
 beldex.io
 beratrail.io
 biconomy.io

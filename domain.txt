@@ -4120,6 +4120,7 @@ otoy.com
 ousd.com
 outsideinc.com
 p2pb2b.com
+paltalabs.com
 panoray.com
 paragraph.com
 app.parcllabs.com
@@ -5190,6 +5191,7 @@ vuebase-posty.pages.dev
 wormhole-5sz.pages.dev
 wormhole-web.pages.dev
 zksync-era-website.pages.dev
+paltalabs.dev
 parfin.dev
 payward.dev
 paywardfinancial.dev
@@ -8219,6 +8221,7 @@ opulous.org
 oroswap.org
 p2p.org
 pactus.org
+paltalabs.org
 parchain.org
 pawsupfam.org
 payward.org
@@ -9402,6 +9405,7 @@ otherlife.xyz
 otherside.xyz
 outkast.xyz
 pairs.xyz
+paltalabs.xyz
 passport.xyz
 paywithecho.xyz
 peaq.xyz

@@ -9456,6 +9456,7 @@ satlayer.xyz
 scroll.xyz
 uniswap-showcase.sepolia.scroll.xyz
 seatizens.xyz
+self.xyz
 selfchain.xyz
 blog.selfchain.xyz
 sentiment.xyz

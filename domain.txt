@@ -3215,6 +3215,7 @@ cryptowatch.com
 cryptowatch-desktop.com
 cryptowatchdesktop.com
 curvance.com
+app.curvance.com
 docs.curvance.com
 cutestat.com
 cvoinbase.com

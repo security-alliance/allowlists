@@ -5731,6 +5731,7 @@ citrea.foundation
 domin.foundation
 dydx.foundation
 espresso.foundation
+claim.espresso.foundation
 etherium.foundation
 gear.foundation
 hedera.foundation

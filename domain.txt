@@ -5450,6 +5450,7 @@ bracket.fi
 bullpen.fi
 caddi.fi
 common.fi
+cosmos.cow.fi
 classic.curve.fi
 curvy.fi
 definitive.fi

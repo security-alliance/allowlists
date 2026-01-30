@@ -6836,6 +6836,7 @@ parity.io
 parity-network.io
 paritynetwork.io
 parops.io
+paytience.io
 payward.io
 paywardbank.io
 paywardfinance.io

@@ -250,6 +250,7 @@ crustcloud.app
 files.crustnetwork.app
 cryptomaze.app
 cryptopunks.app
+hub.cryptopunks.app
 cybermarket.app
 deepdrop.app
 defi.app

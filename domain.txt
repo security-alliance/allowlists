@@ -2654,6 +2654,11 @@ baanx.com
 uat-app.baanxapi.com
 babydoge.com
 backendconfigserver.com
+bancordao.com
+bancorfinancial.com
+bancorlabs.com
+bancorpro.com
+bancorswap.com
 bandprotocol.com
 bankless.com
 banxa.com
@@ -5431,6 +5436,7 @@ apex.exchange
 backpack.exchange
 support.backpack.exchange
 balancer.exchange
+bancor.exchange
 bean.exchange
 bungee.exchange
 camelot.exchange
@@ -5815,6 +5821,8 @@ allora.foundation
 claims.allora.foundation
 prime.allora.foundation
 amo.foundation
+bancor.foundation
+bprotocol.foundation
 caduceus.foundation
 chainlink.foundation
 citrea.foundation
@@ -6355,6 +6363,7 @@ atomics.io
 auditone.io
 aventus.io
 axelarscan.io
+bancorswap.io
 baseportal.io
 123.baseportal.io
 acpro.baseportal.io
@@ -6386,6 +6395,7 @@ blockpi.io
 blockr.io
 blosym.io
 blum.io
+bncr.io
 bondifinance.io
 borachain.io
 bosonprotocol.io
@@ -7749,6 +7759,7 @@ forum.aztec.network
 sale.aztec.network
 balanced.network
 bancor.network
+bancorpro.network
 beamable.network
 bigads.network
 billions.network
@@ -8094,6 +8105,8 @@ axel.org
 azuro.org
 bacalhau.org
 bakeryswap.org
+bancordao.org
+bancorfoundation.org
 baseperp.org
 basestrategy.org
 basicattentiontoken.org

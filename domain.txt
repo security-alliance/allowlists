@@ -6628,6 +6628,7 @@ glif.io
 docs.glif.io
 gmrtag.io
 gmx.io
+goldsquad.io
 golem-base.io
 golem-db.io
 golembase.io

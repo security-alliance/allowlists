@@ -8786,6 +8786,7 @@ opendatalabs.store
 plasmalabs.store
 solyd.store
 sourcebase.store
+stan.store
 sui.store
 ztarknet.store
 base.stream

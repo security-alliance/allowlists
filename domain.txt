@@ -7761,6 +7761,7 @@ forum.aztec.network
 sale.aztec.network
 balanced.network
 bancor.network
+blog.bancor.network
 bancorpro.network
 beamable.network
 bigads.network

@@ -106,6 +106,7 @@ app.heyelsa.ai
 hmt.ai
 horizen.ai
 hydranet.ai
+docs.hydranet.ai
 infinityg.ai
 ipogenie.ai
 kaito.ai

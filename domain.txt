@@ -2655,6 +2655,7 @@ baanx.com
 uat-app.baanxapi.com
 babydoge.com
 backendconfigserver.com
+wirex.bamboohr.com
 bancordao.com
 bancorfinancial.com
 bancorlabs.com
@@ -3182,6 +3183,7 @@ coiobase.com
 coionbase.com
 coirbase.com
 coiunbase.com
+admin.cojez.com
 cojinbase.com
 cojnbase.com
 cokinbase.com
@@ -3897,6 +3899,7 @@ lightyear-ops.com
 limitbreak.com
 br.linkedin.com
 in.linkedin.com
+ua.linkedin.com
 uk.linkedin.com
 coinbase-tradeplus.linkedinforbusinessgrowth.com
 linumlabs.com
@@ -4801,6 +4804,8 @@ winterwalrus.com
 wirexapp.com
 api-baas.wirexapp.com
 developer.wirexapp.com
+help.wirexapp.com
+status.wirexapp.com
 wirexpaychain.com
 partner.wirexpaychain.com
 withkraken.com
@@ -7510,6 +7515,7 @@ anoma.net
 research.anoma.net
 arthatech.net
 arthera.net
+wirexapp.atlassian.net
 augur.net
 belong.net
 bitcoinchan.net

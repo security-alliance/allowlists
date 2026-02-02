@@ -115,6 +115,7 @@ krakbank.ai
 krakenplus.ai
 krakpay.ai
 kraktag.ai
+kvants.ai
 masa.ai
 mettalex.ai
 minionlab.ai

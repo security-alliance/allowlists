@@ -4320,6 +4320,8 @@ rampdefi.com
 rampnetwork.com
 raoulpal.com
 ravxy.com
+raydium.com
+perps.raydium.com
 rayld.com
 rayls.com
 privateclaims.rayls.com
@@ -6893,6 +6895,7 @@ raidenx.io
 rareskills.io
 rate-x.io
 docs.raydium.io
+perps.raydium.io
 raylsfoundation.io
 raylz.io
 rebelcars.io

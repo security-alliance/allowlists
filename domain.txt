@@ -2215,6 +2215,7 @@ direct.lc.chat
 savant.chat
 sgb.chat
 kraken.cheap
+rail.governance.church
 kraken.church
 circle.ci
 google.ci
@@ -5561,6 +5562,7 @@ factor.fi
 final-de.fi
 goatswap.fi
 google.fi
+rail.governance.fi
 harmonix.fi
 henez.fi
 hydrex.fi

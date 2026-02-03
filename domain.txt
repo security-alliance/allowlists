@@ -2300,6 +2300,7 @@ apikraken.co
 ats-kraken.co
 atskraken.co
 audius.co
+axieinfinity.co
 axiom.co
 baseapp.co
 bisontrails.co
@@ -4462,6 +4463,7 @@ skew-markets.com
 skew-sbx.com
 skew-stg.com
 skool.com
+skymavis.com
 welcome.skymavis.com
 exodusmovement.slack.com
 zama-ai.slack.com
@@ -5986,6 +5988,7 @@ counterfire.games
 decentral.games
 kult.games
 lilliput.games
+mavis.games
 misten.games
 mistenlabs.games
 mysten.games
@@ -6189,6 +6192,7 @@ floki.floki.id
 moongate.id
 qubo.id
 reveel.id
+ron.id
 sns.id
 docs.sns.id
 space.id
@@ -7951,6 +7955,7 @@ reya.network
 rly.network
 roam.network
 rocksolid.network
+ronin.network
 rosetta-api.network
 rosettaapi.network
 rujira.network
@@ -8123,6 +8128,7 @@ astria.org
 avafoundation.org
 avalabs.org
 axel.org
+axiedao.org
 azuro.org
 bacalhau.org
 bakeryswap.org

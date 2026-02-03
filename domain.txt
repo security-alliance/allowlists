@@ -7182,6 +7182,7 @@ coinbasepayments.jp
 coinbaseprime.jp
 coinbasepro.jp
 coinbasewallet.jp
+coinpost.jp
 cryptowatch.jp
 prtimes.jp
 zoho.jp

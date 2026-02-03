@@ -9546,7 +9546,6 @@ miden.xyz
 mindnetwork.xyz
 mintabox.xyz
 mintapenny.xyz
-mintify.xyz
 learn.mintify.xyz
 misten.xyz
 mistenlabs.xyz

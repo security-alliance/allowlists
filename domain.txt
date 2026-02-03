@@ -3012,6 +3012,7 @@ help.coinbase.com
 login.coinbase.com
 payments.coinbase.com
 profile.coinbase.com
+tokenmanager.coinbase.com
 wallet.coinbase.com
 coinbase3.com
 coinbase4.com

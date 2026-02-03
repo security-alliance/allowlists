@@ -2653,6 +2653,7 @@ sdk.avantisfi.com
 avantprotocol.com
 avinoc.com
 awesomestellar.com
+blog.axieinfinity.com
 azbit.com
 baanx.com
 uat-app.baanxapi.com
@@ -4417,6 +4418,7 @@ rogerssportsandmedia.com
 rogerstv.com
 rollbit.com
 roninchain.com
+blog.roninchain.com
 docs.roninchain.com
 rosetta-api.com
 rosettaapi.com
@@ -4465,6 +4467,7 @@ skew-sbx.com
 skew-stg.com
 skool.com
 skymavis.com
+blog.skymavis.com
 welcome.skymavis.com
 exodusmovement.slack.com
 zama-ai.slack.com

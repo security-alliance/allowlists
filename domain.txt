@@ -2033,6 +2033,7 @@ google.bs
 google.bt
 cargo.build
 decent.build
+synfutures-v3.widget.enso.build
 poh.linea.build
 lineaplorer.build
 madara.build

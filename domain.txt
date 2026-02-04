@@ -5573,6 +5573,7 @@ docs.ekiden.fi
 exchequer.fi
 factor.fi
 final-de.fi
+glider.fi
 goatswap.fi
 google.fi
 rail.governance.fi

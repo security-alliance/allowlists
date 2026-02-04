@@ -5808,6 +5808,7 @@ yieldnest.finance
 app.yieldnest.finance
 docs.yieldnest.finance
 holesky.yieldnest.finance
+yumi.finance
 coinbase.financial
 coinbasecard.financial
 coinbasecloud.financial

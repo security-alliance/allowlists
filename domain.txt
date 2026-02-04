@@ -5289,6 +5289,7 @@ uptimeflare-5wv.pages.dev
 user-5816127315-79aab36f-51k.pages.dev
 vuebase-posty.pages.dev
 wormhole-5sz.pages.dev
+wormhole-docs.pages.dev
 wormhole-web.pages.dev
 zksync-era-website.pages.dev
 paltalabs.dev

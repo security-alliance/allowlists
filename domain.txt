@@ -7133,6 +7133,7 @@ xoswap.io
 xpayfi.io
 yieldguild.io
 yooshi.io
+presale.zaddycoin.io
 zebec.io
 zelcore.io
 zenbtc.io

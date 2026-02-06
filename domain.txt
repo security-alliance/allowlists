@@ -6423,6 +6423,7 @@ beldex.io
 beratrail.io
 biconomy.io
 bifrost.io
+app.bifrost.io
 discord.bifrost.io
 bistroo.io
 bitcastle.io

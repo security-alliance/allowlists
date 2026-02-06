@@ -129,6 +129,7 @@ mysten.ai
 mystenlabs.ai
 mystenlabsnft.ai
 mystennft.ai
+nansen.ai
 app.nansen.ai
 nesa.ai
 docs.nesa.ai
@@ -5216,6 +5217,7 @@ newsoft.design
 sui.design
 agglayer.dev
 aurora.dev
+banansen.dev
 base.dev
 buildnbuild.dev
 c10nbase.dev

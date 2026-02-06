@@ -131,6 +131,7 @@ mystenlabsnft.ai
 mystennft.ai
 nansen.ai
 app.nansen.ai
+research.nansen.ai
 nesa.ai
 docs.nesa.ai
 neurochain.ai

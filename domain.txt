@@ -7537,6 +7537,7 @@ purp.money
 purpa.money
 reflect.money
 sling.money
+admin.internal.sling.money
 solido.money
 stables.money
 terra.money

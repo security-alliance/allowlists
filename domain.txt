@@ -5319,6 +5319,7 @@ parfin.dev
 payward.dev
 paywardfinancial.dev
 pcswap.dev
+phantom.dev
 pse.dev
 reservoir.dev
 rollkit.dev

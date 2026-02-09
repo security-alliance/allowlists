@@ -5301,6 +5301,7 @@ overflow-7qq.pages.dev
 passkeys-wallet.pages.dev
 passkeys-wallet-standalone.pages.dev
 passkeys-website.pages.dev
+phantom-connect-auth-flow.pages.dev
 portal-bridge-github-actions.pages.dev
 portal-bridge-production.pages.dev
 portal-bridge-staging.pages.dev

@@ -8085,6 +8085,7 @@ harmony.one
 hello.one
 kaon.one
 karrier.one
+messina.one
 misten.one
 mistenlabs.one
 mysten.one

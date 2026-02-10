@@ -6514,6 +6514,7 @@ chainlinkoracles.io
 chainlinkpricefeeds.io
 chainlinkvrf.io
 app.chainpatrol.io
+pentest.chainpatrol.io
 pentest-2026.chainpatrol.io
 chainport.io
 docs.chainport.io

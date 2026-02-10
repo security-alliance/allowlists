@@ -1935,6 +1935,7 @@ btradeaustralia.com.au
 coinbase.com.au
 google.com.au
 zoho.com.au
+kucoin.au
 kraken.auction
 opensea.autos
 google.az
@@ -1991,6 +1992,7 @@ arbitrum-explorer-prod.dexguru.biz
 krakapp.biz
 krakbank.biz
 krakenplus.biz
+kucoin.biz
 misten.biz
 mistenlabs.biz
 mysten.biz
@@ -2198,6 +2200,7 @@ coinbase.center
 coinbasecard.center
 coinbasecloud.center
 flare.center
+kucoin.center
 misten.center
 mistenlabs.center
 mysten.center
@@ -2262,6 +2265,7 @@ filecoin.cloud
 gelato.cloud
 hashkey.cloud
 horizen.cloud
+kucoin.cloud
 misten.cloud
 mistenlabs.cloud
 mysten.cloud
@@ -2530,6 +2534,7 @@ sentinel.co
 sergeynazarov.co
 smartcontract.co
 spherepay.co
+staticimg.co
 superverse.co
 support-kraken.co
 supportkraken.co
@@ -4571,6 +4576,7 @@ stateofcrypto2025.com
 stateofcrypto2026.com
 stateofcryptosummit.com
 staticblitz.com
+staticimg.com
 statuskraken.com
 stcoins.com
 steem.com
@@ -5469,6 +5475,7 @@ coinbasecard.eu
 coinbasecloud.eu
 coinbaseprime.eu
 estatex.eu
+kucoin.eu
 meesterbitcoin.eu
 misten.eu
 mistenlabs.eu
@@ -7927,6 +7934,7 @@ just.network
 karak.network
 katana.network
 app.katana.network
+kcc.network
 keep.network
 keep3r.network
 khalani.network
@@ -9021,6 +9029,7 @@ wallet.tg
 coinbase.co.th
 google.co.th
 amlbot.in.th
+kucoin.th
 guts.tickets
 coinbase.tips
 coinbasecard.tips
@@ -9091,6 +9100,8 @@ fantasy.top
 unitrade.staging.gfx.town
 hunt.town
 bitci.com.tr
+kucoin.com.tr
+kucoin.tr
 axiom.trade
 bonk.trade
 condor.trade

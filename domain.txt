@@ -326,6 +326,7 @@ metabase-app-h3pqk.ondigitalocean.app
 opensea.app
 opensea-support.app
 payward.app
+petra.app
 phantom.app
 podcast.phantom.app
 plasma1.app

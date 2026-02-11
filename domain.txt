@@ -6882,6 +6882,7 @@ mystennft.io
 mytonwallet.io
 nabox.io
 naviprotocol.io
+app.naviprotocol.io
 neiroeth.io
 nem.io
 neopin.io

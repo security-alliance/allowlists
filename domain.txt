@@ -9636,6 +9636,8 @@ lynkapp.xyz
 magmastaking.xyz
 magpiefi.xyz
 mav.xyz
+megaphone.xyz
+app.megaphone.xyz
 memswap.xyz
 methprotocol.xyz
 miden.xyz

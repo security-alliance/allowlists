@@ -9597,6 +9597,7 @@ kalefarm.xyz
 kaleidofinance.xyz
 karnot.xyz
 kast.xyz
+academy.kast.xyz
 concierge.kast.xyz
 kelpdao.xyz
 kinto.xyz

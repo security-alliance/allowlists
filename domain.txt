@@ -94,6 +94,7 @@ docs.fetch.ai
 fireswap.ai
 gaib.ai
 gameonworld.ai
+gizaprotocol.ai
 gmgn.ai
 gmnetwork.ai
 gokite.ai

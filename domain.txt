@@ -320,7 +320,10 @@ studio-testnet.netlify.app
 sui-zk-wallet.netlify.app
 subtle-oyster-positive.ngrok-free.app
 nightly.app
+o2.app
+devnet.o2.app
 docs.o2.app
+testnet.o2.app
 trade.o2.app
 on-fleek.app
 metabase-app-h3pqk.ondigitalocean.app
@@ -448,6 +451,8 @@ enoki-portal-git-wrobertson-moviepasssubnames-mysten-labs.vercel.app
 explorer-topaz.vercel.app
 flare-bridge.vercel.app
 fork-swiftex.vercel.app
+fuel-o2-devnet.vercel.app
+fuel-o2-testnet.vercel.app
 gymnasuium.vercel.app
 gymnasuium-kevinzeidler-mystenlabsc-mysten-labs.vercel.app
 gymnasuium-mysten-labs.vercel.app
@@ -7367,6 +7372,7 @@ mysten.live
 mystenlabs.live
 mystenlabsnft.live
 mystennft.live
+o2.live
 plasmalabs.live
 sui.live
 tremor.live

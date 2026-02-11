@@ -330,6 +330,7 @@ metabase-app-h3pqk.ondigitalocean.app
 opensea.app
 opensea-support.app
 payward.app
+perawallet.app
 petra.app
 phantom.app
 podcast.phantom.app
@@ -2319,6 +2320,9 @@ tagomi.cn
 account-kraken.co
 accountkraken.co
 app.alexlab.co
+algoland.co
+dev.algorand.co
+xgov.algorand.co
 alittlebitcoin.co
 almanak.co
 api-kraken.co
@@ -2634,6 +2638,7 @@ airdrop-kraken.com
 aithereumnetwork.com
 akashexplorer.com
 alertsdydx.com
+algorand.com
 alignedlayer.com
 alittlebitcoin.com
 allnodes.com
@@ -8196,6 +8201,8 @@ aleo.org
 alephium.org
 docs.alephium.org
 alephzero.org
+algorand.org
+developer.algorand.org
 alkimi.org
 labs.alkimi.org
 sui.alkimi.org

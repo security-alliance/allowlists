@@ -5949,6 +5949,7 @@ satlayer.foundation
 sentient.foundation
 smartcontract.foundation
 claim.story.foundation
+claim.subquery.foundation
 sui.foundation
 thechainlink.foundation
 tonomy.foundation

@@ -6110,6 +6110,7 @@ opensea.gg
 os.gg
 polkastarter.gg
 remix.gg
+play.remix.gg
 sub0.gg
 thebeacon.gg
 play.tiltyard.gg

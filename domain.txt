@@ -7019,6 +7019,7 @@ scalloplabs.io
 scrollchain.io
 seadn.io
 selanetwork.io
+42.semanticlayer.io
 sembra.io
 sentinelprotocol.io
 sentry.io

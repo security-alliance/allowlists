@@ -3855,6 +3855,9 @@ pro.kraken.com
 support.kraken.com
 krakenaccredited.com
 krakenapp.com
+krakenbaker.com
+cpdev.krakenbaker.com
+cpdev8414.krakenbaker.com
 krakenbank.com
 krakenbit.com
 krakenbitcoin.com

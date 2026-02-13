@@ -7124,6 +7124,7 @@ trezor.io
 trmlabs.io
 tronscan.io
 tronusdc.io
+trudefi.io
 truebit.io
 truefi.io
 trufin.io

@@ -459,6 +459,8 @@ gymnasuium-kevinzeidler-mystenlabsc-mysten-labs.vercel.app
 gymnasuium-mysten-labs.vercel.app
 ibe-marketplace-git-joy-add-header-mysten-labs.vercel.app
 ibe-marketplace-git-joy-verify-personal-msg-mysten-labs.vercel.app
+kite-stake-web-delegators.vercel.app
+kite-stake-web-validators.vercel.app
 lend-v2-fe-test.vercel.app
 ludo-polkadot.vercel.app
 metamask-dev-dashboard-feat-remove-prora-consensys-ddffed67.vercel.app

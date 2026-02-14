@@ -9564,6 +9564,7 @@ flowmatic.xyz
 docs.flowmatic.xyz
 fluent.xyz
 formless.xyz
+degen.foundations.xyz
 fractalvisions.xyz
 fractionai.xyz
 fractrade.xyz

@@ -6867,6 +6867,7 @@ meritcircle.io
 metahero.io
 metaleap.io
 metamask.io
+card.metamask.io
 community.metamask.io
 metana.io
 metars.io

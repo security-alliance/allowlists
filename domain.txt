@@ -5370,6 +5370,7 @@ join.zksync.dev
 bit.diamonds
 opensea.diamonds
 brightflarezone.digital
+cmt.digital
 coinbasecard.digital
 colossus.digital
 eoi.digital

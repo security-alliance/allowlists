@@ -7916,6 +7916,7 @@ blog.cosmos.network
 go.cosmos.network
 crestal.network
 crust.network
+curvance.network
 datagram.network
 ddai.network
 app.ddai.network

@@ -6790,6 +6790,7 @@ interlay.io
 intract.io
 iost.io
 iotex.io
+ipi.io
 app.ipor.io
 blog.ipor.io
 docs.ipor.io

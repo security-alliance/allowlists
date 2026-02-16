@@ -860,6 +860,7 @@ pakedex-git-jnaulty-initial-scaffolding-mysten-labs.vercel.app
 pakedex-git-kevin-initial-scaffolding-mysten-labs.vercel.app
 pakedex-mysten-labs.vercel.app
 plasma-eco.vercel.app
+pocketshop-checkout.vercel.app
 polkadot-tokengated-website.vercel.app
 punksv1.vercel.app
 reclaim-links-eskk.vercel.app
@@ -5880,6 +5881,7 @@ app.yieldnest.finance
 docs.yieldnest.finance
 holesky.yieldnest.finance
 yumi.finance
+demo.yumi.finance
 coinbase.financial
 coinbasecard.financial
 coinbasecloud.financial

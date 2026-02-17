@@ -3457,6 +3457,7 @@ exchange.fastex.com
 fca00c.com
 fcaooc.com
 fcoinbase.com
+fidelity.com
 figma.com
 figuremarkets.com
 filutils.com

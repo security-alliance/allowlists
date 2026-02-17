@@ -3288,7 +3288,6 @@ cryptowatchdesktop.com
 ctolarsson.com
 admin.curvance.com
 api.curvance.com
-app.curvance.com
 docs.curvance.com
 staging.curvance.com
 staging-api.curvance.com

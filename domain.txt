@@ -4569,6 +4569,7 @@ app.sonicahub.com
 sonicxswap.com
 sonm.com
 sophon.com
+portal.sophonapi.com
 soracard.com
 soraoracle.com
 sorobanathon.com

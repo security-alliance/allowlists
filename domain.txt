@@ -5701,6 +5701,7 @@ polynomial.fi
 rhino.fi
 roci.fi
 app.sceptre.fi
+settlex.fi
 solend.fi
 devs.spark.fi
 docs.spark.fi
@@ -5898,6 +5899,7 @@ holesky.yieldnest.finance
 yumi.finance
 cash.yumi.finance
 demo.yumi.finance
+zona.finance
 coinbase.financial
 coinbasecard.financial
 coinbasecloud.financial
@@ -9898,6 +9900,7 @@ worldofwomen.xyz
 wormholelabs.xyz
 xlabs.xyz
 yannikschrade.xyz
+zefe.xyz
 zekret.xyz
 zeusnetwork.xyz
 zkp2p.xyz

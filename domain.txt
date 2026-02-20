@@ -93,6 +93,7 @@ everlyn.ai
 exabits.ai
 exopay.ai
 fairchain.ai
+fans3.ai
 docs.fetch.ai
 fireswap.ai
 gaib.ai
@@ -2769,6 +2770,7 @@ bitladon.com
 bitmart.com
 bitmex.com
 bitopro.com
+bitredict.com
 bitrue.com
 bitso.com
 bitstreetjournal.com
@@ -6068,6 +6070,7 @@ mystennft.gallery
 battleworld.game
 kangamoon.game
 laniakea.game
+melee.game
 metacraft.game
 misten.game
 mistenlabs.game
@@ -9539,6 +9542,7 @@ cukecoin.xyz
 cvex.xyz
 cysic.xyz
 daostewards.xyz
+dashx.xyz
 deberrys.xyz
 decent.xyz
 docs.decent.xyz
@@ -9682,6 +9686,7 @@ lockness.xyz
 login.xyz
 oidc.login.xyz
 lynkapp.xyz
+m0narch.xyz
 magmastaking.xyz
 magpiefi.xyz
 mav.xyz

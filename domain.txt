@@ -3297,6 +3297,7 @@ cryptowatch.com
 cryptowatch-desktop.com
 cryptowatchdesktop.com
 ctolarsson.com
+curvance.com
 admin.curvance.com
 api.curvance.com
 docs.curvance.com

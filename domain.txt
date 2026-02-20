@@ -5848,6 +5848,7 @@ owlto.finance
 ozean.finance
 payward.finance
 perennial.finance
+phnx.finance
 poolz.finance
 premia.finance
 purpa.finance

@@ -85,6 +85,7 @@ defusion.ai
 degentics.ai
 degents.ai
 delaunch.ai
+dfusion.ai
 dgrid.ai
 dmailnetwork.ai
 effect.ai
@@ -1898,6 +1899,7 @@ coinbaseprime.com.ar
 google.com.ar
 moneygram.com.ar
 opensea.army
+blocknads.art
 capy.art
 forma.art
 krak.art
@@ -5532,6 +5534,7 @@ coinbaseinvestorday.events
 kraken.events
 1inch.exchange
 exodus.api.enterprise.1inch.exchange
+amertis.exchange
 antarctic.exchange
 apex.exchange
 backpack.exchange
@@ -6012,6 +6015,7 @@ doubleup.fun
 fundl.fun
 kumabera.fun
 letsbonk.fun
+dapp.memesteroid.fun
 misten.fun
 mistenlabs.fun
 mail.monadflip.fun
@@ -9516,6 +9520,7 @@ loyalty.campnetwork.xyz
 portal.campnetwork.xyz
 canyoubemyfren.xyz
 carbondefi.xyz
+castora.xyz
 category.xyz
 cbase.xyz
 cdpsdk.xyz

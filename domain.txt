@@ -4823,6 +4823,7 @@ docs.usecorn.com
 usekrak.com
 usespindl.com
 usevana.com
+usewerank.com
 ustrwg.com
 validiumx.com
 vana.com
@@ -6043,6 +6044,7 @@ suicommunity.fun
 tops.fun
 vdata.fun
 vector.fun
+x2c.fun
 xdat.fun
 zerocolony.fun
 chainlinkfoundation.fund
@@ -7243,6 +7245,7 @@ xeleb.io
 xmaquina.io
 xoswap.io
 xpayfi.io
+yamata.io
 yieldguild.io
 yooshi.io
 presale.zaddycoin.io
@@ -9209,6 +9212,7 @@ reactor.trade
 rush.trade
 app.sherpa.trade
 discord.sherpa.trade
+timelock.trade
 totle.trade
 getkrak.trading
 krak.trading
@@ -9889,6 +9893,7 @@ tryghost.xyz
 turtle.xyz
 app.turtle.xyz
 u2u.xyz
+umbrelladefi.xyz
 uplink.xyz
 usecash.xyz
 usefelix.xyz

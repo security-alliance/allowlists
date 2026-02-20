@@ -2420,6 +2420,7 @@ evg.co
 exchangecoinbase.co
 fintechstories.co
 flamedefi.co
+flotc.co
 fundcoinbase.co
 future-kraken.co
 futurekraken.co
@@ -6702,6 +6703,7 @@ flareoracle.io
 app.flareoracle.io
 pay.flipeet.io
 flock.io
+flotc.io
 fluid.io
 flyteai.io
 fmfw.io
@@ -7761,6 +7763,7 @@ eth-coinbase.net
 fairx.net
 fio.net
 firstledger.net
+flotc.net
 freesui.net
 glidera.net
 golemproject.net
@@ -9032,6 +9035,8 @@ coinbasecard.tax
 kraken.tax
 coinbase.tc
 flo.tc
+trade.flo.tc
+flow.tc
 google.td
 chaingpt.team
 coinbase.team

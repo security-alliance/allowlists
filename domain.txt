@@ -5764,7 +5764,6 @@ dln.finance
 doppler.finance
 docs.doppler.finance
 dual.finance
-edel.finance
 ellipsis.finance
 emblem.finance
 emmet.finance

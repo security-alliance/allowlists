@@ -296,6 +296,7 @@ krakenplus.app
 krakenpro.app
 krakpay.app
 krakwen.app
+lootgo.app
 lumefi.app
 meebits.app
 meganet.app
@@ -3401,6 +3402,7 @@ app.earnos.com
 earnpark.com
 earthfast.com
 earthfromanothersun.com
+earvingallardo.com
 easeprotocol.com
 eco.com
 ecomi.com
@@ -6015,6 +6017,7 @@ doubleup.fun
 fundl.fun
 kumabera.fun
 letsbonk.fun
+memesteroid.fun
 dapp.memesteroid.fun
 misten.fun
 mistenlabs.fun
@@ -7009,6 +7012,7 @@ powerledger.io
 predicate.io
 presearch.io
 privatesea.io
+privexa.io
 procoinbase.io
 projectcatalyst.io
 promptale.io
@@ -8760,6 +8764,7 @@ google.com.py
 google.com.qa
 stellar.quest
 asymmetric.re
+gorillionai.re
 lnkfi.re
 misten.red
 mistenlabs.red
@@ -9616,6 +9621,7 @@ gata.xyz
 gauntlet.xyz
 app.gauntlet.xyz
 gemlabs.xyz
+gemoon.xyz
 gemswap.xyz
 getoptimum.xyz
 getoro.xyz
@@ -9806,6 +9812,7 @@ remoramarkets.xyz
 resolv.xyz
 rgbclash.xyz
 rheo.xyz
+rugrumble.xyz
 rumpel.xyz
 sanafi.xyz
 sanko.xyz
@@ -9830,6 +9837,7 @@ sophscan.xyz
 spacen.xyz
 spectrallabs.xyz
 spindl.xyz
+spiritsofmonad.xyz
 sproutfi.xyz
 squadboom.xyz
 squads.xyz

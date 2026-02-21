@@ -6988,6 +6988,7 @@ p0rtis.io
 p0rtls.io
 airdrop.paintswap.io
 paltalabs.io
+esteban.paltalabs.io
 live-ethday.pantheonsite.io
 papercrypto.io
 paradex.io

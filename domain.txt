@@ -4517,6 +4517,7 @@ coinbase.sendsafely.com
 sensortower.com
 sentimentindex.com
 beta.sharpeterminal.com
+sharplink.com
 shibaswap.com
 shibatoken.com
 shrapnel.com

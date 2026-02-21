@@ -9213,6 +9213,7 @@ kraken.trade
 loyal.trade
 merkle.trade
 monday.trade
+neutral.trade
 oku.trade
 docs.oku.trade
 paradex.trade

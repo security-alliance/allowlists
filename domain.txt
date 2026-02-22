@@ -24,6 +24,7 @@ tako.7k.ag
 atmos.ag
 coinbase.ag
 google.com.ag
+ferra.ag
 hop.ag
 mace.ag
 app.meteora.ag

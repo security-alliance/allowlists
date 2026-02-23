@@ -7870,6 +7870,7 @@ realvisiontv.net
 redpandaninja.net
 ripplegateway.net
 ritual.net
+dao.rocketpool.net
 rosetta-api.net
 rosettaapi.net
 rosettapi.net

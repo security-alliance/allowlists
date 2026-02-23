@@ -7409,6 +7409,7 @@ coinbaseinvestorday.link
 coinbasepro.link
 deco.link
 app-venus-io.ipns.dweb.link
+ertha.link
 velo.drome.eth.link
 hybridsmartcontract.link
 hybridsmartcontracts.link

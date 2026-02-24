@@ -2188,6 +2188,7 @@ mysten.cash
 mystenlabs.cash
 mystenlabsnft.cash
 mystennft.cash
+p.cash
 purpa.cash
 sling.cash
 sui.cash

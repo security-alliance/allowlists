@@ -3439,6 +3439,7 @@ etherealize.com
 ethereum-france.com
 ethereumbrasil.com
 etherfuse.com
+app.etherfuse.com
 ethgas.com
 ethpresentation.com
 ethpresentations.com

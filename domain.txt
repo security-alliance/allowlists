@@ -5757,6 +5757,7 @@ bounce.finance
 bronto.finance
 bscs.finance
 caddy.finance
+app.carina.finance
 celestia.finance
 cicada.finance
 coinbase.finance

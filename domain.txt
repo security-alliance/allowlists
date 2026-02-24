@@ -7225,6 +7225,7 @@ virtuals.io
 viserion.io
 vooi.io
 voxies.io
+w3gg.io
 wagmigame.io
 wax.io
 wayru.io

@@ -55,6 +55,7 @@ atua.ai
 badidea.ai
 badideas.ai
 battleofagents.ai
+beeard.ai
 bitdoctor.ai
 bittensor.ai
 bytenova.ai

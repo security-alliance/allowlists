@@ -5724,6 +5724,7 @@ rhino.fi
 roci.fi
 app.sceptre.fi
 settlex.fi
+sharky.fi
 solend.fi
 devs.spark.fi
 docs.spark.fi

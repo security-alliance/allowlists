@@ -3339,6 +3339,7 @@ feed.defillama.com
 swap.defillama.com
 wiki.defillama.com
 defimans.com
+app.defit.com
 degencoin.com
 degensoft.com
 deloreanlabs.com

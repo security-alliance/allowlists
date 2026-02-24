@@ -8940,6 +8940,7 @@ coinbasecloud.social
 jumble.social
 kraken.social
 mastodon.social
+octodon.social
 vala.social
 chaingpt.software
 coinbasecard.software

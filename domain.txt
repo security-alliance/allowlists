@@ -6671,6 +6671,8 @@ cross-chain-api-feat-scopes-in-context.dev.debridge.io
 cross-chain-api-fix-add-new-currency-to-crystal.dev.debridge.io
 cross-chain-api-fix-bera-coingecko.dev.debridge.io
 cross-chain-api-fix-chain-fail.dev.debridge.io
+cross-chain-api-fix-request-context.dev.debridge.io
+cross-chain-api-fix-update-compliance.dev.debridge.io
 defindex.io
 defitigertoken.io
 dejitarutsuka.io

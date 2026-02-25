@@ -6892,6 +6892,7 @@ leverfi.io
 lhava.io
 lich.io
 lidofinance.io
+stvaults.lidofinance.io
 lightlink.io
 lightyear.io
 limoverse.io

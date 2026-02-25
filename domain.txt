@@ -2065,6 +2065,7 @@ coinbase.bs
 google.bs
 google.bt
 cargo.build
+consensys.build
 decent.build
 synfutures-v3.widget.enso.build
 poh.linea.build

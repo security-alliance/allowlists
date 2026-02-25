@@ -6685,6 +6685,9 @@ cross-chain-api-story-abstract.dev.debridge.io
 cross-chain-api-test-branch.dev.debridge.io
 cross-chain-api-test-token-list.dev.debridge.io
 cross-chain-api-tranding-tokens.dev.debridge.io
+cross-chain-api-unlock-hot-fix.dev.debridge.io
+cross-chain-api-zk-cronos-contracts.dev.debridge.io
+cross-chain-api-zkcronoshanoi.dev.debridge.io
 defindex.io
 defitigertoken.io
 dejitarutsuka.io

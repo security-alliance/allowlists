@@ -6661,6 +6661,8 @@ app.danogo.io
 discourse.dappnode.io
 dbkchain.io
 debridge-ui-gasless.debridge.io
+deswap-nest-arbitrum-hot-fix.debridge.io
+dev-4258-auto.debridge.io
 cross-chain-api-ci-compliance-service.dev.debridge.io
 cross-chain-api-ci-update-sonarqube-dependency.dev.debridge.io
 cross-chain-api-dev-7331.dev.debridge.io

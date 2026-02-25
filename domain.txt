@@ -6677,6 +6677,14 @@ cross-chain-api-fix-webbusinesserror.dev.debridge.io
 cross-chain-api-gnosis-eip.dev.debridge.io
 cross-chain-api-improve-complience.dev.debridge.io
 cross-chain-api-increased-afterswap.dev.debridge.io
+cross-chain-api-kyberswap-in-bera.dev.debridge.io
+cross-chain-api-kyberswap-in-fantom.dev.debridge.io
+cross-chain-api-new-params-sc.dev.debridge.io
+cross-chain-api-oo-in-bera.dev.debridge.io
+cross-chain-api-story-abstract.dev.debridge.io
+cross-chain-api-test-branch.dev.debridge.io
+cross-chain-api-test-token-list.dev.debridge.io
+cross-chain-api-tranding-tokens.dev.debridge.io
 defindex.io
 defitigertoken.io
 dejitarutsuka.io

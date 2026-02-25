@@ -6664,6 +6664,13 @@ debridge-ui-gasless.debridge.io
 cross-chain-api-ci-compliance-service.dev.debridge.io
 cross-chain-api-ci-update-sonarqube-dependency.dev.debridge.io
 cross-chain-api-dev-7331.dev.debridge.io
+cross-chain-api-dev-7532-dev-7532.dev.debridge.io
+cross-chain-api-dev-7588.dev.debridge.io
+cross-chain-api-feat-compliance-service.dev.debridge.io
+cross-chain-api-feat-scopes-in-context.dev.debridge.io
+cross-chain-api-fix-add-new-currency-to-crystal.dev.debridge.io
+cross-chain-api-fix-bera-coingecko.dev.debridge.io
+cross-chain-api-fix-chain-fail.dev.debridge.io
 defindex.io
 defitigertoken.io
 dejitarutsuka.io

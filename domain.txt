@@ -145,6 +145,7 @@ nesa.ai
 docs.nesa.ai
 neurochain.ai
 docs.neurochain.ai
+nexgent.ai
 nodego.ai
 nukl.ai
 numer.ai

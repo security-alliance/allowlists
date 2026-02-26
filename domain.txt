@@ -6817,6 +6817,7 @@ degenstrategy.github.io
 fuellabs.github.io
 lombard-web-services.github.io
 m3-org.github.io
+papermoonio.github.io
 wormhole-foundation.github.io
 glif.io
 docs.glif.io

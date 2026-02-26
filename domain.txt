@@ -9559,6 +9559,7 @@ payward.ws
 web3sec.ws
 datadex.wtf
 dial.wtf
+docs.dial.wtf
 fairground.wtf
 gorbagana.wtf
 jito.wtf

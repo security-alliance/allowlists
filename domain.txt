@@ -3632,6 +3632,7 @@ gomining.com
 googel.com
 googil.com
 googl.com
+google.com
 calendar.google.com
 chat.google.com
 chrome.google.com

@@ -100,6 +100,7 @@ fans3.ai
 docs.fetch.ai
 fireswap.ai
 funs.ai
+trial.funs.ai
 gaib.ai
 gameonworld.ai
 gizaprotocol.ai
@@ -4068,6 +4069,7 @@ deri-protocol.medium.com
 dextools.medium.com
 energywebx.medium.com
 folksfinance.medium.com
+funs-ai.medium.com
 gogalagames.medium.com
 horizenlabs.medium.com
 htxofficial.medium.com

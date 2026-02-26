@@ -5843,6 +5843,7 @@ app.kriya.finance
 kromatika.finance
 kylix.finance
 lagoon.finance
+lido.finance
 linear.finance
 liquidus.finance
 liquifi.finance

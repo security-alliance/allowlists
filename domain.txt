@@ -9540,6 +9540,7 @@ nodenet.work
 coinbasecard.works
 coinbasecloud.works
 bitkey.world
+champz.world
 fncy.world
 gamium.world
 granite.world

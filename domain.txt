@@ -6929,6 +6929,7 @@ krakenplus.io
 kunalabs.io
 kuru.io
 docs.kuru.io
+kzna.io
 lamafeed.io
 dashboard.layeredge.io
 layerswap.io

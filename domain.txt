@@ -7155,6 +7155,7 @@ shib.io
 shibarium.shib.io
 shielded.io
 singularitynet.io
+skillfulai.io
 skux.io
 slex.io
 smardex.io

@@ -10009,6 +10009,7 @@ walrus.xyz
 claim.walrus.xyz
 token-image.walrus.xyz
 wasabi.xyz
+welephant.xyz
 weroam.xyz
 worldofwomen.xyz
 wormholelabs.xyz

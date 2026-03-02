@@ -87,6 +87,7 @@ defusion.ai
 degentics.ai
 degents.ai
 delaunch.ai
+desearch.ai
 dfusion.ai
 dgrid.ai
 dmailnetwork.ai

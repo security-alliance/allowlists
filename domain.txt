@@ -4020,6 +4020,7 @@ madlads.com
 maicoin.com
 max.maicoin.com
 malbeclabs.com
+data.malbeclabs.com
 docs.malbeclabs.com
 manageengine.com
 mapmyfitness.com

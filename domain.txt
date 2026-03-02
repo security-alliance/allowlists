@@ -3511,6 +3511,7 @@ floppy-backup.com
 flotc.com
 flowcode.com
 fluidtokens.com
+flutterwave.com
 flyingtulip.com
 foinbase.com
 fomopay.com

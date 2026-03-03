@@ -8480,6 +8480,7 @@ debridge.org
 debridgefoundation.org
 decred.org
 proposals.decred.org
+deepai.org
 deepbrainchain.org
 deepnode.org
 depined.org

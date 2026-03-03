@@ -3335,6 +3335,7 @@ gmonad.daucards.com
 dawninternet.com
 dcentralab.com
 dcoinbase.com
+deacix.com
 debank.com
 debridge.com
 decimalchain.com

@@ -9558,6 +9558,7 @@ coinbasecloud.works
 bitkey.world
 champz.world
 fncy.world
+fxn.world
 gamium.world
 granite.world
 krak.world

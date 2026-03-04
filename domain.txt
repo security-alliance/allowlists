@@ -2700,6 +2700,7 @@ ascendex.com
 app.asgardfi.com
 jobs.ashbyhq.com
 asterdex.com
+atoz-cpa.com
 atproto.com
 aukilabs.com
 autheo.com
@@ -4045,6 +4046,7 @@ mathbasedmoney.com
 mathcurrency.com
 matterhosted.com
 mattrlabs.com
+mattsongleason.com
 mavisx.com
 mayan3.com
 mbcexchange.com
@@ -7860,6 +7862,7 @@ fairx.net
 fio.net
 firstledger.net
 flotc.net
+fortress-accounting.net
 freesui.net
 glidera.net
 golemproject.net

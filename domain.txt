@@ -2701,6 +2701,7 @@ app.asgardfi.com
 jobs.ashbyhq.com
 asterdex.com
 atoz-cpa.com
+atoz-cpas.com
 atproto.com
 aukilabs.com
 autheo.com
@@ -2738,6 +2739,7 @@ beezie.com
 docs.beezie.com
 belgtoken.com
 bellscoin.com
+benchconversiontoqbo.com
 berachain.com
 airdrop.berachain.com
 bartio.bend.berachain.com
@@ -2847,6 +2849,7 @@ canyoubemyfren.com
 capcut.com
 capitalmarketstrading.com
 capturgo.com
+caruso-accounting.com
 catenalabs.com
 catslaptoken.com
 cb-device-intelligence.com
@@ -3715,6 +3718,7 @@ huobiwallet.com
 hybridsmartcontract.com
 hybridsmartcontracts.com
 hyperithm.com
+i-cfos.com
 iagentpro.com
 iagon.com
 ibasestation.com
@@ -3826,6 +3830,7 @@ intel-kraken.com
 interchangehq.com
 intercomcdn.com
 interestprotocol.com
+interim-accountants.com
 interim-cfos.com
 internationaltubular.com
 claim.interstellardao.com
@@ -4764,6 +4769,7 @@ thenovachain.com
 therootnetwork.com
 thescrollstudio.com
 thetalenetbase.com
+theweb3cfo.com
 thewrightsuccess.com
 thezoho.com
 thinkanddev.com
@@ -4914,6 +4920,7 @@ walruscan.com
 wazirx.com
 wcoinbase.com
 weatherxm.com
+web3-cfo.com
 web3enabler.com
 web3forhumanity.com
 web3otc.com

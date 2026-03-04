@@ -7713,6 +7713,8 @@ e17n.money
 everythingification.money
 fei.money
 fira.money
+app.fira.money
+docs.fira.money
 getkrak.money
 interchange.money
 jupusd.money

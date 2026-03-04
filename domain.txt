@@ -7700,6 +7700,7 @@ drop.money
 e17n.money
 everythingification.money
 fei.money
+fira.money
 getkrak.money
 interchange.money
 jupusd.money

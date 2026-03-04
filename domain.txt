@@ -2993,6 +2993,7 @@ cloudflareaccess.com
 plume-network.cloudflareaccess.com
 wordpress-679890-5388982.cloudwaysapps.com
 cminbase.com
+cmtam.com
 cninbase.com
 co-inbase.com
 co0inbase.com
@@ -4294,6 +4295,7 @@ oxyaorigin.com
 p2pb2b.com
 paltalabs.com
 panoray.com
+pantherainvestment.com
 paragraph.com
 app.parcllabs.com
 paribu.com
@@ -4372,6 +4374,7 @@ polymarketanalytics.com
 polymarketexchange.com
 polymarketimes.com
 polynoob.com
+ponderholdings.com
 pooltogether.com
 popdog-solana.com
 popg.com
@@ -9340,6 +9343,7 @@ app.sherpa.trade
 discord.sherpa.trade
 timelock.trade
 totle.trade
+dat.trading
 getkrak.trading
 krak.trading
 coinbasecard.training

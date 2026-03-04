@@ -8026,6 +8026,7 @@ axelar.network
 docs.aztec.network
 forum.aztec.network
 sale.aztec.network
+stake.aztec.network
 balanced.network
 bancor.network
 blog.bancor.network

@@ -2124,11 +2124,14 @@ google.co.bw
 google.by
 google.com.bz
 payward.bz
+canadataxreturn.ca
 citynews.ca
 citytvplus.ca
 coinbasecloud.ca
 coinbaseprime.ca
 fido.ca
+fortressaccounting.ca
+fortressaccountinggroup.ca
 fractl.ca
 kraken.ca
 omnitv.ca
@@ -3526,6 +3529,7 @@ foinbase.com
 fomopay.com
 forexripple.com
 forgeglobal.com
+fortress.com
 fortress-accounting.com
 forwardindustries.com
 framer.com

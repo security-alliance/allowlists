@@ -6651,6 +6651,7 @@ docs.chainport.io
 changenow.io
 chiliz.io
 chiliztrivia.chiliz.io
+chillguy.io
 citrea.io
 citreascan.io
 clarnium.io

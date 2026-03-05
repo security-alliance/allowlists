@@ -8251,6 +8251,7 @@ tokamak.network
 totle.network
 tron.network
 truf.network
+umbria.network
 uncx.network
 unifai.network
 unique.network

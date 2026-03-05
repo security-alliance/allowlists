@@ -71,6 +71,7 @@ docs.coiin.ai
 coinbase.ai
 google.com.ai
 computelabs.ai
+copute.ai
 cortexlabs.ai
 cryptify.ai
 cryptofinance.ai

@@ -8532,6 +8532,7 @@ remix-alpha.ethereum.org
 remix-beta.ethereum.org
 ethereumclassic.org
 ethereumpow.org
+ethereumstatus.org
 ethereurn.org
 ethernautdao.org
 etheruem.org

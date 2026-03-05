@@ -8124,6 +8124,7 @@ fwd.network
 gauntlet.network
 gelato.network
 airdrops.goat.network
+docs.goat.network
 golem.network
 golem-base.network
 blog.golem.network

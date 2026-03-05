@@ -6816,6 +6816,8 @@ fluid.io
 flyteai.io
 fmfw.io
 fogo.io
+foxcard.io
+ew2fox-api-ext.foxcard.io
 fractalbitcoin.io
 fractalvisions.io
 freechainlink.io

@@ -4451,6 +4451,7 @@ rayld.com
 rayls.com
 precommit.rayls.com
 privateclaims.rayls.com
+registration.rayls.com
 tokenclaims.rayls.com
 raylsfoundation.com
 raylslabs.com

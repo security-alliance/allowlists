@@ -9640,6 +9640,7 @@ walrus.xy
 0xhoneyjar.xyz
 246club.xyz
 native-bridge.abs.xyz
+portal.abs.xyz
 abster.xyz
 aeroswap.xyz
 aevo.xyz

@@ -4009,6 +4009,7 @@ in.linkedin.com
 mx.linkedin.com
 ua.linkedin.com
 uk.linkedin.com
+vn.linkedin.com
 coinbase-tradeplus.linkedinforbusinessgrowth.com
 linumlabs.com
 lisk.com

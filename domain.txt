@@ -4449,6 +4449,7 @@ raydium.com
 perps.raydium.com
 rayld.com
 rayls.com
+cookieclaims.rayls.com
 precommit.rayls.com
 privateclaims.rayls.com
 registration.rayls.com

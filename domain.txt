@@ -6951,6 +6951,7 @@ docs.ipor.io
 itch.io
 ivault.io
 jexchange.io
+jhazy.io
 jokerace.io
 kadena.io
 kaia.io

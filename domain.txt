@@ -9254,6 +9254,7 @@ shentu.technology
 sling.technology
 sui.technology
 uns.technology
+zisk.technology
 google.tg
 wallet.tg
 coinbase.co.th

@@ -8370,6 +8370,7 @@ coinbasecard.onl
 kraken.onl
 krakenpro.onl
 c10nbase.online
+app.calamity.online
 chainlinkblog.online
 chainlinklimited.online
 coinbasecard.online

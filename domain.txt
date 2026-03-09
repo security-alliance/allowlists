@@ -7600,6 +7600,7 @@ degenname.lol
 degenradio.lol
 nftdegen.lol
 trove.treasure.lol
+pippin.love
 sling.love
 google.co.ls
 google.lt

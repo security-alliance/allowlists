@@ -7257,6 +7257,7 @@ suins.io
 claim.suins.io
 docs.suins.io
 testnet.suins.io
+vote.suins.io
 suipassport.io
 sun.io
 surgence.io

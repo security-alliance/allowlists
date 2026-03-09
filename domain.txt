@@ -10006,6 +10006,7 @@ sentiment.xyz
 sequence-demos.xyz
 telegram-metamask-react-boilerplate.sequence-demos.xyz
 glob.shaga.xyz
+shiftrwa.xyz
 simemes.xyz
 smol.xyz
 soneium-demo.xyz

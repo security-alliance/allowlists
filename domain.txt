@@ -4934,6 +4934,7 @@ wallet-link.com
 react-app.walletconnect.com
 walletster.com
 walruscan.com
+warpnation.com
 wazirx.com
 wcoinbase.com
 weatherxm.com

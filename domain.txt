@@ -7704,6 +7704,7 @@ quicksync.me
 info.quicksync.me
 rainbow.me
 readyplayer.me
+seabirds.me
 strike.me
 tulr.me
 x.me

@@ -6882,6 +6882,7 @@ alt-research.github.io
 avvstancamarcello.github.io
 base.github.io
 bitshares.github.io
+chainpatrol.github.io
 coinbase.github.io
 coinomi.github.io
 degenstrategy.github.io

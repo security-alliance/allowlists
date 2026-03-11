@@ -9646,6 +9646,7 @@ runiverse.world
 starpower.world
 sui.world
 suku.world
+valr.world
 zenny.world
 ata.ws
 coinbase.ws

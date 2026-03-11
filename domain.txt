@@ -8911,6 +8911,7 @@ openseapro.pro
 paradex.pro
 ponet.pro
 powerpod.pro
+splitswap.pro
 swft.pro
 tagger.pro
 tagomi.pro

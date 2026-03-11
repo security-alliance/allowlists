@@ -7663,6 +7663,7 @@ mystenlabs.marketing
 mystenlabsnft.marketing
 mystennft.marketing
 sui.marketing
+alpaca.markets
 cb.markets
 coinbase.markets
 context.markets

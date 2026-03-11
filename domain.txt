@@ -6394,6 +6394,7 @@ cb.id
 cbase.id
 coinbase.co.id
 google.co.id
+pintu.co.id
 coinb.id
 coinbasecard.id
 whale.eth.id

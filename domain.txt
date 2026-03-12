@@ -8005,6 +8005,7 @@ peercoin.net
 plasma-1.net
 plasmascan.net
 plumefoundation.net
+plutonai.net
 primal.net
 proofofreserves.net
 purpatuity.net

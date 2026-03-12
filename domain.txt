@@ -2126,6 +2126,7 @@ google.co.bw
 google.by
 google.com.bz
 payward.bz
+blogspot.ca
 canadataxreturn.ca
 citynews.ca
 citytvplus.ca
@@ -8363,6 +8364,7 @@ coinbase.nu
 google.nu
 neutrino.nu
 opensea.nyc
+blogspot.co.nz
 coinbase.co.nz
 coinbaseprime.co.nz
 google.co.nz

@@ -4206,6 +4206,8 @@ minting.moonbirds.com
 moonchain.com
 moonlabs.com
 moonpay.com
+moonpay-staging.com
+sell.moonpay-staging.com
 commerce.moonpay.com
 dashboard.moonpay.com
 dev.moonpay.com

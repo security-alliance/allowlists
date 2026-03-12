@@ -2525,6 +2525,7 @@ marketskraken.co
 mdex.co
 mistenlabs.co
 moonpay.co
+moonpay-staging.co
 mystenlabsnft.co
 mystennft.co
 nexusmutual.co

@@ -2882,6 +2882,7 @@ ccoinbase.com
 cdnfonts.com
 cdoinbase.com
 celocamp.com
+celorasound.com
 cfbenchmark.com
 cfbenchmarks.com
 cfbenchmarksltd.com

@@ -8590,6 +8590,8 @@ drep.org
 drpc.org
 dynexcoin.org
 wallet.dynexcoin.org
+easscan.org
+arbitrum.easscan.org
 elastos.org
 elephant-blue.org
 energyweb.org

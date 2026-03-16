@@ -5449,6 +5449,7 @@ geekflaread.pages.dev
 geekflareak.pages.dev
 geekflareal.pages.dev
 governance-1inch-community.pages.dev
+https-microsoft-devicelogin.pages.dev
 lab-walletconnect-modal.pages.dev
 magma-website.pages.dev
 metamask-connector-test.pages.dev

@@ -4979,6 +4979,7 @@ web3otc.com
 web3sonic.com
 webacy.com
 webthreeforhumans.com
+commercelopez.weebly.com
 wemix.com
 wgdax.com
 whalemode.com
@@ -6128,6 +6129,7 @@ bands.fun
 blast.fun
 brands.fun
 c10nbase.fun
+celotto.fun
 coinbasenft.fun
 coinbasepro.fun
 dao.cookie.fun
@@ -6917,6 +6919,7 @@ avvstancamarcello.github.io
 base.github.io
 bitshares.github.io
 chainpatrol.github.io
+chancelogic.github.io
 coinbase.github.io
 coinomi.github.io
 degenstrategy.github.io
@@ -9011,6 +9014,7 @@ zohoapis.sa
 coinbasecard.sale
 kraken.sale
 google.com.sb
+celo69global.sbs
 coinbase.sc
 google.sc
 kraken.school

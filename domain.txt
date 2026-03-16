@@ -348,6 +348,7 @@ on-fleek.app
 metabase-app-h3pqk.ondigitalocean.app
 opensea.app
 opensea-support.app
+parcelodelivery.app
 payward.app
 perawallet.app
 petra.app
@@ -2384,6 +2385,7 @@ cinbase.co
 cionbase.co
 clabs.co
 clearing.co
+clobs.co
 coibase.co
 coinbae.co
 coinbase.co
@@ -6918,6 +6920,7 @@ alt-research.github.io
 avvstancamarcello.github.io
 base.github.io
 bitshares.github.io
+celozaga.github.io
 chainpatrol.github.io
 chancelogic.github.io
 coinbase.github.io

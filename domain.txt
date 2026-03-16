@@ -3946,6 +3946,7 @@ krakenbitcoin.com
 krakenclient.com
 krakenco.com
 krakencom.com
+krakencourier.com
 krakencustody.com
 krakend.com
 krakenderivatives.com

@@ -2164,6 +2164,7 @@ paywardspdi.cam
 docs.accountable.capital
 yield.accountable.capital
 allo.capital
+blend.capital
 coinbasecard.capital
 init.capital
 kraken.capital

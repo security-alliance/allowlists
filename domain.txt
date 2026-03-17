@@ -6109,6 +6109,7 @@ rayls.foundation
 satlayer.foundation
 sentient.foundation
 smartcontract.foundation
+solana.foundation
 claim.story.foundation
 claim.subquery.foundation
 sui.foundation

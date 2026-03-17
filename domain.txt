@@ -7792,6 +7792,7 @@ abracadabra.money
 aura.money
 avici.money
 bima.money
+blockstreet.money
 cctp.money
 coinbasecard.money
 dfi.money

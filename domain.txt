@@ -233,6 +233,7 @@ base.app
 join.base.app
 believe.app
 belo.app
+betstamp.app
 bitton.app
 bracky.app
 breakout.app

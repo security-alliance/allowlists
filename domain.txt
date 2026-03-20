@@ -3009,6 +3009,7 @@ circletrade.com
 civic.com
 ckinbase.com
 ckoinbase.com
+claim-doma.com
 claimchainlink.com
 clashofcoins.com
 clementmurphy.com
@@ -4928,6 +4929,7 @@ uquidcoin.com
 immune.us.com
 uscoinlist.com
 usdc.com
+usdconbase.com
 usdcswap.com
 usebraintrust.com
 usechainlinkfunctions.com

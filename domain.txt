@@ -4985,6 +4985,7 @@ wallet-link.com
 react-app.walletconnect.com
 walletster.com
 walruscan.com
+walruspay.com
 warpnation.com
 wazirx.com
 wcoinbase.com

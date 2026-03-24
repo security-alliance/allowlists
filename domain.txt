@@ -4359,6 +4359,7 @@ parity-network.com
 paxos.com
 paybis.com
 paykrak.com
+paysend.com
 paywaado.com
 paywado.com
 payward.com

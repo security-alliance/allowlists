@@ -2674,6 +2674,7 @@ advancecoinbase.com
 advancedcoinbase.com
 aelf.com
 aeternity.com
+user.aethir.com
 main.affyn.com
 agaralabs.com
 ai-exodus.com

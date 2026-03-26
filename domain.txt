@@ -6241,6 +6241,7 @@ opensea.game
 sonic.game
 soulbound.game
 strayshot.game
+play.strayshot.game
 sui.game
 vibes.game
 animalia.games

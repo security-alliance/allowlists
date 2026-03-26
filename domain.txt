@@ -8555,6 +8555,7 @@ cardano.org
 cardanofoundation.org
 celo.org
 blog.celo.org
+celoe.org
 celofoundation.org
 app.chaingpt.org
 help.chaingpt.org

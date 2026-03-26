@@ -6240,6 +6240,7 @@ mystennft.game
 opensea.game
 sonic.game
 soulbound.game
+strayshot.game
 sui.game
 vibes.game
 animalia.games

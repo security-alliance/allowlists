@@ -4623,6 +4623,7 @@ samoyedcoin.com
 sandchain.com
 sandwatch.com
 saudixerox.com
+cmtdigital.test.scaliolabs.com
 scrolltone.com
 seadn.com
 seamlessprotocol.com

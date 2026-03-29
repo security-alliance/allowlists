@@ -36,6 +36,7 @@ claim.airdrop.0gfoundation.ai
 0xnest.ai
 375.ai
 adifoundation.ai
+aegisai.ai
 aethir.ai
 agara.ai
 agnthub.ai

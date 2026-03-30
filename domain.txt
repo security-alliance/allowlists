@@ -6897,6 +6897,7 @@ exopay.io
 fairside.io
 fastprotocol.io
 fellaz.io
+fhenix.io
 filscan.io
 finschia.io
 fintechapis.io

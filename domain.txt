@@ -5536,6 +5536,7 @@ snapchain.dev
 sunrise.dev
 docs.symbol.dev
 docs.weavedb.dev
+walletconnect-v1-bridge.workers.dev
 join.zksync.dev
 bit.diamonds
 opensea.diamonds

@@ -430,6 +430,8 @@ claiming-portal-git-public-sale-new-sui-foundation.vercel.app
 claiming-portal-git-read-kv-store-sui-foundation.vercel.app
 claiming-portal-git-remove-redirect-sui-foundation.vercel.app
 claiming-portal-git-update-script-sui-foundation.vercel.app
+consumer-monorepo-interface-v2-h1v6ge3uj-morpho-addmo.vercel.app
+consumer-monorepo-interface-v2-r5nvsruew-morpho-addmo.vercel.app
 dev-zeebu-cdp.vercel.app
 enclave-twitter.vercel.app
 enclave-twitter-git-debug-api-mysten-labs.vercel.app

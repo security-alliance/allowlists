@@ -7130,6 +7130,7 @@ community.metamask.io
 metana.io
 metars.io
 meter.io
+metisai.io
 metronome.io
 milkalliance.io
 millards.io

@@ -334,6 +334,7 @@ mystennft.app
 7boodybase.netlify.app
 allora-studio-mainnet.netlify.app
 alpha--scroll-io.netlify.app
+cetus-dlmm-beta.netlify.app
 clever-mahavira-2a2527.netlify.app
 deploy-preview-426--scroll-io.netlify.app
 mainnet--scroll-io.netlify.app

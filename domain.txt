@@ -7233,6 +7233,7 @@ paywordbank.io
 paywordfinance.io
 penguclash.io
 peponk.io
+phishdestroy.io
 photonchain.io
 pinai.io
 pingnetwork.io

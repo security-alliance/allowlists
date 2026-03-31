@@ -2222,6 +2222,7 @@ purpa.cash
 sling.cash
 sui.cash
 tagomi.cash
+ugly.cash
 z.cash
 google.cat
 fassets.au.cc

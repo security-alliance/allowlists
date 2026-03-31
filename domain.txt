@@ -7883,6 +7883,7 @@ stables.money
 terra.money
 docs.usual.money
 tech.usual.money
+zown.money
 liftoff.monster
 coinbase.ms
 google.ms

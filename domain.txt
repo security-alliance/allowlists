@@ -8165,6 +8165,7 @@ aioz.network
 docs.akash.network
 forum.akash.network
 stats.akash.network
+app.allora.network
 docs.allora.network
 explorer.allora.network
 testnet.explorer.allora.network

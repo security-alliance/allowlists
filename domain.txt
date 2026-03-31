@@ -9060,6 +9060,7 @@ coinbasecard.reviews
 coinbasecloud.reviews
 kraken.reviews
 we.rich
+bang.rip
 kraken.rip
 coinbase.ro
 coinbaseprime.ro

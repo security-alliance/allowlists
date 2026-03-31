@@ -2857,6 +2857,7 @@ brave.com
 breakoutprop.com
 bricewalsh.com
 broadcoin.com
+brookwell.com
 btcloan.com
 btcx.com
 btradeaustralia.com
@@ -4738,6 +4739,7 @@ tezos.stackexchange.com
 stackingsalmon.com
 staderlabs.com
 stagingkraken.com
+stakemygold.com
 staking-chainlink.com
 stakingrewards.com
 standwithcrypto.com

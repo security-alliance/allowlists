@@ -2,6 +2,9 @@ arbitrum.ac
 coinbase.ac
 google.ac
 opensea.ac
+osprey.ac
+api.osprey.ac
+dashboard.osprey.ac
 phantom.ac
 dydx.academy
 opensea.academy

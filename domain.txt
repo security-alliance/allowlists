@@ -3391,6 +3391,7 @@ dcoinbase.com
 deacix.com
 debank.com
 debridge.com
+app.debridge.com
 decimalchain.com
 dedgesecurity.com
 deepcoin.com

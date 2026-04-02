@@ -9806,6 +9806,7 @@ degen.aevo.xyz
 agoralend.xyz
 airaa.xyz
 alienbase.xyz
+alliance.xyz
 alphafi.xyz
 docs.alphafi.xyz
 alphalend.xyz

@@ -5835,7 +5835,6 @@ harmonix.fi
 henez.fi
 hydrex.fi
 hyperdrive.fi
-hypurr.fi
 app.hypurr.fi
 docs.hypurr.fi
 inrt.fi

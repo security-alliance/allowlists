@@ -6162,6 +6162,7 @@ sentient.foundation
 smartcontract.foundation
 solana.foundation
 claim.story.foundation
+subquery.foundation
 claim.subquery.foundation
 sui.foundation
 thechainlink.foundation

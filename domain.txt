@@ -7408,6 +7408,7 @@ threefold.io
 thronelabs.io
 timpi.io
 titannet.io
+toax.io
 todofund.io
 tokenforge.io
 tokenizedfunds.io

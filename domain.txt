@@ -8436,6 +8436,7 @@ bridge.zero.network
 docs.zero.network
 explorer.zero.network
 zether.network
+bsc.news
 c10nbase.news
 coinbasecloud.news
 exodus.news

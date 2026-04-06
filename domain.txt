@@ -10276,6 +10276,7 @@ coinbasecloud.zone
 cosmosspaces.zone
 dimo.zone
 dydx.zone
+feather.zone
 kraken.zone
 misten.zone
 mistenlabs.zone

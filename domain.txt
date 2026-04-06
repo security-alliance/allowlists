@@ -7707,6 +7707,7 @@ mystennft.live
 o2.live
 plasmalabs.live
 polycool.live
+airdrop.polycool.live
 sui.live
 tremor.live
 chn.lk

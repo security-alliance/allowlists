@@ -6258,6 +6258,7 @@ mysten.fyi
 mystenlabs.fyi
 mystenlabsnft.fyi
 mystennft.fyi
+nazih.fyi
 opensea.fyi
 coinbase.ga
 google.ga

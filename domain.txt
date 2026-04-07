@@ -9940,8 +9940,10 @@ edgeof.xyz
 eigencloud.xyz
 blog.eigencloud.xyz
 docs.eigencloud.xyz
+economy.eigencloud.xyz
 eigenlayer.xyz
 app.eigenlayer.xyz
+forum.eigenlayer.xyz
 eigenyields.xyz
 ekram.xyz
 elixir.xyz

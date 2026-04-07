@@ -6021,6 +6021,7 @@ marinade.finance
 mayan.finance
 blog.mayan.finance
 docs.mayan.finance
+swap.mayan.finance
 app.mellow.finance
 docs.mellow.finance
 terra.mirror.finance

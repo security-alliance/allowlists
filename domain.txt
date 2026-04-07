@@ -9275,6 +9275,7 @@ plasmafdn.space
 qchain.space
 skale.space
 google.sr
+tes.sr
 google.st
 misten.storage
 mistenlabs.storage

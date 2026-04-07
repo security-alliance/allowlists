@@ -3417,6 +3417,7 @@ dev1kraken.com
 dev2kraken.com
 dev3kraken.com
 devbrother.com
+devinfinzer.com
 devve.com
 dex-trade.com
 dexalot.com
@@ -8476,6 +8477,7 @@ google.nr
 coinbase.nu
 google.nu
 neutrino.nu
+christinehall.nyc
 opensea.nyc
 blogspot.co.nz
 coinbase.co.nz

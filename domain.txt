@@ -5627,6 +5627,7 @@ iex.ec
 docs.iex.ec
 moneygram.ec
 well.eco
+fsl.cs.illinois.edu
 misten.education
 mistenlabs.education
 mysten.education

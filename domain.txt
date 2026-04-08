@@ -438,6 +438,7 @@ claiming-portal-git-update-script-sui-foundation.vercel.app
 consumer-monorepo-interface-v2-h1v6ge3uj-morpho-addmo.vercel.app
 consumer-monorepo-interface-v2-r5nvsruew-morpho-addmo.vercel.app
 dev-zeebu-cdp.vercel.app
+eigencloud-docs.vercel.app
 enclave-twitter.vercel.app
 enclave-twitter-git-debug-api-mysten-labs.vercel.app
 enclave-twitter-git-joy-comments-mysten-labs.vercel.app

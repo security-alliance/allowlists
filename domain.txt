@@ -7328,6 +7328,7 @@ home.runonflux.io
 ruvi.io
 presale.ruvi.io
 rzto.io
+s-curve.io
 safarisquad.io
 sallar.io
 sango.io

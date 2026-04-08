@@ -6730,6 +6730,7 @@ battleverse.io
 flow.beezie.io
 beldex.io
 beratrail.io
+betpanda.io
 biconomy.io
 bifrost.io
 app.bifrost.io

@@ -1918,6 +1918,7 @@ zksync-interop.web.app
 withblaze.app
 xlog.app
 yield.app
+zapier.app
 zar.app
 zencashplatform.app
 zenplatform.app
@@ -5337,6 +5338,7 @@ yupp-ai.com
 stablecoin.z.com
 zabo.com
 zabobank.com
+zapier.com
 zencash.com
 socios.zendesk.com
 zennynft.com

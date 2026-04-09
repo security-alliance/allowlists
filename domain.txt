@@ -125,6 +125,7 @@ hydranet.ai
 docs.hydranet.ai
 infinityg.ai
 ipogenie.ai
+jakesalerno.ai
 kaito.ai
 kled.ai
 krakapp.ai

@@ -2153,6 +2153,7 @@ fido.ca
 fortressaccounting.ca
 fortressaccountinggroup.ca
 fractl.ca
+jgorzny.ca
 kraken.ca
 omnitv.ca
 shaw.ca

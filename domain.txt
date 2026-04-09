@@ -308,6 +308,7 @@ goatai.app
 hashpack.app
 hedgehog.app
 interchange.app
+kiosk.app
 krak.app
 krakapp.app
 krakbank.app

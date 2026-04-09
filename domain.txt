@@ -8724,6 +8724,7 @@ ergoplatform.org
 eips.ethereum.org
 remix-alpha.ethereum.org
 remix-beta.ethereum.org
+security.ethereum.org
 ethereumclassic.org
 ethereumpow.org
 ethereumstatus.org

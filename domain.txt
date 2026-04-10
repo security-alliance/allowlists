@@ -4167,6 +4167,7 @@ animocabrands.medium.com
 anvil-protocol.medium.com
 apexdex.medium.com
 aptoslabs.medium.com
+arcadiafinance.medium.com
 arpa.medium.com
 bitmart-exchange.medium.com
 blockst-hq.medium.com

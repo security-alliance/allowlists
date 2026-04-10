@@ -10181,6 +10181,7 @@ poap.xyz
 polymarketinsights.xyz
 polymarketneo.xyz
 polysights.xyz
+intel.polysights.xyz
 pondo.xyz
 popcatsolana.xyz
 poply.xyz

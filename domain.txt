@@ -6395,6 +6395,7 @@ coinbase.gl
 google.gl
 goo.gle
 astral.global
+auros.global
 base.global
 coinbase.global
 coinbasecloud.global

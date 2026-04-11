@@ -5360,6 +5360,7 @@ zerodha.com
 zestprotocol.com
 zigchain.com
 zignaly.com
+discord.zignaly.com
 zilliqa.com
 zillum.com
 ai.zircuit.com

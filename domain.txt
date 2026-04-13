@@ -8736,6 +8736,7 @@ dfinity.org
 diadata.org
 digibyte.org
 dimo.org
+dogecoin.org
 doublezerofoundation.org
 drep.org
 drpc.org

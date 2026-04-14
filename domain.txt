@@ -4390,6 +4390,7 @@ oracle-daemon.com
 fasset.oracle-daemon.com
 fassets.oracle-daemon.com
 orangecapgames.com
+orbitxpay.com
 orbs.com
 orchid.com
 ordamindex.com

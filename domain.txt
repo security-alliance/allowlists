@@ -2298,6 +2298,7 @@ kraken.church
 circle.ci
 google.ci
 moneygram.ci
+midnight.city
 google.co.ck
 chainlink.cl
 coinbase.cl

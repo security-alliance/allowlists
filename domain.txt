@@ -3495,6 +3495,8 @@ eco.com
 ecomi.com
 edu3labs.com
 eigenlayer.com
+api.eigenlayer.com
+goerli.eigenlayer.com
 electroneum.com
 elementalraiders.com
 elementwallet.com

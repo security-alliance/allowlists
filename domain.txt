@@ -422,6 +422,12 @@ bridge-git-gj-lambard-testnet-mysten-labs.vercel.app
 bridge-git-gj-support-lbtc-token-mysten-labs.vercel.app
 bridge-git-main-mysten-labs.vercel.app
 camp-testnet-bridge.vercel.app
+ccip-d64z61aq5-chainlinklabs.vercel.app
+ccip-msjors49s-chainlinklabs.vercel.app
+ccip-mzrwg9nta-chainlinklabs.vercel.app
+ccip-pjhu5otjm-chainlinklabs.vercel.app
+ccip-rkr3wc30s-chainlinklabs.vercel.app
+ccip-snmbieovy-chainlinklabs.vercel.app
 chf1-jdf-16-o24-ydtw.vercel.app
 citrea-checkin.vercel.app
 claiming-portal-git-add-recipients-1-sui-foundation.vercel.app

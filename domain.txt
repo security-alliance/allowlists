@@ -6009,6 +6009,7 @@ bullpen.fi
 caddi.fi
 common.fi
 cosmos.cow.fi
+docs.cow.fi
 swap.cow.fi
 classic.curve.fi
 curvy.fi

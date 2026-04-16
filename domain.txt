@@ -7739,6 +7739,7 @@ google.iq
 auroracoin.is
 auroraspjall.is
 coinbase.is
+danez.is
 google.is
 anoncoin.it
 bcmtoday.it

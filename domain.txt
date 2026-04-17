@@ -6119,6 +6119,7 @@ coinbasecloud.finance
 cream.finance
 app.cream.finance
 cultured.finance
+news.curve.finance
 cvault.finance
 cvi.finance
 cygnus.finance

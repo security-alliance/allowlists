@@ -6158,6 +6158,7 @@ docs.xapp.folks.finance
 fullsail.finance
 goldfinch.finance
 app.goldfinch.finance
+docs.grove.finance
 harvest.finance
 hats.finance
 hbtc.finance

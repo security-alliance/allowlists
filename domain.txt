@@ -8703,6 +8703,7 @@ wormhole-v2-mainnet-api.certus.one
 coinbasecard.one
 coinbasecloud.one
 everstake.one
+hapi.one
 harmony.one
 hello.one
 kaon.one

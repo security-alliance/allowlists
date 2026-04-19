@@ -6601,6 +6601,7 @@ mystennft.gripe
 coinbase.group
 coinbasecard.group
 coinbasecloud.group
+capcommunity.discourse.group
 horizen.discourse.group
 krakenfinancial.group
 misten.group

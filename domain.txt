@@ -10163,6 +10163,7 @@ app.fanx.xyz
 faroswap.xyz
 docs.faroswap.xyz
 testnet.faroswap.xyz
+fast.xyz
 fastlane.xyz
 discord.fastlane.xyz
 fastset.xyz

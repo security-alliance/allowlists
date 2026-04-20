@@ -5746,6 +5746,7 @@ snapchain.dev
 sunrise.dev
 docs.symbol.dev
 docs.weavedb.dev
+kmno.workers.dev
 walletconnect-v1-bridge.workers.dev
 zkforge.dev
 join.zksync.dev

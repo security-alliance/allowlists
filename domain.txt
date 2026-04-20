@@ -8879,6 +8879,7 @@ coinity.org
 coinomi.org
 coinslayer.org
 confluxnetwork.org
+cosmoverse.org
 creditcoin.org
 crosschainsmartcontract.org
 crosschainsmartcontracts.org

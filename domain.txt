@@ -9030,6 +9030,7 @@ telegram.molandak.org
 monacoin.org
 moonpay.org
 morpho-labs.org
+app.morpho.org
 blog.morpho.org
 discord.morpho.org
 multichain.org

@@ -9285,6 +9285,7 @@ teneo.pro
 tokenpocket.pro
 vertex-base.pro
 whm.vertex-base.pro
+yellow.pro
 zerobase.pro
 zomma.pro
 coinbasecard.promo

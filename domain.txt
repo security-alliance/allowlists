@@ -9485,6 +9485,7 @@ sui.software
 benft.solutions
 coinbasecard.solutions
 coinbasecloud.solutions
+futurix.solutions
 misten.solutions
 mistenlabs.solutions
 mysten.solutions

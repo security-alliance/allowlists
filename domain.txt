@@ -22,6 +22,7 @@ opensea.africa
 7k.ag
 blog.7k.ag
 docs.7k.ag
+mobile.7k.ag
 port.7k.ag
 tako.7k.ag
 atmos.ag

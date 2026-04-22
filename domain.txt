@@ -248,6 +248,7 @@ breakout.app
 bsky.app
 c10nbase.app
 cap.app
+docs.cap.app
 chainlink-demo.app
 chainlink-example.app
 cian.app

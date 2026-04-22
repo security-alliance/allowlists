@@ -350,6 +350,7 @@ studio-testnet.netlify.app
 sui-zk-wallet.netlify.app
 subtle-oyster-positive.ngrok-free.app
 nightly.app
+noones.app
 o2.app
 devnet.o2.app
 docs.o2.app
@@ -6579,6 +6580,7 @@ mysten.global
 mystenlabs.global
 mystenlabsnft.global
 mystennft.global
+noones.global
 phoenix.global
 supply.phoenix.global
 sign.global

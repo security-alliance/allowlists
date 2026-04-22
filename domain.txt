@@ -7731,6 +7731,7 @@ yieldguild.io
 yooshi.io
 presale.zaddycoin.io
 zebec.io
+superapp.zebec.io
 zelcore.io
 zenbtc.io
 zenethereum.io

@@ -308,6 +308,7 @@ girin.app
 goatai.app
 hashpack.app
 hedgehog.app
+hedgehogs.app
 interchange.app
 kiosk.app
 krak.app

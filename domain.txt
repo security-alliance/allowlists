@@ -10082,6 +10082,7 @@ basehunt.xyz
 basesanta.xyz
 beraland.xyz
 bermudabay.xyz
+docs.bermudabay.xyz
 bio.xyz
 birdlayer.xyz
 app.blazeswap.xyz

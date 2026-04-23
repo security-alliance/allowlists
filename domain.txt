@@ -6377,6 +6377,7 @@ passkeys.foundation
 piratenation.foundation
 rari.foundation
 rayls.foundation
+risklabs.foundation
 satlayer.foundation
 sentient.foundation
 smartcontract.foundation

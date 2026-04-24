@@ -6349,6 +6349,7 @@ bprotocol.foundation
 caduceus.foundation
 chainlink.foundation
 citrea.foundation
+cow.foundation
 domin.foundation
 dydx.foundation
 espresso.foundation

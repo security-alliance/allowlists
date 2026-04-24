@@ -8429,6 +8429,7 @@ gov.1inch.network
 acala.network
 apps.acala.network
 farm.acala.network
+acjr.network
 adex.network
 aioz.network
 docs.akash.network

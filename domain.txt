@@ -4220,6 +4220,7 @@ krakthat.com
 krakusa.com
 krfiles.com
 link.kucoin.com
+kununu.com
 kvaken.com
 kzaken.com
 l4va.com
@@ -5648,6 +5649,7 @@ coinbasecloud.de
 coinbaseprime.de
 dzbank.de
 impressum.dzbank.de
+glassdoor.de
 theodorbeutel.de
 weltderwunder.de
 coinbasecard.deals

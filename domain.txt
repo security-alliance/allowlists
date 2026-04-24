@@ -7166,6 +7166,7 @@ fmfw.io
 fogo.io
 foxcard.io
 ew2fox-api-ext.foxcard.io
+ew2foxuat-card.foxcard.io
 fractalbitcoin.io
 fractalvisions.io
 freechainlink.io

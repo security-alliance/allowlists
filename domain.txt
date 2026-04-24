@@ -2292,6 +2292,7 @@ google.co.bw
 google.by
 google.com.bz
 payward.bz
+bestbuy.ca
 blogspot.ca
 canadataxreturn.ca
 citynews.ca

@@ -8761,6 +8761,7 @@ oneexchange.one
 onerepo.one
 persistence.one
 playtron.one
+wallet.playtron.one
 ponder.one
 surf.one
 coinbasecard.onl

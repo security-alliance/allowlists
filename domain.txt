@@ -14,6 +14,7 @@ google.ad
 coinbase.adult-blockplus
 opensea.adult
 google.ae
+miks.ae
 zoho.ae
 coinbase.af
 google.com.af

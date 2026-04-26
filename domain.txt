@@ -5912,6 +5912,7 @@ coinbasecard.eu
 coinbasecloud.eu
 coinbaseprime.eu
 estatex.eu
+getswap.eu
 kucoin.eu
 meesterbitcoin.eu
 misten.eu

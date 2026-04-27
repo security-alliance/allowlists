@@ -10429,6 +10429,7 @@ poply.xyz
 portis.xyz
 primefi.xyz
 proof.xyz
+propr.xyz
 psy.xyz
 puffpaw.xyz
 mainnet.pumpbtc.xyz

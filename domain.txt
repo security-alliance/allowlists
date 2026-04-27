@@ -10532,6 +10532,7 @@ umbrelladefi.xyz
 uplink.xyz
 usecash.xyz
 usefelix.xyz
+valory.xyz
 vana.xyz
 vanagraph.xyz
 vanillafinance.xyz

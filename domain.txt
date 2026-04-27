@@ -9971,6 +9971,7 @@ google.com.uy
 google.co.uz
 castleisland.vc
 coinbase.vc
+draper.vc
 kraken.vc
 longhash.vc
 payward.vc

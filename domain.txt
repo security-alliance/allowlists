@@ -9244,6 +9244,7 @@ winklink.org
 woo.org
 dex.woo.org
 world.org
+foundation.world.org
 worldbrains.org
 worldcoin.org
 worldethicaldata.org

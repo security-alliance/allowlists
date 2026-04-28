@@ -10346,6 +10346,8 @@ megaphone.xyz
 app.megaphone.xyz
 memswap.xyz
 merkl.xyz
+app.merkl.xyz
+docs.merkl.xyz
 methprotocol.xyz
 miden.xyz
 mindnetwork.xyz

@@ -6286,6 +6286,7 @@ docs.solstice.finance
 solv.finance
 somm.finance
 soroswap.finance
+docs.soroswap.finance
 sparkling.finance
 spectra.finance
 app.spectra.finance

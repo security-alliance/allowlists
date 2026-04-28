@@ -5651,6 +5651,7 @@ moneygram.com.cy
 coinbase.cyou
 coinbase.cz
 coinbaseprime.cz
+dealfin.cz
 google.cz
 bcmtoday.de
 bitladon.de

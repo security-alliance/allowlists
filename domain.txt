@@ -10345,6 +10345,7 @@ mcintyre.xyz
 megaphone.xyz
 app.megaphone.xyz
 memswap.xyz
+merkl.xyz
 methprotocol.xyz
 miden.xyz
 mindnetwork.xyz

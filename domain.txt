@@ -9669,6 +9669,7 @@ erc20.tech
 fin.tech
 fra.tech
 hex.tech
+human.tech
 infinit.tech
 terminal.infinit.tech
 kbtg.tech

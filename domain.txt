@@ -8711,6 +8711,7 @@ bridge.zero.network
 docs.zero.network
 explorer.zero.network
 zether.network
+zkcross.network
 bsc.news
 c10nbase.news
 coinbasecloud.news

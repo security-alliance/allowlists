@@ -7911,7 +7911,6 @@ mystenlabs.limited
 mystenlabsnft.limited
 mystennft.limited
 sui.limited
-eth.limo
 kwenta.eth.limo
 c10nbase.link
 cbhq.link

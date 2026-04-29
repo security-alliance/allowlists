@@ -3557,6 +3557,7 @@ deacix.com
 debank.com
 debridge.com
 app.debridge.com
+docs.debridge.com
 decimalchain.com
 dedgesecurity.com
 deepcoin.com

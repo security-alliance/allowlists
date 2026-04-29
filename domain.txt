@@ -6295,6 +6295,7 @@ docs.soroswap.finance
 sparkling.finance
 spectra.finance
 app.spectra.finance
+splyce.finance
 streamflow.finance
 sudo.finance
 symbiosis.finance

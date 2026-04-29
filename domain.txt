@@ -4397,6 +4397,7 @@ topco.medium.com
 u2unetwork.medium.com
 umbrianetwork.medium.com
 wormholecrypto.medium.com
+zkcrossnetwork.medium.com
 link.meebco.com
 meetup.com
 mefoundation.com
@@ -8712,6 +8713,7 @@ docs.zero.network
 explorer.zero.network
 zether.network
 zkcross.network
+discord.zkcross.network
 bsc.news
 c10nbase.news
 coinbasecloud.news

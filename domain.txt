@@ -9820,6 +9820,7 @@ gains.trade
 hello.trade
 ionex.trade
 kraken.trade
+liquid.trade
 loyal.trade
 merkle.trade
 monday.trade

@@ -8460,6 +8460,7 @@ app.allora.network
 docs.allora.network
 explorer.allora.network
 testnet.explorer.allora.network
+aqua.network
 arcana.network
 arch.network
 arkiv.network

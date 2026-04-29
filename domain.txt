@@ -6310,6 +6310,7 @@ turtleswap.turtlelabs.finance
 typus.finance
 docs.typus.finance
 umami.finance
+untangled.finance
 dev.valdora.finance
 vesper.finance
 vvs.finance

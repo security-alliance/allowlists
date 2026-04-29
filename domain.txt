@@ -2067,6 +2067,7 @@ deepbookui.wal.app
 zksync-docs-staging-5eb09.web.app
 zksync-interop.web.app
 withblaze.app
+wormholefoundationus.app
 xlog.app
 yield.app
 zapier.app
@@ -5293,6 +5294,7 @@ prod-flat-files-min.wormhole.com
 production-flat-files.wormhole.com
 wormholebridge.com
 v1.wormholebridge.com
+wormholefoundationus.com
 wormholenetwork.com
 book.wormholenetwork.com
 docs.wormholenetwork.com
@@ -9267,6 +9269,7 @@ foundation.world.org
 worldbrains.org
 worldcoin.org
 worldethicaldata.org
+wormholefoundationus.org
 x402.org
 x4pay.org
 xdc.org
@@ -9990,6 +9993,7 @@ totle.us
 trmlabs.us
 tulr.us
 web3port.us
+wormholefoundation.us
 google.com.uy
 google.co.uz
 castleisland.vc

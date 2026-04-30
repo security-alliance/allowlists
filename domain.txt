@@ -6269,6 +6269,7 @@ neutrl.finance
 nextype.finance
 omnibtc.finance
 ondo.finance
+app.ondo.finance
 owlto.finance
 ozean.finance
 payward.finance

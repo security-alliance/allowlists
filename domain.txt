@@ -7349,6 +7349,7 @@ kleros.io
 klever.io
 therootnetwork.komi.io
 kpk.io
+docs.kpk.io
 krak.io
 krakapp.io
 krakenbank.io

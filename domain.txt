@@ -8657,6 +8657,7 @@ quant.network
 wachxbt.quillai.network
 raiin.network
 raum.network
+v1.dex.raum.network
 rayls.network
 raylz.network
 node.rcade.network

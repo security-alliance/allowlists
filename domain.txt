@@ -5687,6 +5687,7 @@ sling.design
 sui.design
 agglayer.dev
 aurora.dev
+docs.axelar.dev
 banansen.dev
 base.dev
 buildnbuild.dev

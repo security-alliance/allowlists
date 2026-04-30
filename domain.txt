@@ -5664,6 +5664,7 @@ coinbase.cz
 coinbaseprime.cz
 dealfin.cz
 google.cz
+morpho.day
 bcmtoday.de
 bitladon.de
 coinbasecloud.de

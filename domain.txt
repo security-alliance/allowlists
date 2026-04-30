@@ -8335,6 +8335,7 @@ ifexproject.net
 insuretoken.net
 io.net
 docs.io.net
+jakub-dev.net
 jsdelivr.net
 krakapp.net
 krakbank.net

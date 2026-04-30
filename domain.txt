@@ -2237,6 +2237,7 @@ nubank.com.br
 raylz.com.br
 santosfc.com.br
 coinbase.net.br
+stellar.broker
 coinbase.bs
 google.bs
 google.bt

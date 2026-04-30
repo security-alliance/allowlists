@@ -2335,6 +2335,7 @@ docs.accountable.capital
 yield.accountable.capital
 allo.capital
 blend.capital
+mainnet.blend.capital
 coinbasecard.capital
 init.capital
 kraken.capital

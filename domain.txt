@@ -9238,6 +9238,7 @@ syscoin.org
 tact-lang.org
 tamego.org
 templarfi.org
+app.templarfi.org
 forum.tezosagora.org
 thechainlinkfoundation.org
 theqrl.org

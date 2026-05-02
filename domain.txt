@@ -10521,6 +10521,7 @@ simemes.xyz
 smol.xyz
 soneium-demo.xyz
 wallet.soneium-demo.xyz
+app.sophon.xyz
 verify.sophon.xyz
 sophonnodes.xyz
 sophscan.xyz

@@ -116,6 +116,7 @@ gizaprotocol.ai
 gmgn.ai
 gmnetwork.ai
 gokite.ai
+app.gokite.ai
 docs.gokite.ai
 testnet.gokite.ai
 gonka.ai

@@ -7127,6 +7127,7 @@ cross-chain-api-zk-cronos-contracts.dev.debridge.io
 cross-chain-api-zkcronoshanoi.dev.debridge.io
 defindex.io
 defitigertoken.io
+degenland.io
 dejitarutsuka.io
 depinity.io
 deri.io

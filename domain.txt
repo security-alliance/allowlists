@@ -8525,6 +8525,7 @@ linea-ignition.brevis.network
 bsky.network
 canton.network
 casper.network
+catalysis.network
 celer.network
 celsius.network
 cere.network

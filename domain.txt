@@ -2349,6 +2349,7 @@ purp.capital
 purpa.capital
 radiant.capital
 rari.capital
+re7.capital
 usx.capital
 zeeprime.capital
 coinbase.cards

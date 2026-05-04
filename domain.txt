@@ -3698,6 +3698,7 @@ docs.ethxy.com
 main.ethxy.com
 plots.ethxy.com
 warlords.ethxy.com
+etix.com
 exchangecoinbase.com
 exmo.com
 exmoney.com

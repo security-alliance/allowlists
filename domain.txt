@@ -8491,6 +8491,7 @@ app.allora.network
 docs.allora.network
 explorer.allora.network
 testnet.explorer.allora.network
+forge.allora.network
 aqua.network
 docs.aqua.network
 arcana.network
@@ -9424,6 +9425,7 @@ coinbaseprime.ru
 coinbase.com.ru
 rutube.ru
 vc.ru
+faucet.testnet.allora.run
 google.rw
 google.com.sa
 zohoapis.sa

@@ -7303,6 +7303,7 @@ hastra.io
 havah.io
 hdoki.io
 hel.io
+moonpay.hel.io
 heli.io
 helixfi.io
 hellootaku.io

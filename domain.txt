@@ -2631,6 +2631,7 @@ futures-kraken.co
 futureskraken.co
 fx-kraken.co
 fxkraken.co
+gfme.co
 builder.gitcoin.co
 community.gitcoin.co
 explorer.gitcoin.co
